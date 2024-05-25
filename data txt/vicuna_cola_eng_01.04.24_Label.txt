@@ -1,0 +1,527 @@
+No
+Yes
+No
+Yes
+No
+Yes
+Yes 7
+Yes (comma splice)
+No
+No
+Yes
+Yes (incorrect comparison structure)
+Yes (comma splice)
+Yes (grammatical error - "more does" should be "the more")
+Yes (punctuation and pronoun agreement errors)
+Yes (subject-verb agreement error) 16 +
+Yes (comma splice)
+No
+No
+Yes (grammatical error - "could not have been" should be "couldn't have been")
+Yes (grammatical error - "can not have been" should be "couldn't have been")
+No
+No
+Yes (subject-verb agreement and pronoun agreement errors)
+No
+No 26
+No
+Yes (grammatical error - "want" should be "we want")
+No
+Yes (grammatical errors - "escaped" should be "had escaped" and "tube" should be "a tube")
+No
+No
+Yes (incorrect sentence structure)
+Yes (grammatical error - "whole bottle" is redundant, and the sentence could read "What the water did to the bottle was fill it.")
+Yes (grammatical errors - "fluid" should be "a fluid" and "free" should be "freely")
+No 36 +
+No
+Yes (grammatical error - "We persuaded Mary to leave and Sue to stay" should be "We persuaded Mary to leave and convinced Sue to stay")
+Yes (grammatical errors - "probably consider" could be rephrased as "most likely consider", "even though the courts didn't actually find" can be replaced with "despite the fact that the courts did not actually find", and "Klaus guilty of murder" should be "guilty of murder")
+Yes (grammatical error - "beautifully plays" could be rephrased as "plays beautifully")
+Yes (grammatical errors - "will immediately learn French perfectly" can be replaced with "immediately learns French perfectly", and "Clearly" is unnecessary) 41
+Yes (grammatical error - "gave to Bill a book" should be "gave a book to Bill")
+No
+No
+Yes (grammatical errors - "They represented seriously to the dean Mary as a genuine linguist" could be rephrased as "They presented Mary, who was considered a genuine linguist by the dean, in a serious manner.")
+Yes (grammatical error - "Us love they." should be "We love them.")
+No
+No
+Yes (grammatical error - "having kissed Mary" could be rephrased as "when I kissed Mary")
+Yes (grammatical errors - "Fred won't, either" can be replaced with "Fred doesn't either", and the sentence should read "I can't believe Fred won't either.") 50
+No
+Yes (grammatical error - "We wanted to invite someone, but we couldn't decide who" should be "We wanted to invite someone, but we couldn't decide on who")
+No
+Yes (grammatical errors - "Mary claimed that eating cabbage, Holly shouldn't." can be replaced with "Mary claimed that Holly shouldn't eat cabbage.")
+Yes (grammatical error - "Mary came to be introduced by the bartender and I also came to be" should be "I also came to be introduced by the bartender, like Mary did")
+No 56
+Yes (grammatical error - "Joe's neuroses bother his patrons, and Sally does too." can be replaced with "Joe's neuroses bother his patrons just as much as Sally's do.")
+No
+Yes (grammatical errors - "This is the book which Bob reviewed, and this is the one which Fred won't do it" should be "This is the book that Bob reviewed, and this is the one that Fred won't do")
+No
+Yes (grammatical error - "I know which book Mag read, and which book Bob said that you hadn't." can be replaced with "I know which book Mag read, and which book Bob said you hadn't") 61
+Yes (grammatical error - "I'm sure I would like him to eat fruit more than I would cookies" should be "I'm sure I would prefer him eating fruit over cookies.")
+No
+Yes (grammatical errors - "Fred talked about everything before Rusty did talk about something." can be replaced with "Fred talked about everything before Rusty started talking about anything")
+No
+Yes (grammatical error - "The problem perceives easily" should be "The problem is easily perceived")
+Yes (grammatical errors - "A hundred men surrounded the fort." can be replaced with "One hundred men surrounded the fort.")
+Yes (grammatical error - "We elected me" should be "They elected me")
+No
+No 70 +
+Yes (grammatical error - "He let the cats which were whining out" should be "He let the cats that had been whining go outside.")
+No
+No
+Yes (grammatical errors - "A proof that the claim had been made was given that John had lied." can be replaced with "Proof of the claim had been made, and it showed that John had lied.")
+Yes (grammatical error - "He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory" should be "He attributed the fire that destroyed most of my factory to a short circuit caused by an overloaded transducer.")
+No
+Yes (grammatical error - "I want that Bill left to remain a secret" can be replaced with "I want Bill's departure to remain a secret") 77
+Yes (grammatical error - "I know a man who Tom drives as drives" should be "I know a man whom Tom drives and he also drives")
+No
+No
+No
+No
+Yes (grammatical error - "The proof this set is recursive is difficult." can be replaced with "This set's proof that it is recursive is difficult.")
+Yes (grammatical errors - "The madrigals which Henry plays the lute and sings sound lousy" should be "The madrigals that Henry plays on the lute and sings sound terrible")
+No
+Yes (grammatical error - "Where did you go and who ate what?" can be replaced with "Where did you go, and who ate what?") 86+
+Yes (grammatical error - "Which boy's did we elect guardian's employer president?" should be "Which boys did we elect as guardians and their employers as presidents?")
+No
+No
+No
+Yes (grammatical error - "Who is she trying to make up to now?" can be replaced with "Why is she trying to make up to him now?")
+Yes (grammatical errors - "Wind was gotten of a plot" should be "The wind was blowing from the plot" and "negotiate an honorable end to the war in Vietnam." can be replaced with "negotiate an honorable conclusion to the war in Vietnam.")
+No
+Yes 94+
+Yes (grammatical error - "Which hat did Mike quip that she never wore?" should be "Which hat did Mike say that she never wore?")
+No
+No
+Yes (grammatical error - "I won't have some money" can be replaced with "I will not have any money.")
+No
+Yes (grammatical errors - "I won't ask you to believe that he tried to force me to give her any money." should be "I won't ask you to believe that he tried to force me to give it to her" and "her" can be replaced with "her money.")
+No
+Yes (grammatical error - "That Sam sometimes didn't sleep must have pleased somebody" should be "That Sam sometimes did not sleep must have pleased someone")
+Yes 103+
+Yes (grammatical error - "I'll work on it if Sam will be working on it." should be "I'll work on it if Sam is going to be working on it.")
+No
+Yes (grammatical error - "Here's a knife with which for you to cut up the onions" can be replaced with "Here's a knife for you to use to cut up the onions")
+Yes (grammatical error - "Fluffy is sick, which not everybody knows" should be "Fluffy is sick, and not everyone knows.")
+No
+Yes (grammatical errors - "The younger woman might have been tall and, and the older one definitely was, blond." can be replaced with "The younger woman might have been tall, and the older one definitely was, blonde.")
+Yes 110
+No
+Yes (grammatical error - "The socks are ready for for you to put on to be planned" can be replaced with "The socks are ready for you to put on and plan.")
+No
+Yes (grammatical error - "This violin is difficult to play sonatas on." should be "This violin is difficult to play sonatas on.")
+Yes (grammatical errors - "My mother is easy to please my father and" can be replaced with "My mother is easy to please, but my father is not so easy.")
+No
+Yes (grammatical error - "That the cops spoke to the janitor about it yesterday is terrible, that robbery" should be "It's terrible that the police spoke to the janitor about it yesterday and that there was a robbery.")
+Yes 118+
+No
+No
+Yes (grammatical error - "Nobody who hates to eat anything should work in a delicatessen" can be replaced with "Nobody who hates to eat anything should work in a deli.")
+Yes (grammatical error - "Everybody around here who ever buys anything on credit talks in his sleep" can be replaced with "Everyone around here who has ever bought anything on credit talks in their sleep.")
+No
+Yes (grammatical error - "No writer, and no playwright, meets in Vienna" should be "No writer or playwright meets in Vienna")
+No
+Yes (grammatical error - "That you will marry any student is not certain" can be replaced with "It's not certain that you will marry any student.")
+No 127+
+No
+Yes (grammatical error - "Sam gave the ball out of the basket" should be "Sam took the ball out of the basket")
+Yes (grammatical error - "Sam offered the ball out of the basket" can be replaced with "Sam offered the ball from the basket.")
+No
+No
+Yes (grammatical error - "No one can forgive that comment to you" should be "No one can forgive that comment to me")
+No
+Yes 135+
+No
+No
+Yes (grammatical error - "The farmer dumped the cart with apples" should be "The farmer dumped the cart of apples.")
+No
+No
+Yes (grammatical error - "Janet broke Bill on the finger" should be "Janet broke her finger on Bill")
+No
+No 143
+Yes
+No
+Yes
+Yes
+No
+No
+Yes 150+
+No
+Yes
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes 160+
+Yes
+No
+Yes
+No
+Yes
+Yes
+Yes
+No
+Yes 169
+No
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+No
+No
+Yes 179+
+No
+Yes
+No
+No
+Yes
+Yes
+No
+No
+No
+Yes 189
+No
+Yes
+No
+No
+No
+Yes
+No
+Yes
+Yes
+No 199+
+Yes
+No
+Yes
+Yes
+No
+Yes
+No
+Yes
+No
+No 209
+No
+Yes
+No
+Yes
+No
+No
+No
+Yes
+Yes
+Yes 219+
+Yes
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes 227+
+Yes
+No
+Yes
+Yes
+No
+No
+No
+No 235+
+No
+Yes
+Yes
+No
+No
+No
+No
+No
+No
+No 245
+No
+Yes
+Yes
+Yes
+No
+No
+No
+Yes
+No
+No
+Yes
+No 257+
+Yes
+No
+Yes
+No
+Yes
+Yes
+Yes 264
+Yes
+No
+Yes
+No
+Yes
+Yes
+Yes
+Yes 272+
+Yes
+No
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes 281
+Yes
+No
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes 291+
+Yes
+No
+No
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes 301
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+Yes 312+
+No
+Yes
+No
+No
+Yes
+Yes
+Yes
+No
+No
+Yes
+Yes
+Yes 324+
+No
+Yes
+No
+No
+Yes
+Yes
+Yes
+No
+No
+Yes
+No
+Yes 336+
+No
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Yes 345
+Yes
+No
+No
+Yes
+No
+Yes
+Yes
+No
+Yes 354+
+Yes
+No
+Yes
+Yes
+No
+No
+No
+No
+No 363+
+No
+No
+Yes
+Yes
+No
+No
+No
+No
+No 372
+No
+Yes
+No
+No
+No
+No
+No
+No
+No 381+
+No
+Yes
+No
+Yes
+Yes 386
+Yes
+No
+No
+Yes
+Yes
+No
+No
+No
+No 395+
+No
+Yes
+No
+Yes
+Yes
+Yes
+No
+No
+No 404
+No
+Yes
+No
+Yes
+Yes
+Yes
+No
+Yes
+No 413+
+No
+Yes
+Yes
+No
+No
+Yes
+No
+No 421
+No
+Yes
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes 430+
+Yes
+No
+Yes
+Yes
+Yes
+Yes 436
+Yes
+No
+No
+Yes
+Yes
+Yes
+No
+No
+Yes 445+
+Yes
+No
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes 454+
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes 463
+Yes
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes 472+
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes 481
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes 490+
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes 499
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes 508+
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes 517
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
