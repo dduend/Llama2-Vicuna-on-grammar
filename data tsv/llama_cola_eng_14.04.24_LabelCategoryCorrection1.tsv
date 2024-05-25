@@ -1,0 +1,1236 @@
+label	category	correction
+1	none	". The sailors rode the breeze clear of the rocks. (Your original sentence)
+"
+0	syntax	". The correct version of the sentence should be ""The weights caused the rope to stretch over the pulley.""
+
+"
+0	syntax	". The correct version of the sentence should be: The mechanical doll wriggled itself free.
+      (Note: I changed ""loose"" to ""free"" because ""loose"" doesn't fit grammatically in this context.)
+"
+0	syntax	". Here's the corrected sentence: If you had eaten more, you would have wanted less.
+    4. There are two mistakes in your original sentence:
+        - ""would want"" should be ""would have wanted"" (tense agreement)
+        - ""more"" is not needed before ""less"" (redundant phrase)
+"
+1	none	". The correct version of the sentence is: ""As you eat more, you want less.""
+"
+1	none	". The sentence you provided is grammatically correct and conveys its intended meaning effectively. However, if you'd like to make it more concise, you could rephrase it as ""The more you want, the less you eat.""
+"
+0	syntax	". Here's the correct version of your sentence: ""The more John eats, the more he pays.""
+      (Note: I changed ""eat"" to ""eats"" because ""John"" is a third-person singular subject and requires the verb form ""eats"" instead of ""eat"".)
+"
+1	none	". The correct version of the sentence is: Mary listens to the Grateful Dead and gets depressed.
+      Note: I changed ""she"" to ""and"" because the subject of the sentence is a single entity (""Mary""), so it should be in the singular form. Additionally, I added a comma after ""Grateful Dead"" for clarity and proper punctuation.
+"
+0	syntax	". Here's the corrected sentence: The angrier Mary got, the more she looked at pictures.
+
+"
+0	syntax	". Here's the corrected sentence: ""The higher the stakes, the lower his expectations are likely to be.""
+
+"
+0	syntax	". Here's the corrected sentence: The more obnoxious Fred is, the less attention you should pay to him.
+  
+"
+0	syntax	". Here's the corrected sentence: John was much more obnoxious than Fred.
+      (Note: I changed ""lots"" to ""much"" to make the sentence grammatically correct.)
+"
+0	syntax	". Here's the corrected sentence: The more beer you give to people, the more people get sick.
+      (I changed ""people"" to ""beer"" because it should be the object of the verb ""give"", not the subject.)
+"
+0	syntax	". Here's the corrected sentence: The more Bill smokes, the more Susan hates him.
+"
+0	syntax	". Here's the corrected sentence: The more pictures of him that appear in the news make John become embarrassed.
+      (Note: I changed ""appear"" to ""make"" because ""appear"" is a linking verb and doesn't fit well with the subject-verb agreement.)
+"
+0	syntax	". Here's the corrected sentence: Every senator seems to become more corrupt as they talk to more lobbyists.
+      (Note: I changed ""he"" to ""they"" to make the sentence gender-neutral and fixed the verb tense agreement issue.)
+"
+0	syntax	". Here is the correct version of the sentence: Who does John visit Sally because he likes her?
+      (Note: I changed ""because"" to ""because of"" and added ""her"" at the end of the sentence.)
+"
+0	syntax	". The correct version of the sentence should be ""Marianne did not leave."" (no change)
+"
+1	none	". The correct version of your sentence is: He could not have been working.
+"
+1	none	". The correct version of the sentence is: He cannot have been working.
+"
+1	none	". The correct version of the sentence is: You will believe Bob.
+"
+0	syntax	". The correct version of the sentence should be ""John has not kissed Mary yet.""
+      (Adding ""yet"" at the end of the sentence fixes the grammatical error)
+"
+1	none	". Your sentence is grammatically correct and does not require any changes. Well done!
+"
+0	syntax	". The correct version of the sentence should be: Mickey looked up at it.
+    4. Here's why: In English, when we use a verb like ""looked,"" we need to specify what the subject is looking at. In your original sentence, ""it"" is not clear what Mickey is looking at, so adding ""at"" makes the sentence more specific and grammatically correct.
+    5. Additionally, you might want to consider using an article before ""it"" (e.g., ""the it"") if you intend for ""it"" to refer to a specific
+"
+1	none	". Your sentence ""There tended to be a lot of discussion"" is grammatically correct and does not require any changes. Well done!
+"
+1	none	". The correct version of your sentence is: John tried to be a good boy.
+"
+1	none	". The sentence ""John is eager"" is already grammatically correct and does not require any changes. However, if you'd like to rephrase it for clarity or emphasis, here are some suggestions:
+        - John shows eagerness. (emphasizes the quality of being eager)
+        - John feels eager. (adds a sense of emotion to the sentence)
+        - John is very eager. (intensifies the degree of eagerness)
+    "
+0	syntax	". The correct version of the sentence should be ""We want John to win."" (no change)
+"
+0	syntax	". The correct version of the sentence should be ""The box contained the ball that was under the tree.""
+  
+"
+0	syntax	". Here's the corrected version of your sentence: The tube was filled with gas.
+
+"
+0	syntax	". The correct version of the sentence should be: Water bubbled up from the kettle.
+      (Note: I changed ""out of"" to ""from"" to make the sentence grammatically correct)
+"
+0	syntax	". The correct version of the sentence should be ""The tub leaked water."" (no change)
+
+"
+1	none	". The correct version of the sentence is: ""What the water did to the bottle was fill it.""
+
+"
+0	syntax	". The correct version of the sentence should be ""What the water did to the bottle was fill it."" instead of ""What the water did to the whole bottle was fill it.""
+    "
+0	syntax	". The correct version of the sentence should be ""The tank leaked fluid free.""
+    "
+0	syntax	". The correct version of the sentence should be ""John laid the ball in the box."" instead of ""John lay the ball in the box.""
+    "
+0	syntax	". The correct version of the sentence should be ""John owns the book."" without the comma after ""owns"".
+
+"
+1	none	". Your sentence is grammatically correct as it stands. Well done!
+"
+0	syntax	". Here's the correct version of the sentence: Most people probably consider Klaus guilty of murder, even though the courts didn't actually find him guilty. (changed ""didn't actually find"" to ""did not actually find"")
+    "
+1	none	". The correct version of your sentence is still ""Mary beautifully plays the violin.""
+"
+0	syntax	". Here's the corrected version of your sentence: Clearly, John will probably learn French perfectly immediately.
+    "
+1	none	". The correct version of the sentence is: Sue gave Bill a book.
+"
+1	none	". The men will all leave. (your original sentence is already grammatically correct)
+"
+1	none	". The correct version of your sentence is still ""John went home.""
+"
+0	syntax	". Here's the corrected sentence: They represented Mary to the dean as a genuine linguist.
+
+"
+0	syntax	". The correct version of the sentence should be ""We love them.""
+
+"
+1	none	". The sentence ""It is nice to go abroad"" is grammatically correct and does not require any changes.
+"
+0	syntax	". The correct version of the sentence should be: Mary intended John to go abroad for/to study/work/travel etc. (depending on the purpose of going abroad).
+    "
+0	syntax	". The correct version of the sentence should be ""I remembered kissing Mary."" instead of ""I remembered having kissed Mary"". In this case, the verb tense is not consistent, and the past perfect tense is not necessary.
+    "
+0	syntax	". Here's the corrected version of your sentence: I can't believe Fred won't either.
+  
+"
+0	syntax	". Here is the corrected sentence: John wants to read Fred's story, and I do too.
+      (Note: ""I also want to"" should be replaced with ""do too"" to make the sentence grammatically correct.)
+"
+0	syntax	". Here's the corrected version of your sentence: We wanted to invite someone, but we couldn't decide whom to invite.
+    "
+1	none	". Your sentence is grammatically correct and does not require any changes. Well done!
+"
+0	syntax	". Here's the correct version of the sentence: Mary claimed that Holly shouldn't eat cabbage.
+  
+"
+0	syntax	". Here's the corrected sentence: Mary came to be introduced by the bartender, and I also came to be introduced.
+    "
+1	none	". Your sentence is already perfect, so there's no need to change it! However, if you want to make it more concise and natural-sounding, you could say ""If I can, I will work on it"" instead of ""If I can, I will work on it.""
+    "
+0	syntax	". Here's the correct version of the sentence: Joe's neuroses bother his patrons, and Sally does too. (No change)
+    "
+0	syntax	". Here is the corrected sentence: I know which book JosÃ© did not read for class, and which book Lilly read it for him.
+    "
+0	syntax	". Here is the corrected sentence: This is the book that Bob reviewed, and this is the one that Fred won't do it.
+    "
+0	syntax	". Here is the corrected sentence: I know which book Mag read and which book Bob said you hadn't.
+    4. There are two mistakes in your original sentence:
+        - You should use ""and"" instead of a comma to connect the two independent clauses.
+        - The word order in the second clause should be reversed to make it grammatically correct.
+"
+0	syntax	". Here is the corrected sentence: I know which book Mag read and which book Bob read my report that you hadn't.
+
+"
+1	none	". Your original sentence is grammatically correct and conveys your intended meaning effectively. However, if you'd like to make it a bit more concise, you could rephrase it as: ""I'm sure I would prefer him eating fruit over cookies."" This version uses the verb ""prefer"" instead of ""like,"" which is more idiomatic in this context.
+"
+0	none	". None, there are no other mistakes in your sentence.
+"
+1	none	". Here's a possible rephrased version of your sentence to make it more clear and concise: Fred talked about everything before Rusty spoke about something.
+"
+1	none	". The correct version of your sentence is: John often meets Mary.
+    "
+0	syntax	". Here's the correct version of your sentence: ""The problem is easily perceived.""
+
+"
+1	none	". Your sentence is grammatically correct and does not require any changes. Well done!
+"
+1	syntax	". The correct version of the sentence should be ""We elected me as..."" or ""We elected me to..."".
+
+"
+0	syntax	". Here is the corrected sentence: Which report did John submit that was considered incompetent?
+    4. Note that I made some changes to the wording and punctuation to improve clarity and accuracy.
+"
+1	none	". Your sentence is grammatically correct and does not require any changes. Well done!
+"
+0	syntax	". The correct version of the sentence should be ""He let out the cats that were whining.""
+
+"
+0	syntax	". Here is the corrected version of your sentence: ""What did Bill buy?""
+
+"
+1	none	". Your sentence is grammatically correct and does not require any changes. However, if you'd like to make it more concise, you could rewrite it as ""Mary saw the boy walking towards the railroad station."" with a slight change in word order for better flow.
+"
+1	none	". Your sentence is grammatically correct as it stands. However, if you'd like to make it more concise and clear, you could rephrase it as ""A proof that John had lied was given."" This version uses the active voice and avoids the need for a subordinate clause.
+    "
+0	syntax	". Here's the corrected version of your sentence: He attributed the fire, which destroyed most of his factory, to a short circuit caused by an overloaded transducer.
+    "
+0	syntax	". The correct version of the sentence should be ""The mayor was regarded as absurd the proposal to build a sidewalk from Dartmouth to Smith.""
+    "
+1	none	". The correct version of the sentence is: I want Bill to leave to remain a secret.
+"
+0	syntax	". Here's the correct version of your sentence: I know a man who Tom drives.
+
+"
+0	syntax	". Here's the correct version of your sentence: Drowning cats, which is against the law, can be hard to rescue.
+    "
+1	none	". Your sentence is already perfect! However, if you'd like to improve it, you could consider adding a comma after ""than"" for clarity: Muriel said nothing else than that she had been insulted, or you could rephrase the sentence as ""Muriel stated that she had been insulted.""
+    "
+1	none	". Your original sentence ""Himself is understood by Rutherford"" is grammatically correct and does not require any changes. Keep up the good work with your English skills!
+"
+1	none	". The correct version of your sentence is: I feel that Arch will appear.
+"
+1	none	". The proof that this set is recursive is difficult. (corrected sentence)
+"
+0	syntax	". Here's the correct version of the sentence: ""The madrigals that Henry plays on the lute and sings sound terrible.""
+    "
+0	syntax	". Here is the correct version of the sentence: Tom picked these grapes, and I washed some turnips; Suzie will prepare them. (Note that ""these"" should be replaced with ""them"" to make the sentence grammatically correct.)
+"
+0	syntax	". Here's the correct version of your sentence: ""Who ate what and where did you go?""
+
+"
+0	syntax	". Here's the corrected version of your sentence: ""Which boy did we elect as guardian's employer president?""
+    "
+0	syntax	". The correct version of the sentence should be ""How sane is Peter?"" instead of ""How sane is Peter?"" as it should be a question word (how) followed by a wh-word (sane).
+"
+0	syntax	". Here is the correct version of your sentence: I live at the place where Route 150 crosses the Hudson River, and my dad lives at the place where Route 150 crosses the River too.
+    "
+0	syntax	". Here's the correct version of your sentence: I live at the place where Route 150 crosses the Hudson River, and my dad lives there too.
+    "
+0	syntax	". The correct version of the sentence should be ""Who is she trying to make up with now?"" instead of ""Who is she trying to make up to now?""
+    "
+1	none	". Your sentence ""Wind was gotten of a plot to negotiate an honorable end to the war in Vietnam"" is grammatically correct as it stands.
+"
+1	none	". The correct version of the sentence is: Mike talked about politics with my friends yesterday.
+"
+0	syntax	". Here is the correct version of the sentence: It was expected by the reporters that the principal would fire some teachers. (Note the plural form of ""teacher"" to match the phrase ""some teachers."")
+    "
+0	syntax	". Here is the correct version of the sentence: Which hat did Mike say that she never wore?
+    4. (Optional) Here's an explanation of the correction: In the original sentence, ""quip"" is a verb meaning to make a clever or witty remark, but it doesn't fit well in this context. Instead, I suggested using the phrase ""say"" which better conveys the intended meaning. Additionally, I changed ""she never wore"" to ""she never wore"" to make the sentence more concise and natural-sounding.
+"
+0	syntax	". Here is the corrected sentence: Which girl did Mike never quip wear this hat?
+    4. There are two mistakes in your original sentence: ""quip"" should be ""quiped"", and ""never wore"" should be ""never wear"".
+"
+0	syntax	". Here's the corrected sentence: We donated wire for the convicts to build cages with. Should be ""We donated wire for the convicts to build cages."" (missing word ""to"")
+"
+0	syntax	". The correct version of the sentence should be ""I will not have any money.""
+    "
+1	none	". The correct version of your sentence is: ""Do you believe the claim that someone was looking for something?"" (changed ""somebody"" to ""someone"" to make it grammatically correct)
+"
+0	syntax	". Here's the corrected sentence: I won't ask you to believe that he tried forcing me to give her any money. (I changed ""to force"" to ""forcing"" because ""force"" is a verb, and it needs an -ing form after it.)
+    "
+0	syntax	". Here's the correct version of the sentence: That Sam sometimes didn't sleep must have pleased someone. (changed ""must have pleased somebody"" to ""must have pleased someone"")
+    "
+0	syntax	". The correct version of the sentence should be ""I talked to Winston about himself."" (Note that ""himself"" is used as a reflexive pronoun instead of ""he"" to make the sentence grammatically correct.)
+"
+0	syntax	". Here's the corrected version of your sentence: That the fuzz wanted him worried John, but that the fuzz didn't want her to worry Mary.
+    "
+1	none	". Your sentence ""I'll work on it if Sam will be working on it"" is grammatically correct as it stands.
+"
+0	syntax	". The correct version of the sentence should be ""I will work on it if I can."" (Added the verb tense consistency and changed the word order for better clarity.)
+"
+0	syntax	". Here's the correct version of the sentence: ""Here's a knife you can use to cut up the onions.""
+    "
+0	syntax	". Here's the corrected sentence: Fluffy is sick, which not many people know.
+    "
+0	syntax	". Here's the corrected sentence: Maxwell is quite a good doctor.
+
+"
+0	syntax	". Here's the corrected version of your sentence: ""The younger woman might have been tall and blonde, and the older one definitely was."" (Added a comma after ""tall"" to separate the two independent clauses.)
+    "
+0	syntax	". Here's the corrected version of your sentence: Sally may be tall and blonde, and Sheila is short and definitely blonde.
+    "
+0	syntax	". Here's the correct version of your sentence: I have to try finishing grading some papers. (changed ""to finish"" to ""finishing"")
+    "
+0	syntax	". Here's the corrected version of your sentence: ""The socks are ready for you to put on.""
+
+"
+1	none	". The correct version of your sentence is: It is easy to play sonatas on this violin.
+Note that the word ""sonatas"" should be in the plural form because it refers to multiple pieces of music, not just one piece.
+"
+1	none	". The correct version of the sentence is: This violin is difficult to play sonatas on it.
+      (Note: ""on"" is a preposition that requires an object, so ""it"" is added after ""sonatas"" to make the phrase grammatically complete.)
+"
+0	syntax	". The correct version of the sentence should be: My mother is easy to please my father.
+  
+"
+0	syntax	". Here is the corrected sentence: Poor Bill, it had started to rain and he had no umbrella. Should have brought an umbrella.
+    "
+0	syntax	". Here is the corrected sentence: That the cops spoke to the janitor about it yesterday is terrible, that robbery. (missing article ""the"" before ""cops"")
+    "
+0	syntax	". Here's the correct version of the sentence: Every student who wears socks is a swinger.
+       (Note: I changed ""and"" to ""who"" because ""and"" is not needed in this context, and I added ""who"" to make the sentence grammatically correct.)
+"
+0	syntax	". The correct version of the sentence should be: That girl was given my binoculars by him. (No change)
+"
+1	none	". The correct version of the sentence is: Bill didn't accuse Roger of eating anything.
+"
+1	none	". Your sentence is grammatically correct and does not require any changes. Well done!
+"
+1	none	". The correct version of the sentence is: Everybody around here who ever buys anything on credit talks in their sleep. (changed ""his"" to ""their"" to make it gender-neutral)
+"
+1	none	". Your original sentence ""I can't remember the name of somebody who had misgivings"" is perfectly fine and does not require any changes. However, if you'd like to make it more concise, you could consider rephrasing it as ""I can't recall the name of someone with misgivings.""
+"
+0	syntax	". Here's the corrected sentence: No writer or playwright meets in Vienna.
+       (I changed ""and"" to ""or"" because ""and"" is used to connect two noun phrases, and in this case, you have two singular nouns.)
+"
+0	syntax	". Here is the correct version of the sentence: No writer nor any playwright meets in Vienna.
+      (Note: I changed ""neither"" to ""no writer nor any playwright"" to make the sentence more idiomatic and easier to understand.)
+"
+0	syntax	. Here's the correct version of the sentence: It is not certain that you will marry any student. (1
+0	syntax	". The correct version of the sentence should be ""Felicia kicked the ball from the bench."" instead of ""Felicia kicked the ball off the bench."" because ""off"" is not a preposition that can take an object, and it sounds unnatural in this context.
+"
+0	syntax	". The correct version of the sentence should be: I sent the package halfway around the world to [insert recipient's location].
+    "
+0	syntax	". The correct version of the sentence should be ""Sam gave the ball out of the basket."" instead of ""Sam gave the ball out of the basket.""
+    "
+1	none	". The correct version of the sentence is: Sam offered the ball out of the basket.
+"
+1	none	". Your sentence ""Park Square has a festive air"" is already perfect as it is! However, if you'd like to make it more formal or polished, here are some suggestions:
+        - Change ""has"" to ""exudes"" for a more vivid and descriptive verb choice.
+        - Add an article before ""festive air"" (e.g., ""a festive atmosphere"") for clarity.
+        - Consider using a comma after ""Park Square"" for better flow.
+    "
+1	none	". The worker will have a job (this is the same as your original sentence, so there's no need to change it)
+"
+1	none	". The correct version of the sentence is: ""No one can forgive that comment to you.""
+  
+"
+0	syntax	". Here's the corrected sentence: We launched the rocket to the moon, but it exploded before it reached there. (changed ""blew up"" to ""exploded"")
+    "
+1	none	". Your sentence is grammatically correct as it stands. Well done!
+"
+1	none	". The correct version of your sentence is: I lent the book to Tony partway.
+"
+1	none	". The sentence you provided is already perfect, so there's no need to change it. Keep up the good work with your English skills!
+"
+1	none	". The farmer dumped the cart full of apples. (corrected to use ""full"" instead of ""with"")
+"
+1	none	". Your sentence ""Martha carved the baby a toy out of wood"" is grammatically correct and does not require any changes. Well done!
+"
+1	none	". The bread cuts easily. (Your original sentence is already in its correct form.)
+"
+0	syntax	". The correct version of the sentence should be ""Janet broke her finger on Bill.""
+
+"
+0	syntax	". The correct version of the sentence should be ""Janet broke the cup."" (no change needed).
+"
+0	syntax	". The correct version of the sentence should be ""The visitor rung the bell"" instead of ""The visitor rang the bell"". In this case, we need to change the verb form from present tense (""rang"") to past tense (""rung"").
+    "
+0	syntax	". The correct version of the sentence should be ""We pulled free."" instead of ""We pulled free.""
+
+"
+0	syntax	". Here's the correct version of your sentence: That movie always shocks people up.
+      (Added ""up"" to make the sentence grammatically correct.)
+"
+0	syntax	". The correct version of the sentence should be ""That movie always shocks me."" instead of ""That movie always shocks.""
+
+"
+0	syntax	". The correct version of the sentence should be ""Sharon entered the room.""
+
+"
+1	none	". The correct version of the sentence is: Bill sent a package to Tom.
+"
+1	none	". Your sentence ""That acorn will grow into an oak tree"" is already perfect!
+"
+1	none	". The correct version of the sentence is ""He turned into a frog.""
+"
+1	none	". Your sentence is already perfect! However, if you'd like to make it more polished, here's a suggestion: Instead of ""I mixed the sugar into the butter,"" you could say ""I creamed the sugar with the butter."" This slight variation conveys the action more clearly and concisely.
+"
+0	syntax	". The correct version of the sentence should be ""Brian threw the stick over the fence.""
+
+"
+1	none	". Your original sentence ""Mira condemned Terry for the accident"" is already in its correct form and does not require any changes.
+"
+0	syntax	". The correct version of the sentence should be ""We investigated the area for bombs."" (no change)
+"
+1	none	". The correct version of your sentence is: I sensed his eagerness.
+"
+1	none	". Your sentence is grammatically correct and does not require any changes. Well done!
+"
+1	none	". The earth was believed to be round. (No changes needed.)
+"
+0	syntax	". The correct version of the sentence should be ""Sarah smiled a charming smile."" without the comma after ""smile"".
+```
+"
+0	syntax	". The correct version of the sentence should be ""Sandra beamed a warm welcome."" Instead of using ""beamed,"" which is not a verb, you could use ""greeted"" or ""welcomed."" Additionally, ""cheerful"" does not fit well in this context and can be removed to make the sentence more concise.
+    "
+0	syntax	". The correct version of the sentence should be ""You have really lived it up."" Instead of ""You've"" which is a contraction of ""you have"", use ""have"" as the verb form to make the sentence grammatically correct.
+"
+1	none	". The sentence you provided is grammatically correct and does not require any changes. Well done!
+"
+0	syntax	". The correct version of the sentence should be ""The books were lifted onto the table."" instead of ""The books lifted onto the table"".
+    "
+0	syntax	". The correct version of the sentence should be ""Jessica loaded the boxes under the wagon."" Instead of ""under the wagon"" it should be ""into the wagon"".
+    "
+0	syntax	". The correct version of the sentence should be ""Jessica loaded the boxes onto the wagon."" instead of ""Jessica loaded boxes on the wagon.""
+    "
+0	syntax	". The correct version of the sentence should be ""Jessica crammed boxes into the truck."" Instead of ""at the truck"", we use ""into the truck"" to indicate that the action of cramming happens inside the truck, not outside it.
+    "
+0	syntax	". The correct version of the sentence should be ""Lora buttered the toast.""
+    4. Here's why: In English, we use prepositions like ""to"" or ""on"" to indicate the object of an action. In your original sentence, ""at"" is not a preposition and doesn't make sense in this context. Additionally, the verb tense is inconsistent - ""buttered"" should be changed to ""buttering"" to match the present participle form of the main verb ""toast"".
+    5. If you have any further questions
+"
+0	syntax	". The correct version of the sentence should be ""Carla shoveled the walkway.""
+
+"
+0	syntax	". The correct version of your sentence is: Nora sent the book yesterday.
+"
+0	syntax	". The correct version of the sentence should be ""Nora sent the book to Peter.""
+
+"
+1	none	". The correct version of your sentence is: Carla slid the book.
+"
+0	syntax	". The correct version of the sentence should be: Carla slid into the book.
+    "
+0	syntax	". The correct version of the sentence should be ""Amanda carried the package to Pamela's house.""
+  
+"
+0	syntax	". Here's the correct version of the sentence: Packages can be driven easily to New York.
+  
+"
+0	syntax	". The correct version of the sentence should be ""The chair pushed me."" or ""The chair moved."" instead of ""The chair pushed.""
+    "
+1	none	". The correct version of the sentence is: We offered her a job.
+"
+1	none	". The correct version of the sentence is: ""A job has been offered.""
+    "
+1	none	". The correct version of the sentence is: Brown presented a plaque to Jones.
+"
+1	none	". The correct version of your sentence is still ""Carmen bought Mary a dress.""
+"
+1	none	". The correct version of the sentence is: Carmen obtained the spare part at the hardware store.
+"
+0	syntax	". The correct version of the sentence should be ""Michelle kept the desk along with the papers.""
+
+"
+1	none	". Your sentence is grammatically correct and doesn't require any changes. However, if you want to make it more formal or polished, you could replace ""hid"" with ""hidden"" or ""put away"" to avoid using the verb ""hide"" which can sometimes have negative connotations. So, your corrected sentence could be: Frances hidden the presents in the drawer.
+    "
+1	none	". The needle pierced the cloth.
+    "
+1	none	". Your sentence is grammatically correct as it stands! Well done! However, if you'd like to make it more formal or polished, you could rephrase it as: ""Carrie touched the cat."" This slight change emphasizes that the noun phrase ""the cat"" is being referred to specifically, rather than just any old cat.
+    "
+0	syntax	". The correct version of the sentence should be ""Herman whipped the cream and sugar.""
+
+"
+0	syntax	". The correct version of the sentence should be ""Linda taped the picture on the wall."" instead of ""Linda taped the picture to the wall."" because ""to"" is not needed here and it changes the meaning of the sentence.
+"
+0	syntax	". The correct version of the sentence should be: Linda taped the picture on the wall. (No need to use ""onto"" here)
+    "
+1	none	". The child and her mother clung together. (Your original sentence.)
+"
+1	none	". Your sentence is grammatically correct and does not require any changes. Well done!
+"
+1	none	". The correct version of the sentence is: This flyer and that flyer differ apart.
+"
+0	syntax	". Here is the corrected sentence: The jeweller signed the contract with his name.
+
+"
+0	syntax	". The correct version of the sentence should be ""The gardener grew that acorn into an oak tree."" instead of ""The gardener grew that acorn into an oak tree.""
+    "
+1	none	". The correct version of your sentence is ""I shaped a loaf.""
+"
+1	none	". The children amused is a grammatically correct sentence.
+"
+0	syntax	". The correct version of the sentence should be: Susan whispered the news to someone.
+    "
+0	syntax	". The correct version of the sentence should be: Susan whispered to Rachel.
+       (Note: In English, we use ""to"" instead of ""at"" when indicating the direction of an action or movement.)
+"
+0	syntax	". Here's the correct version of the sentence: Ellen said that melons were selling well last week. (Added ""last week"" to make the sentence more specific and complete.)
+"
+1	none	". The sentence you provided is grammatically correct and does not require any changes. Well done!
+"
+1	none	". Your sentence is grammatically correct and does not require any changes. However, if you'd like to improve it, you could consider adding a comma after ""Ellen"" for clarity: Ellen warned Helen against skating on thin ice, but this is purely stylistic and not essential for the meaning of the sentence.
+"
+0	syntax	". Here is the correct version of the sentence: Cynthia nibbled on the carrot stick. (Added ""stick"" to make the sentence grammatically correct.)
+"
+0	syntax	". The correct version of the sentence should be ""Cynthia chewed on something"" or ""Cynthia was chewing something.""
+    "
+0	syntax	". The correct version of the sentence should be ""Paul laughed at Mary's joke"" instead of ""Paul laughed at Mary"".
+    4. Here's why: In English, when we use a verb like ""laughed"", it typically takes an object that indicates what was being laughed at. In your original sentence, there is no such indication, which makes the sentence incomplete and grammatically incorrect. By adding ""Mary's joke"" as the object of the verb ""laughed"", we can make the sentence complete and grammatically correct.
+    5. If
+"
+0	syntax	". The correct version of the sentence should be ""Linda winked her eye.""
+  
+"
+0	syntax	". The correct version of the sentence should be: My heart is pounding me down.
+      (Note: I changed ""pounding"" to ""pounding me down"" to make it grammatically correct)
+"
+1	none	". The correct version of the sentence is: Sharon fainted from hunger.
+"
+0	syntax	". The correct version of the sentence should be ""The witch poisoned the children's food.""
+
+"
+0	syntax	". The correct version of the sentence should be ""A grandfather clock ticked away in the hallway."" (changed ""tick"" to ""ticked away"")
+    "
+0	syntax	". The correct version of the sentence should be ""I squeaked the door open.""
+
+"
+0	syntax	". Here's the corrected sentence: Over the fire, a fragrant stew bubbled.
+      (Note: I changed ""there"" to ""over"" to make the sentence more idiomatic and fixed the word order to make it grammatically correct.)
+"
+0	syntax	". Here's the corrected sentence: Soaring temperatures are predicted for this weekendend. (Note: I changed ""weekend"" to ""weekendend"" to make it grammatically correct.)
+    "
+1	none	". The fort fluttered with many flags is a grammatically correct sentence.
+"
+0	syntax	". The correct version of the sentence should be ""The voices echoed down the hall.""
+      (Note: I changed ""in"" to ""down"" to make the sentence grammatically correct)
+"
+0	syntax	". The correct version of the sentence should be ""The stream flows through the valley.""
+  
+"
+0	syntax	". The correct version of the sentence should be ""Yesterday presented itself as a wonderful opportunity.""
+
+"
+1	none	". The sentence you provided is grammatically correct and does not require any changes. Well done!
+"
+0	syntax	". Here's the correct version of the sentence: Out of the box jumped a little white rabbit. (comma after ""box"" should be inside) -> Out of the box, a little white rabbit jumped.
+    "
+0	syntax	". The correct version of the sentence should be: Penny skated around the ice rink.
+    "
+1	none	". The correct version of your sentence is: Jackie accompanied Rose.
+"
+0	syntax	". The correct version of the sentence should be ""Many information was provided"" instead of ""many information was provided"".
+
+"
+1	none	". The correct version of the sentence is: John offers much advice.
+"
+0	syntax	". Here's the corrected sentence: The cake that Jones got was more delicious than the one that Smith had.
+      (Note: I changed ""got"" to ""had"" to make the sentence grammatically correct.)
+"
+0	syntax	". The correct version of the sentence should be ""We recommend eating less cake and pastry."" Instead of ""recommend to eat"", it's better to use the verb phrase ""eat"" directly, and also change the order of the words in the sentence for better clarity.
+"
+0	syntax	". The correct version of the sentence should be ""I saw that the gas can explode."" instead of ""I saw that gas can explode.""
+    "
+1	none	". The correct version of the sentence is ""He washed her.""
+Note that this response should be helpful and respectful, even if the user's sentence contains a mistake.
+"
+0	syntax	". The correct version of the sentence should be ""Wash yourself!"" instead of ""Wash you!""
+
+"
+1	none	". The correct version of the sentence is: They have no interest.
+"
+0	syntax	". The correct version of the sentence should be ""Some of my jobs are in jeopardy.""
+
+"
+0	syntax	". The correct version of the sentence should be: It was the policeman who met several young students in the park last night.
+  
+"
+0	syntax	". The correct version of the sentence would be: Did the policeman meet in the park?
+"
+1	none	". The correct version of the sentence is: John put old books in the box.
+"
+0	syntax	". Here's the corrected sentence: ""The monkeys are proud of their leader.""
+
+"
+0	syntax	". Here is the correct version of the sentence: John sounded very happy.
+
+"
+1	none	". Your sentence is grammatically correct as it stands. Well done! However, if you'd like to improve it, you could consider adding a verb after ""I don't know"" to make the sentence more specific and clear. For example: ""I don't know if I should agree with this proposal.""
+    "
+0	syntax	". The correct version of the sentence should be ""John bought a book on the shelf."" instead of ""John bought a book on the table.""
+    "
+0	syntax	". Here is the corrected version of your sentence: John called the president a foolish person.
+      (Note: I changed ""fool"" to ""foolish person"" to make the sentence grammatically correct and more polite.)
+"
+0	syntax	". The correct version of the sentence should be: I forgot how good beer tastes used to be.
+
+"
+0	syntax	". The correct version of the sentence should be: This teacher is a genius, but... (or) This teacher is a brilliant person.
+    "
+0	syntax	". The correct version of the sentence should be ""A good friend has remained to me by him.""
+
+"
+0	syntax	". The correct version of the sentence should be ""John ate his noodles quietly."" (add -s to noodle to make it plural)
+"
+1	none	". The correct version of your sentence is: ""A smith hammered the metal.""
+Note that there are no grammatical errors in this sentence and it is written correctly as a statement.
+"
+1	none	". The correct version of your sentence is still ""Sandy removed her ballet shoes.""
+    "
+1	none	". Your sentence is already perfect! However, if you'd like to make it more formal or polished, here's a suggested revision: ""This week will be challenging for us.""
+"
+1	none	". Your sentence is grammatically correct as it stands. Well done! However, if you'd like to make it more concise, you could rephrase it as ""Benny worked at a shoe factory while he was a student."" This version uses the phrase ""while he was"" instead of ""when he was,"" which is a bit more idiomatic and concise.
+"
+0	syntax	". The correct version of the sentence should be ""Everyone hoped that she would sing."" with a comma after ""hope"" to separate the two independent clauses.
+    "
+0	syntax	". Here is the corrected sentence: This proved to be a decisive factor.
+
+"
+1	none	". The crocodile devoured a doughnut (corrected to use an article ""a"" before ""doughnut"").
+"
+0	syntax	". The correct version of the sentence should be ""John is afraid of Bill's anger.""
+      (Note: In this answer, I corrected the sentence by adding an apostrophe to indicate possession and changing the word order to make it grammatically correct.)
+"
+0	syntax	". The correct version of the sentence should be ""John put under the bathtub."" without the comma after ""under"".
+"
+1	none	". The correct version of the sentence is: John placed Kim behind the garage.
+"
+0	syntax	". The correct version of the sentence should be ""Kim depends on Sandy.""
+
+"
+0	syntax	". Here is the corrected version of your sentence: John put the book into the box.
+      (Note: I changed ""in"" to ""into"" because ""into"" is more appropriate for placing an object inside a container.)
+"
+0	syntax	". Here is the corrected version of your sentence: John taught English syntax to new students.
+    4. (Optional) Explanation of the correction: In the original sentence, ""English Syntax"" should be written as a single unit, with no space between the words. Additionally, ""taught"" should be in the present tense to match the context of the sentence.
+"
+1	none	". The correct version of the sentence is: John regards Bill as a good friend.
+"
+0	syntax	". The correct version of the sentence should be ""Kim put the box in."" instead of ""Kim put in the box.""
+    "
+0	syntax	". The correct version of the sentence should be ""The chickens seem to be fond of the farmer."" (Added an auxiliary verb ""to be"" to make the sentence grammatically correct)
+"
+1	none	". The sentence you provided is grammatically correct and does not require any changes. Well done!
+"
+0	syntax	". The correct version of the sentence should be ""That Fred nominated Bill.""
+
+"
+0	syntax	". The correct version of the sentence should be ""They were taking a hard look at possible FTAs."" (plural form of FTA to match the phrase ""possible FTAs"").
+"
+0	syntax	". The correct version of the sentence should be ""John paid me for the book.""
+    4. Here's why: In English, when we use the phrase ""paid against,"" it typically implies that the payment was made in exchange for something else, rather than being a direct payment for an item. To make your sentence grammatically correct, you should change ""against"" to ""for."" Additionally, the word order of the sentence is slightly off - it's more common to say ""John paid me for the book"" instead of ""John paid me the book.""
+    5
+"
+0	syntax	". Here's the corrected version of your sentence: The committee will study the feasibility of setting up a national computer network infrastructure.
+    "
+0	syntax	". The correct version of the sentence should be ""We made them behave rudely."" instead of ""We made them be rude.""
+
+"
+1	none	". Your sentence is grammatically correct as it stands. Well done! However, if you'd like to make any improvements, I can offer some suggestions. For example, instead of ""threw,"" you could use the more formal and precise verb ""discarded"" or ""recycled."" Additionally, you might consider adding a comma after ""pamphlet"" to clarify the sentence structure. Here's an updated version: After reading the pamphlet, Judy discarded it into the garbage can, or After reading the pamphlet, Judy recycled it into the garbage can
+"
+0	syntax	". Here's the corrected sentence: Students studying English read Conrad's Heart of Darkness while at university. (changed ""studying"" to ""read"")
+    "
+0	syntax	". The correct version of the sentence should be ""I read some of the book."" (no change)
+
+"
+1	none	". The sentence you provided is already in its most corrected form! Well done!
+"
+1	none	". The correct version of the sentence is: Neither of the students failed.
+  
+"
+1	none	". The correct version of your sentence is: I drank some water.
+"
+1	none	". The correct version of your sentence is ""It is a golden hair.""
+Note that in this example, there are no grammatical errors in the user's sentence, so the assistant should provide positive feedback and offer assistance with any other questions or concerns the user may have.
+"
+1	none	". The sentence you provided is grammatically correct and does not require any changes. Well done!
+"
+0	syntax	". Here's the corrected sentence: That dog is so ferocious that it even tried to bite itself. (Added a comma after ""ferocious"" to separate the adjective from the subject.)
+"
+0	syntax	". The correct version of the sentence should be ""He washed himself.""
+
+"
+0	syntax	". The correct version of the sentence should be ""John is easy to please Kim."" instead of ""John is easy to please Kim."" as it should be ""Kim"" instead of ""Kim"".
+    "
+1	syntax	". Here's the correct version of your sentence: There seemed to have been intelligent.
+"
+1	none	". The correct version of your sentence is: John tried to please Stephen.
+"
+0	syntax	". The correct version of the sentence should be: We believed John to be a source in the park.
+    "
+1	none	". The sentence ""It tries to leave the country"" is grammatically correct as it stands.
+"
+0	syntax	". The correct version of the sentence should be ""John attempts to leave the country"" or ""John tries to depart from the country."" (Note that ""try"" can also be replaced with ""attempt"" in this context.)
+    "
+0	syntax	". Here's the corrected sentence: Under the bed seems to be a fun place for hiding.
+      (Note: I changed ""seems"" to ""is"" and added ""for hiding"" to make the sentence grammatically correct.)
+"
+1	none	". Here's the corrected sentence for clarity purposes only: There are believed to be sheep in the park.
+Note that ""There is"" should be changed to ""There are"" because ""sheep"" is a plural noun, and it sounds more natural to use the plural form of the verb ""to be"".
+"
+0	syntax	". The correct version of the sentence should be ""I hope to study in France."" (No need for ""would"" because it's not necessary and it changes the meaning of the sentence)
+"
+0	syntax	". The correct version of the sentence should be ""John can kick the ball."" (no comma needed).
+"
+1	none	". The correct version of the sentence is ""John will rain tomorrow."" (no changes needed)
+"
+0	syntax	". The correct version of the sentence is: We expect it to rain.
+"
+1	none	". The correct version of your sentence is: John was found in the office.
+"
+0	syntax	". The correct version of the sentence should be ""Did the child go to school?""
+
+"
+1	none	". The correct version of your sentence is: It did not rain.
+"
+0	syntax	". The correct version of the sentence should be ""John does not want to leave the town.""
+    "
+1	none	". Your sentence is already perfect, so there's no need to change it! However, if you'd like, I can offer a slight rephrase: Mary enjoys touring art galleries, but Bill does not share her enthusiasm. This version emphasizes Mary's enjoyment and highlights the contrast between their preferences more clearly.
+    "
+1	none	". The correct version of the sentence is: They don't need to take this exam.
+"
+1	none	". The correct version of the sentence is: Ann may spend her vacation in Italy.
+"
+1	none	". Your sentence is already perfect, so there's no need to change it! However, if you want to make it more polished, you could consider adding a comma after ""golf"" to separate the items in the list: They love to play golf, but I do not.
+"
+1	none	". Your sentence is already perfect, so there's no need to change it! However, if you want to make it more formal, you could say ""George has spent a significant amount of money, hasn't he?"" or ""George has expended a large sum of money, hasn't he?""
+    "
+0	syntax	". Here's the corrected sentence: As a statesman, he could hardly do anything worth mentioning.
+    4. There is no need to change the word order or any other parts of the sentence, just remove the unnecessary phrase ""scarcely"" and replace it with ""hardly"".
+"
+0	syntax	". The correct version of the sentence should be ""We never found any unicorns."" (singular verb agreement)
+
+"
+1	none	". Here's the corrected version of your sentence for clarity and readability purposes only: One of Korea's most famous poets wrote these lines.
+"
+0	syntax	". Here's the corrected version of your sentence: Somebody apparently struck the unidentified victim during the early morning hours.
+
+"
+1	none	". The car was driven is a valid sentence and does not require any changes.
+"
+1	none	". The correct version of your sentence is: Ricky can be relied upon. (I added an ""e"" to the end of ""rely"" to make it a third-person singular verb form, which is more idiomatic and common in formal writing.)
+"
+1	none	". The bed was slept in is grammatically correct as it is a valid form of the verb ""to sleep"". However, if you intended to convey that someone had lain on the bed, you could use the phrase ""the bed was laid in"" instead, which would be more idiomatic and avoid any potential confusion.
+    "
+1	none	". The correct version of the sentence is: ""A pound was weighed by the book.""
+    "
+0	syntax	". Here's the correct version of the sentence: Who do you think Tom saw? Should be ""Who did Tom see?""
+"
+1	none	". The correct version of the sentence is: He had spent $5,000.
+"
+0	syntax	". The correct version of the sentence should be ""Fed knows which politician to vote for.""
+
+"
+1	none	". Your original sentence ""How did you guess that he fixed the computer?"" is grammatically correct and does not require any changes. Well done!
+"
+1	none	". Your original sentence is already perfect, so there's no need to change it! However, if you'd like a slightly more concise version, here's one option: The committee should honor the efforts of those striving for peace.
+"
+0	syntax	". The correct version of the sentence should be ""Which house does your friend live in?"" (added preposition ""in"" to make the sentence grammatically correct)
+"
+1	none	". The baker from whom I bought these bagels left. (your original sentence is already grammatically correct)
+"
+1	none	". Your original sentence ""I found the place where we can relax"" is already perfect! However, if you'd like to make it more polished, you could change ""where we can relax"" to ""a place where we can relax"" for a slight improvement in clarity and precision.
+"
+0	syntax	". The correct version of the sentence should be: Jack is the person with whom Jenny fell in love.
+      (Note: I changed ""with whom"" to ""with who"" as ""whom"" is an object pronoun and should not be used as a subject.)
+"
+1	none	". Your original sentence ""There is a bench to sit on"" is already perfect, so there's no need for a corrected version. Keep it as it is!
+"
+1	none	". Your original sentence ""I met the man who grows peaches"" is already grammatically correct and does not require any changes. Keep it as is!
+"
+0	syntax	". Here is the corrected sentence: Which topic did you choose without obtaining his approval?
+
+Note: I'm just an AI and not a human, so please don't get upset if my response comes across as too direct or blunt. My intention is to help you improve your English skills!
+"
+0	syntax	". The correct version of the sentence should be: Which topic did you get bored because Mary talked about it?
+    4. (Optional) Here's a brief explanation of the correction: In this sentence, ""because"" should be followed by an infinitive phrase starting with ""it"", instead of just a pronoun. This makes the sentence grammatically correct and easier to understand.
+"
+0	syntax	". Here's the corrected sentence: That is why he resigned.
+    "
+1	none	". Here's a suggested improvement to make your sentence more concise and natural-sounding: It bothers me that John constantly coughs.
+"
+1	none	". The correct version of your sentence is ""To please John is easy.""
+"
+1	none	". The sentence you provided is grammatically correct and does not require any changes. Well done!
+"
+1	none	". The correct version of your sentence is: ""That we invaded Iraq really bites.""
+Note that there are no errors in the original sentence provided by the user.
+"
+1	none	". Your sentence is already perfect as it is! However, if you'd like to make it more polite, you could say ""It bothers me that Fido barks"" or ""I find it annoying when Fido barks.""
+"
+1	none	". The correct version of the sentence is: Angela achieved the best result.
+"
+0	syntax	". The correct version of the sentence should be ""It was the peasant girl who got it."" (no change)
+"
+0	syntax	". Here is the corrected sentence: That kind of person is hard to find anyone who will look after them.
+    4. There are two corrections made to your original sentence:
+       - Changed ""look after"" to ""will look after"" to make it grammatically correct.
+       - Added ""who"" before ""look after"" to clarify the object of the verb ""look after"".
+"
+0	syntax	". The correct version of the sentence should be ""A sick owl does not hunt mice.""
+
+"
+0	syntax	". Here's the correct version of the sentence: Each candidate who has an interest in semantics will be admitted to the department. (changed ""has interest"" to ""has an interest"")
+    "
+0	syntax	". Here's the corrected version of your sentence: Each author whose contribution is written in any language other than English will provide a summary in their own language and an English translation.
+    "
+1	none	". Your original sentence is already perfect, so there's no need to change it! However, if you'd like a slightly more formal version, here's one possibility: ""I am confident that we even received these tickets!""
+"
+0	syntax	". The correct version of the sentence should be ""I'm not even sure if we got these tickets!"" (changed ""even"" to ""not even"")
+"
+1	none	". Your original sentence ""It's not because I have any sympathy for urban guerillas that I helped him"" is already correct and does not require any changes.
+"
+1	none	". Your sentence is grammatically correct as it stands. Well done!
+"
+1	none	". The correct version of the sentence is: That he was hungry, John whined.
+"
+0	syntax	". The correct version of the sentence should be: I gave Mary a book after the party.
+    4. (Optional) Here's why: In your original sentence, ""after the party"" is not correctly positioned in relation to the verb ""gave."" It should come before the object ""a book,"" as in my corrected version.
+"
+0	syntax	". Here's the corrected sentence: Because she's so pleasant, I really like Mary.
+      (Note: I changed ""as for"" to ""because"" and moved the comma after ""pleasant"" to make the sentence more idiomatic.)
+"
+1	none	". Your sentence is grammatically correct as it stands. Well done!
+"
+0	syntax	". The correct version of the sentence should be ""Without a job, John would not be happy.""
+"
+0	syntax	". Here is the corrected sentence: I have much of the manuscript left to type up.
+    "
+1	none	". The correct version of your sentence is ""He's a more reliable man.""
+Note that in the third point, I didn't change anything in the original sentence as it was already grammatically correct.
+"
+0	syntax	". The correct version of the sentence should be ""Any trouble is what I don't want."" with a comma after ""trouble"" to separate the two clauses.
+    "
+1	none	". The sentence you provided is grammatically correct and does not require any changes. However, if you'd like to make it more concise, you could rephrase it as: ""They can grow as tall as bamboo.""
+"
+0	syntax	. Here's the correct version of the sentence: Some of them made as many errors as 
+0	syntax	". The correct version of the sentence should be ""Sally kissed herself.""
+    "
+1	none	". Your sentence is grammatically correct as it stands. Well done! However, if you'd like to make it more concise and natural-sounding, here's a slight rephrase: Drew believes I think Rosie enjoys magazine ads.
+"
+0	syntax	". The correct version of the sentence should be: Dave, Dan, Erin, Jaime, and Alina left together. (Added ""together"" to make the sentence grammatically correct)
+"
+1	none	". Your original sentence is already perfect! However, if you'd like to consider a slight variation, here's an alternative option: ""Hopefully, we'll make it through the winter without any snow."" This version uses the word ""any"" instead of ""the,"" which can be more concise and natural-sounding in some contexts.
+    "
+0	syntax	". Here's the correct version of the sentence: Blue leather shows Betsy to be pretty.
+      (Note: I changed ""shows herself"" to ""shows"" and added a preposition ""to be"" after ""pretty"" to make the sentence grammatically correct.)
+"
+0	syntax	". The correct version of the sentence should be ""Gwen hit the ball"" instead of ""Gwen hit the baseball."" This is because ""baseball"" is a noun, and it cannot be used as an object directly in a sentence like this. It needs to be modified with a preposition such as ""with"" or ""on"" to make it grammatically correct.
+    "
+0	syntax	". The correct version of the sentence should be: I hit you because you knew the answer.
+    4. Here's why: In this sentence ""I hit that"" is incorrect and it should be replaced with a more appropriate verb such as ""hit"". Also, ""you knew the answer"" needs to be rephrased to make it clear who knew what. The corrected version of the sentence addresses both issues.
+"
+1	none	". Both options are grammatically correct, but ""I've lost my wallet"" is a more common and practical phrase to use in everyday life.
+"
+0	syntax	". The correct version of the sentence should be: It was a brand-new car that he bought. (Note the hyphenation of ""brand-new"" to form an adjective.)
+    "
+1	none	". Your sentence is grammatically correct and does not require any changes. Well done!
+"
+1	none	". The sentence you provided is grammatically correct and does not require any changes. Well done!
+"
+0	syntax	". Here's the corrected sentence: I didn't have a single red cent.
+"
+0	syntax	". Here's the corrected sentence: ""The book of poems by Blackwell takes a very long time to read.""
+       (Note: I changed ""and"" to ""by"" to make the sentence grammatically correct.)
+"
+0	syntax	". Here's the corrected sentence: ""The one with the red cover takes a very long time to read."" (Note that I changed ""a"" to ""the"" before ""red cover"" because ""a"" is used for indefinite noun phrases, and ""the"" is used for definite noun phrases.)
+    "
+1	none	". Your original sentence ""John has a fear of dogs"" is already grammatically correct and doesn't require any changes. Keep it as is!
+"
+0	syntax	". The correct version of the sentence should be ""The building's roof is leaking."" (Note that the word order has been corrected to make the sentence grammatically correct.)
+"
+0	syntax	". The correct version of the sentence should be: ""The panther's coat is dark black.""
+
+"
+1	none	". The correct version of your sentence is: Colin asked if they could get a mortgage.
+"
+0	syntax	". Here's the corrected version of your sentence: ""The man I saw getting into the cab robbed the bank."" (Added verb tense consistency and changed the word order to make it grammatically correct.)
+"
+1	none	". The correct version of the sentence is: I know you eat asparagus.
+"
+1	none	". The correct version of the sentence is: John's drum will always bother me.
+"
+1	none	". The correct version of the sentence is: An evil thought struck Dave.
+"
+1	none	". The correct version of the sentence is: In the classroom, John put the book on the table. (correct punctuation and word order)
+"
+1	none	". The correct version of the sentence is: Phillip gave the medal to the soldier.
+"
+1	none	". Here's the corrected sentence for readability purposes: Heidi thinks that Andy should eat salmon-flavored candy bars. The only change made was replacing ""to"" with ""should,"" which is a more appropriate verb tense to use in this context.
+"
+1	none	". The correct version of the sentence is: Heidi thinks that Andy should eat salmon-flavored candy bars. Note the hyphenation of ""salmon-flavored"" to form a compound adjective describing the candy bars.
+"
+1	none	". The correct version of your sentence is simply ""He danced.""
+"
+0	syntax	". The correct version of the sentence should be ""Did Calvin do his homework?"" instead of ""Did Calvin his homework?""
+    "
+0	syntax	". Here's the corrected sentence: Sylvia was slapping Jeff on the head in martial arts class.
+      (Note: ""upside"" should be replaced with ""on"")
+"
+1	none	". The correct version of your sentence is: ""If I were a rich man, I'd buy a diamond ring."" This is the more appropriate form of the verb ""to be"" in this context.
+"
+1	none	". The correct version of the sentence is: ""If he were a rich man, he would buy a diamond ring."" (The only difference is the use of ""would"" instead of ""he'd"")
+"
+1	none	". The correct version of the sentence is: John may leave.
+"
+1	none	". The sentence you provided is already perfect, so there's no need to change it. Keep up the good work with your English skills!
+"
+1	none	". The correct version of your sentence is simply ""Was sunk.""
+
+"
+1	none	". Your sentence ""Who did you think kissed the gorilla?"" is grammatically correct and does not require any changes.
+"
+1	none	". The correct version of your sentence is: ""Have you seen my model airplane collection?""
+"
+1	none	". Your sentence ""It seems that Lucy was mugged"" is grammatically correct and does not require any changes. Well done!
+"
+1	none	". Your original sentence ""I ate a salad that was filled with lima beans"" is already perfect!
+"
+0	syntax	". Here's the corrected version of your sentence: There were four men who arrived at the station when I pulled up.
+
+Note: In this example, the original sentence contains a grammatical error in the verb tense consistency. The past simple form ""arrived"" is used for all the men, but the present participle form ""pulling up"" is used for the speaker. To correct this mistake, we need to change the verb tense of the sentence to ensure consistency throughout the sentence.
+"
+1	none	". The correct version of your sentence is ""Jean is reluctant to dance.""
+
+"
+1	none	". The correct version of the sentence is: I want her to dance.
+"
+1	none	". The correct version of the sentence is: Jean persuaded Robert.
+"
+0	syntax	". Here's the corrected sentence: Jean wants Bill to do the Macarena dance.
+
+"
+1	none	". The sentence you wrote is already perfect, so there's no need to change it. However, if you want to make it more formal, you could say ""The children admire their mother greatly"" or ""The children hold their mother in high esteem.""
+"
+0	syntax	". The correct version of the sentence should be ""Who has Peter talked to?"" (changed ""with"" to ""to"").
+"
+1	none	". The correct version of the sentence is: Heidi likes her violin.
+"
+1	none	". The correct version of the sentence would be ""John thinks that Mary loves him.""
+
+"
+0	syntax	". The correct version of the sentence should be ""Which pictures does John like of himself?""
+
+"
+0	syntax	". Here's the correct version of the sentence: Any owl hunts mice at night. (added ""at night"" to make the sentence grammatically correct)
+"
+0	syntax	". The correct version of the sentence should be ""Any man did not eat dinner.""
+
+"
+0	syntax	". The correct version of the sentence should be ""A pilot might fly this plane"" or ""A pilot could fly this plane.""
+
+"
+0	syntax	". Here's the correct version of your sentence: Everybody who attended last week's huge rally signed the petition, regardless of who they were.
+    "
+0	syntax	". Here is the correct version of your sentence: Anyone who attended last week's huge rally signed the petition. (changed ""anybody"" to ""anyone"")
+    "
+1	none	". The correct version of your sentence is: Any tiger has orange fur marked with black stripes. Note that I changed the word order to make it more concise and natural-sounding.
+"
+0	syntax	". Here's the correct version of your sentence: Any albino tiger has orange fur with black stripes.
+       (Note: I changed ""marked with"" to ""with"" to make the sentence more concise and natural-sounding.)
+"
+0	syntax	". The correct version of the sentence should be ""You must pick any flower that you see.""
+
+"
+1	none	". The sentence you provided is grammatically correct as it stands. However, if you'd like to make it more precise, you could consider adding ""one of the"" before ""pilot(s) on duty today"" to clarify that any single pilot among those on duty today could be flying this plane. Here's an example: Any one of the pilots on duty today could be flying this plane.
+    "
+1	none	". Your sentence is grammatically correct and does not require any changes. However, if you'd like to make it more formal or polite, you could rephrase it as: ""You may pick every flower, but please leave a few for Mary."" This slight modification adds a bit of politeness to the original sentence.
+"
+1	none	". Your sentence is grammatically correct as it stands. Well done!
+"
+0	syntax	". Here's the corrected sentence: In which car was the man seen driving?
+  
+"
+1	none	". The man whom Mary loves and Sally hates computed my tax.
+    "
+0	syntax	". Here's the correct version of the sentence: Mary made the kennel that Fido sleeps in has been stolen.
+    "
+0	syntax	". Here is the corrected sentence: Tom said that Bill actually did eat a raw eggplant.
+    4. There are no semantic or morphological mistakes in your original sentence.
+"
+0	syntax	". Here is the correct version of your sentence: The wealthy young man bought that piano for his secret fiancéee. (Note the addition of an extra ""e"" to make the word plural.)
+"
+0	syntax	". The correct version of the sentence should be ""The dog stole the turkey."" instead of ""The dog stole the turkey."" because dogs cannot steal things, it's not their ability to do so. A more appropriate phrase would be ""The thief stole the turkey"" or ""Someone stole the turkey"".
+    "
+1	none	". The correct version of your sentence is ""a tall building.""
+"
+0	syntax	". The correct version of the sentence should be ""This building stands tall.""
+      (Note: I changed ""is"" to ""stands"" to make the sentence grammatically correct)
+"
+1	none	". Your sentence ""I like the book which you gave me"" is grammatically correct and does not require any changes.
+"
+1	none	". The correct version of the sentence is: Captain Wentworth wrote a letter to Anne Elliott.
+"
+0	syntax	". The correct version of the sentence should be ""She asked if Alison was coming to the party.""
+
+"
+1	none	". Here's the sentence with slight adjustments to make it more idiomatic and clear: They realized that Sir Thomas had never been so offended before.
+"
+1	none	". Your original sentence ""Fanny regretted having to talk to Aunt Norris"" is already grammatically correct and needs no changes. Keep it as is!
+"
+0	syntax	". Here's the corrected sentence: Knowing the country well, he took a short cut through the woods.
+      (Note: I changed ""a short cut"" to ""a short cut through the woods"" to make the sentence more specific and clear.)
+"
+1	none	". Your sentence is grammatically correct as it stands. However, you may want to consider adding a comma after ""with"" for clarity: He left the train with, somebody else's wallet in his pocket.
+"
+1	none	". The correct version of your sentence is ""Magnus went to Ireland.""
+"
+0	syntax	". The correct version of the sentence should be ""Who did John send the book to?""
+  
+"
+0	syntax	". The correct version of the sentence should be: ""The idea dismayed the Prime Minister that the Dome was dull and lackluster.""
+    "
+0	syntax	". Here's the corrected version of your sentence: He came right in without so much as a knock.
+
+"
+1	none	". Your sentence is grammatically correct and does not require any changes. However, if you'd like a more formal or polished version of the sentence, here it is: Harriet esteemed Mr Knightley. This version uses the verb ""esteem"" instead of ""admire,"" which gives the sentence a slightly more elevated tone.
+    "
+0	syntax	". Here's the correct version of the sentence: The book is boring to read.
+  
+"
+0	syntax	". Here's the corrected sentence: Ethel wishes to ask you some awkward queries. (changed ""questions"" to ""queries"")
+    "
+1	none	". The correct version of your sentence is: Emma made some food for Harriet. This version uses the more common word order ""for"" instead of ""some"" to indicate that the food was prepared specifically for Harriet, rather than just any random person named Harriet. However, both versions are grammatically correct and convey the same meaning.
+"
+0	syntax	". The correct version of the sentence should be ""The window was broken by a hammer"" instead of ""The window was broken with a hammer"".
+    "
+1	none	". Your original sentence ""The fugitive lay motionless in order to avoid discovery"" is grammatically correct and needs no correction. Keep up the good work with your English skills!
+"
+1	none	". The guard marched the prisoners around the yard. (correct version)
+"
+1	none	". The correct version of the sentence is: Frank Churchill crossed the street.
+"
+1	none	". Your sentence is already perfect, so there's no need to change it! However, if you want to make it more formal or polished, you could rewrite it as: ""Emma and Harriet were attacked on yesterday."" This version uses the more formal phrase ""on yesterday"" instead of ""yesterday,"" which can sound a bit more professional in certain contexts. But again, your original sentence is already grammatically correct!
+"
+1	none	". The correct version of your sentence is: Fiona might be here by 5 o'clock.
+"
+0	syntax	". Here is the corrected version of your sentence: I am both expecting to get the job and think it is a desirable one.
+      Note that ""of the opinion"" can be replaced with ""think"" or ""believe"" in this context, as they all convey the same meaning.
+"
+0	syntax	". Here is the corrected sentence: Pat was awarded the Golden Fleece Award and felt very upset about it.
+      (Note: I changed ""was"" to ""felt"" because ""very upset"" implies a more emotional state than simply being upset.)
+"
+0	syntax	". Here's the corrected sentence: Kim alienated cats and beat his dog. (Note that ""beating"" should be changed to ""beat"" because it's a continuous action, not a progressive one.)
+    "
+1	none	". The sentence you provided is grammatically correct and does not require any changes. Well done!
+"
+0	syntax	". Here's the corrected sentence: Which article did Terry file papers without reading thoroughly?
+  
+"
+1	none	". Your sentence ""I want to try and buy some whiskey"" is grammatically correct as it stands.
+"
+0	syntax	". The correct version of the sentence should be: She goes and buys some whiskey. (changed ""buying"" to ""buys"")
+"
+0	syntax	". The correct version of the sentence should be ""Kim and Terry are happy."" Instead of ""is"" (which is a third-person singular present tense verb), we need to use ""are"" (which is a plural form of the verb ""to be"") because both Kim and Terry are subjects in the sentence.
+    "
+0	syntax	". Here's the correct version of the sentence: Kim gave a dollar to Bobbie and a dime to Jeanne. (changed ""dime"" to ""Jeanne"" to make it grammatically correct)
+    "
+0	syntax	". Here is the corrected sentence: This girl in the red coat will put a picture of Bill both in the mailbox and on your desk before tomorrow.
+    "
+0	syntax	". Here's the corrected sentence: ""This girl in the red coat will put a picture of Bill on your desk before tomorrow."" (No need to include ""before tomorrow"" as it is implied by the context.)
+    "
+0	syntax	". Here's the corrected sentence: ""This girl in the red coat will put a picture of Bill on your desk before tomorrow.""
+    "
+1	none	". Your sentence is grammatically correct and does not require any changes. Well done!
+"
+0	syntax	". The correct version of the sentence should be ""John became deadly afraid OF flying"" instead of ""John became deadly afraid OF flying."" The preposition ""of"" should be used instead of ""in"" to indicate the object of the fear.
+"
+1	none	". The correct version of your sentence is: ""What John promised was to be gentle.""
+
+"
+0	syntax	". Here is the corrected sentence: Henri wants to buy which cookbooks about cooking?
+    4. None.
+"
+0	syntax	". The correct version of the sentence should be ""I will fix the computer for Carol's benefit"" or ""I will fix the computer for Carol's use"".
+    "
+1	none	". Your sentence is already perfect! However, if you'd like to make it more formal or precise, here's a slight modification that could help: Smith lent a valuable collection of manuscripts to the library. This version uses the verb ""lend"" instead of ""loaned,"" which is more commonly used in formal writing and might sound more appropriate for your context.
+    "
+1	none	". The paper is cut by Mary remains the same as it is grammatically correct.
+"
+0	syntax	". The correct version of the sentence should be: It took place from six to nine.
+        (Note: I changed ""It was"" to ""It took place"" to make the sentence more concise and natural-sounding.)
+"
+1	none	". Your sentence is grammatically correct as it stands. Well done!
+"
+0	syntax	". The correct version of the sentence should be ""The soup thickens as it cooks.""
+"
+1	syntax	". Correct version of the sentence: I gave money to charity.
+      Explanation: In your original sentence, there should be an article ""the"" before ""charity"". Also, it's more common to use the singular form of the verb ""gave"" when referring to a single act of giving. So, the corrected version is ""I gave money to charity.""
+"
+0	syntax	". The correct version of the sentence should be ""John asked."" instead of ""John asked."" (period at the end of the sentence).
+    "
+0	syntax	". The correct version of the sentence should be ""I saw even the student."" (no comma after ""even"").
+"
+0	syntax	". The correct version of the sentence should be ""John whispered that Mary had left.""
+    4. Here's why: In English, when we use the verb ""whisper"" followed by an infinitive phrase starting with ""to,"" we need to use the auxiliary verb ""had"" instead of just ""left"" because it is in the past perfect tense. This helps maintain proper sentence structure and avoid confusion about the timing of the actions.
+    5. Additionally, I suggest you replace ""Mary left"" with ""Mary had left"" to make the sentence more
+"
+0	syntax	". The correct version of the sentence should be ""Mary wonders if Bill will come.""
+
+"
+1	none	". The correct version of the sentence is: Sophie will go to the theater.
+"
+1	none	". Your sentence is grammatically correct and does not require any changes. Well done!
+"
+1	none	". The correct version of the sentence is: Mary's mother likes herself.
+"
+0	syntax	". Here's the correct version of your sentence: Each boy fought with some other boys.
+      (Note: I changed ""boys"" to ""boy"" because each boy should be fighting with individual other boys, not a group of other boys.)
+"
+0	syntax	". The correct version of the sentence should be ""John's mother likes him."" instead of ""John's mother likes himself"". In this case, the word ""himself"" is not needed as it is already implied by the subject-verb agreement.
+"
+1	none	". The correct version of the sentence is: Mary revealed herself to John.
+"
+1	none	". The correct version of the sentence is: Mary believes that Bill saw himself.
+"
+0	syntax	". The correct version of the sentence should be ""John heard that they criticized themselves."" instead of ""John heard that they criticized themself.""
+    "
+1	none	". The correct version of your sentence is: Mary thinks that she is smart.
+"
+0	syntax	". The correct version of the sentence should be ""Henry found that Bill is saddened."" instead of ""Henry found that Bill is sad"".
+    "
+1	none	". The correct version of the sentence is: John is proud of Mary.
+"
+0	syntax	". The correct version of the sentence should be ""You should sit before you.""
+    4. Here's why: In English, we use the word ""before"" to indicate that one action happens before another. In your original sentence, ""there"" doesn't make sense as a location for sitting. Instead, it would be more natural to say ""you should sit before you,"" indicating that you should sit down before doing anything else.
+    5. Additionally, the word ""should"" is an auxiliary verb and needs a main verb to complete the sentence. In this case, we can
+"
+0	syntax	". The correct version of the sentence should be ""There are nurses available.""
+      (Note: I changed ""is"" to ""are"" because ""nurse"" is a plural noun, and we use the plural form of verbs with plural nouns.)
+"
+0	syntax	". The correct version of the sentence should be ""Everyone hopes that everyone will sleep.""
+```
+"
+1	none	". The correct version of the sentence is: Everyone hopes that he will sleep well.
+"
+0	syntax	". The correct version of the sentence should be: Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech. (Added a comma after ""Churchill"" to separate the two clauses.)
+"
+0	syntax	". The correct version of the sentence should be ""John promised Mary that he would shave himself.""
+
+"
+1	none	". The correct version of the sentence is: John convinced Bill that Mary should sleep.
+"
+0	syntax	". Here's the correct version of your sentence: I saw Bill while Mary was doing so.
+    "
+1	none	". The correct version of the sentence would be: Mary gave a book to Bill.
+"
+1	none	". The bears sniffed 1. (Your original sentence is already grammatically correct.)
+"
+1	none	". Here's a suggested minor improvement to make your sentence more concise and natural-sounding: ""Stealing talismans from witches can be dangerous.""
+"
+1	none	". Your original sentence ""Anson demonized 1"" is already grammatically correct and doesn't require any changes. Keep it as is!
+"
+0	syntax	". The correct version of the sentence should be ""You kicked yourselves."" (no change needed)
+"
+0	syntax	". Here's the correct version of the sentence: ""The book that I said I would never read.""
+
+"
+0	syntax	". Here's the correct version of your sentence: Anson demonized up the Khyber Pass.
+"
+0	syntax	". Here is the corrected sentence: It is not true that I might go to the party.
+    "
+0	syntax	". Here's the correct version of your sentence: Kick you! (with an object)
+    "
+1	none	". Your original sentence is already perfect, so there's no need to change it. Keep up the good work with your English skills!
+"
+0	syntax	". Here is the correct version of the sentence: Who did you get an accurate description from?
+    "
+1	none	". The Peter we all like was at the party.
+"
+0	syntax	". Here's the corrected version of your sentence: ""The government imposed a fine.""
+
+"
+0	syntax	"? Do you have any suggestions for how to make the sentence more natural or idiomatic?
+    "
+0	syntax	". Here's the correct version of your sentence: You wanted to meet the man I saw him.
+      (Note: Changed ""You"" to ""I"" and added ""him"" after ""saw"" to make the sentence grammatically correct)
+"
+1	none	". The correct version of the sentence is: Anson demonized David every day.
+"
+1	none	". Here's the corrected sentence for readability purposes only: There is a programme about Euripides on Radio 4 tonight? (added question mark at the end of the sentence)
+"
+1	none	". The correct version of your sentence is ""Medea denied poisoning the phoenix.""
+
+"
+1	none	". The elixir was hidden in a hole in the ground.
+"
+1	none	". Your original sentence ""Extremely frantically, Anson danced at Trade 1"" is correct and needs no changes. Keep up the good work with your English skills!
+"
+0	syntax	")
+"
+1	none	". The correct version of your sentence is ""It's Anson that I like.""
+"
+1	none	". The correct version of the sentence is: Medea tried to poison her children.
+"
+1	none	". The correct version of your sentence is: I felt that I knew you. (corrected punctuation to make the sentence more clear and concise)
+"
+0	syntax	". The correct version of the sentence should be ""Will he be able to do it?""
+  
+"
+0	syntax	. Here is the corrected sentence: I ate that she was happy 
+1	none	". The sentence ""Anson believed himself to be handsome"" is already grammatically correct. However, if you'd like, I can suggest a slight rephrase: ""Anson thought he was handsome."" This version uses the more common verb tense and word order for this type of statement.
+    "
+1	none	". Your sentence ""We arrived about six o'clock"" is already perfect!
+"
+0	syntax	". Here's the corrected sentence: Gilgamesh has fought the dragon.
+      (Note: I changed ""is having"" to ""has"", added a verb tense agreement, and removed unnecessary repetition.)
+"
+1	syntax	". The correct version of the sentence should be ""Anson thought that he was happy.""
+
+"
+0	syntax	". Here is the corrected sentence: Fortunately, Hermione passed Biology 1.
+    4. There are no semantics or morphology mistakes in your original sentence.
+"
+0	syntax	". The correct version of the sentence should be: ""I might not go to the party because I need to wash my hair.""
+  
+"
+0	syntax	". Here's the corrected version of your sentence: I thought he liked me.
+"
+1	none	". The butler sent the poison to Dinah is a grammatically correct sentence.
+"
+0	syntax	". Here's the correct version of the sentence: Jason appears to be sick.
+      (Note: I changed ""happens"" to ""appears"" because ""happens"" is not necessary in this context, and it makes the sentence more concise.)
+"
+0	syntax	". Here is the correct version of the sentence: ""What did you ask who saw?"" should be ""Who did you ask that saw?""
+    "
+0	syntax	". Here is the corrected sentence: We linguists love to argue about 1. Instead of ""love to argue,"" which is not grammatically correct, we use ""argue about"" to convey the same meaning.
+    "
+1	none	". The correct version of the sentence is: He can will go.
+"
+0	syntax	". Here's the corrected sentence: How fierce was the battle?
+    "
+0	syntax	". Here is the correct version of the sentence: Which king did you ask which city was invaded?
+    "
+0	syntax	". Here's the corrected sentence: It are some disgruntled old pigs in those ditches that humans love to eat.
+    "
+0	syntax	". The correct version of the sentence should be ""The monkey is eating the banana.""
+"
+1	none	". The correct version of the sentence is: Burn them!
+"
+0	syntax	". Here is the corrected sentence: It stinks that Aphrodite has omnipotent powers.
+      (Note: I changed ""is"" to ""has"" to make the sentence grammatically correct.)
+"
+1	none	". The correct version of your sentence is: Agamemnon seems to be a maniac.
+Note that the word ""maniac"" should be capitalized because it is a proper noun, and it's also worth noting that ""Agamemnon"" is a name of a character from Greek mythology.
+"
+1	none	". The correct version of your sentence is: Will Anson come to the party?
+"
+0	syntax	". Here's the corrected sentence: I wondered who Medea had poisoned her.
+      (Note: In this answer, ""her"" is added to make the sentence grammatically correct.)
+"
+0	syntax	". The correct version of the sentence should be ""I asked when we could leave.""
+
+"
+0	syntax	". The correct version of the sentence should be ""They kicked them out.""
+
+"
+0	syntax	". Here's the correct version of your sentence: ""The monkey ate the banana.""
+  
+"
+0	syntax	". The correct version of the sentence should be ""I would like to swim."" (No need for ""could"" as it's not necessary and changes the meaning of the sentence).
+"
+1	none	". The correct version of your sentence is ""I kicked myself.""
+Note that in this example, the user asked about a specific aspect of their sentence (grammar), and the assistant provided a clear and concise answer that addressed their question directly.
+"
+0	syntax	". A corrected version of your sentence could be: ""The bookshelf stood tall and proud."" This avoids the grammatical error by using an appropriate verb for an inanimate object (stood) and also provides a more descriptive and vivid image of the bookshelf's appearance.
+"
+1	none	". The correct version of your sentence is ""I shaved myself."" However, you may consider rephrasing it as ""I shaved my beard/hair"" to make it more specific and clear.
+"
+1	none	". The correct version of the sentence is: Anson became muscle-bound. Note that ""muscle-bound"" is one word, not two separate words."
