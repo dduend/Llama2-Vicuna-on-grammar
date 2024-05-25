@@ -1,0 +1,527 @@
+1. Yes 2. Syntax 3. The subject "the sailors" and verb "rode" do not agree in number. The verb should be in its plural form "rode".
+1. Yes 2. Syntax 3. The subject "the weights" and verb "made" do not agree in number. The verb should be in its plural form "made". 
+1. Yes 2. Syntax 3. The verb "wriggled" should be in its past participle form "wriggled" to function as a passive verb in this sentence. Also, it would be more natural if the doll was "loosened" instead of "itself loose". 
+1. No 2. None (assuming you meant to keep the original meaning of the sentence) 3. The sentence is grammatically correct and conveys its intended meaning clearly.
+1. Yes 2. Syntax 3. The subject "as" does not agree with the verb "eat". It would be more natural to use "since" or "because" instead of "as". Also, the word order should be "you eat the most" instead of "the most you eat".
+1. Yes 2. Syntax 3. The subject "the more" and verb "would eat" do not agree in number. The verb should be in its singular form "eat". Also, it would be more natural to use "you get" instead of "you would want" for a clearer meaning. 
+1. Yes; 2. Syntax; 3. The subject and verb in the second clause should agree in number. Instead of "the more John eat," it should be "the more he eats."
+1. Yes; 2. Syntax; 3. The verb "gets" in the first sentence should be in its base form "get" as it is the second verb in a compound tense structure. Also, there should be a comma after "Grateful Dead." 
+1. Yes; 2. Syntax; 3. The subject "Mary" is repeated in both clauses of the second sentence. It should be "The angrier Mary got," but the verb "looked" should agree in tense with the first clause. 
+1. Yes; 2. Syntax; 3. The subject and verb do not agree in number. "The higher the stakes" is singular, but "his expectations are" is plural. To correct this mistake, you can change "are" to "is" to match the singular subject. 
+1. Yes; 2. Syntax and Morphology; 3. The subject and verb do not agree in number. "The more Fred is obnoxious" is singular, but "the less attention you should pay to him" is plural. To correct this mistake, you can change "less" to "fewer" or "less" to "less" depending on the context. 
+1. Yes; 2. Syntax and Morphology; 3. The comparative form of "more" should be "than", but you used "lots". To correct this mistake, you can change "lots more" to "more than". 
+1. Yes 2. Syntax and Morphology; 3. There are two mistakes in this sentence. Firstly, "give beer to" should be "gives beer to", as "people" is plural and requires the corresponding verb form. Secondly, the subject-verb agreement is incorrect. 
+1. Yes; 2. Syntax and Morphology; 3. There are two mistakes in this sentence. Firstly, "does" is incorrect as it should be "do", since "Bill" is singular. Secondly, the subject-verb agreement is incorrect. To correct these mistakes, you can change "The more does Bill smoke" to "The more Bill smokes". 
+1. Yes; 2. Syntax and Morphology; 3. There are two mistakes in this sentence. Firstly, "appear" should be "appears", as it is a third person singular subject. Secondly, the verb tense agreement is incorrect. To correct these mistakes, you can change "The more pictures of him that appear in the news" to "The more pictures of him that appear". 
+1. Yes; 2. Syntax and Morphology; 3. There are two mistakes in this sentence. Firstly, "as" should be replaced with a comma followed by "because". Secondly, "he talks to more lobbyists" should be changed to "he talks to more lobbyists because". To correct these mistakes, you can change the sentence to: "Every senator seems to become more corrupt, because he talks to more lobbyists." 
+1. Yes; 2. Syntax and Morphology; 3. There are two mistakes in this sentence. Firstly, "because" should be replaced with a comma followed by "that". Secondly, "he likes" should be changed to "her". To correct these mistakes, you can change the sentence to: "Who does John visit Sally because he likes her?" 
+1. No; 2. None; 3. There are no mistakes in this sentence. It is grammatically correct as it is. 
+1. Yes; 2. Syntax and Morphology; 3. There are two mistakes in this sentence. Firstly, "could not have been" should be changed to "cannot have been". Secondly, there should be a past participle form of the verb after "been", but it is missing. To correct these mistakes, you can change the sentence to: "He could not have been working." 
+1. Yes; 2. Syntax and Morphology; 3. There are two mistakes in this sentence. Firstly, "can not" should be changed to "cannot". Secondly, there should be a past participle form of the verb after "been", but it is missing. To correct these mistakes, you can change the sentence to: "He cannot have been working."
+1. No; 2. None; 3. There are no mistakes in this sentence. It is grammatically correct as it is. 
+1. No; 2. None; 3. There are no mistakes in this sentence. It is grammatically correct as it is. 
+1. Yes; 2. Syntax and Morphology; 3. There are two mistakes in this sentence. Firstly, "said" should be replaced with a past participle form such as "stated". Secondly, there is an unnecessary repetition of the word "in" before "my life", which can be removed for better clarity. To correct these mistakes, you can change the sentence to: "I stated that I had never seen a place like Bangor in my life." 
+1. Yes; 2. Syntax and Morphology; 3. There are two mistakes in this sentence. Firstly, "looked up" should be changed to "looked it up". Secondly, there should be a verb after "it", but it is missing. To correct these mistakes, you can change the sentence to: "Mickey looked it up." 
+1. Yes; 2. Syntax and Morphology; 3. There are two mistakes in this sentence. Firstly, "tended" should be changed to "there tends". Secondly, there should be a verb after "to be", but it is missing. To correct these mistakes, you can change the sentence to: "There tends to be a lot of discussion." 
+1. No; 2. None; 3. There are no mistakes in your sentence 
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax; 3. The subject "The box" and verb "contained" do not agree in number (singular vs. plural). The verb should be in singular form to match the subject. 
+1. Yes; 2. Syntax and Morphology; 3. The subject "The tube" and verb "was escaped" do not agree in number (singular vs. plural). Additionally, the past participle form of the verb "escape" should be used to describe the action that happened in the past.
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; 3. The subject "The tub" and verb "leaked" do not agree in number (singular vs. plural). Additionally, the past tense form of the verb "leak" should be used to describe a completed action in the past.
+1. Yes; 2. Syntax and Morphology; 3. The subject "What the water did" and verb "was fill" do not agree in number (singular vs. plural). Additionally, the past participle form of the verb "fill" should be used to describe a completed action in the past that was caused by something else. 
+1. Yes; 2. Syntax and Morphology; 3. The subject "What the water did" and verb "was fill" do not agree in number (singular vs. plural). Additionally, the past participle form of the verb "fill" should be used to describe a completed action in the past that was caused by something else. Also, the phrase "to the whole bottle" is redundant as "bottle" already implies wholeness.
+1. Yes; 2. Syntax and Morphology; 3. The subject "The tank" and verb "leaked" do not agree in number (singular vs. plural). Additionally, the phrase "the fluid free" is grammatically incorrect as it should be either "free fluid" or "fluid that is free." 
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; 3. The subject "We" and verb "persuaded" do not agree in number (plural vs. singular). Additionally, the pronouns "Mary" and "Sue" should be in objective case ("her") instead of nominative case ("she"). Finally, the sentence is grammatically correct if it means that we persuaded Mary to leave and Sue to stay, but if you meant that we persuaded her (Mary) to stay and her (Sue) to leave, then the word order should be changed. 
+1. Yes; 2. Syntax and Morphology; 3. The subject "people" and verb "probably consider" do not agree in number (singular vs. plural). Additionally, the phrase "even though the courts didn't actually find" is grammatically correct but it could be rephrased for clarity. Finally, the word "murder" should be in lowercase as it refers to a common noun and not a proper noun.
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; The subject "Clearly" and verb "probably will" do not agree in number (singular vs. plural). Additionally, the phrase "immediately learn French perfectly" is grammatically correct but it could be rephrased for clarity. Finally, the word order should be changed to match the natural order of English sentences. 3. If you want to say that John will immediately start learning French and will do so perfectly, then the correct version would be "John will clearly learn French perfectly right away."
+1. Yes; 2. Syntax and Morphology; 3. The subject "Sue" and verb "gave" do not agree in number (singular vs. plural). Additionally, the preposition "to" should be followed by a gerund or infinitive phrase, but it is not clear what you are trying to convey with "a book." 
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; 3. The subject "They" and verb "represented" do not agree in number (plural vs. singular). Additionally, the phrase "to the dean Mary as a genuine linguist" is grammatically correct but it could be rephrased for clarity. Finally, the word order should be changed to match the natural order of English sentences
+1. Yes; 2. Syntax and Morphology; 3. The subject "Us" and verb "love" do not agree in number (singular vs. plural). Additionally, the pronoun "they" should be replaced with a noun or pronoun that agrees in number with "us."
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; 3. The subject "Fred" and verb "won't" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; 3. The subject "Holly" and verb "shouldn't" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. Yes; 2. Syntax and Morphology; 3. The subject "I" and verb "came to be introduced" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; 3. The subject "Sally" and verb "does too" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; 3. The subject "this book" and verb "won't do it" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. Yes; 2. Syntax and Morphology; 3. The subject "which book" and verb "said that you hadn't" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. Yes; 2. Syntax and Morphology; 3. The subject "which book" and verb "read my report that you hadn't" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. Yes; 2. Syntax and Morphology; 3. The subject "I" and verb "would like him to eat fruit more than I would cookies" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. Yes; 2. Syntax and Morphology; 3. The subject "Rusty" and verb "talked about himself" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. Yes; 2. Syntax and Morphology; 3. The subject "Fred" and verb "talked about everything" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. No; 2. None; 3. There are no mistakes in your sentence; 4. The correct version of the sentence is "John often meets Mary."
+1.Yes; 2. Syntax and Morphology; 3. The subject "The problem" and verb "perceives easily" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; 3. The subject "We" and verb "elected me" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. Yes; 2. Syntax and Morphology; 3. The subject "which report" and verb "did he submit" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; 3. The subject "He" and verb "let" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. No; 2. None; 3. There are no mistakes in your sentence
+1. Yes; 2. Syntax and Morphology; 3. The subject "A proof" and verb "had been made" do not agree in number (singular vs. plural). Additionally, the word order should be changed to match the natural order of English sentences
+1. Yes; 2. Syntax and Morphology; 3. The subject "He" and verb "attributed to" do not agree in number (singular vs. plural). Additionally, there are multiple errors in word order and phrasing
+1. Yes; 2. Syntax and Morphology; 3. The subject "The mayor" and verb "regarded as being absurd" do not agree in number (singular vs. plural). Additionally, there are multiple errors in word order and phrasing
+1. Yes; 2. Syntax; 3. The subject "I" and verb "want" do not agree in number. The subject is singular ("I") but the verb is plural ("left"). This creates a grammatical error known as a subject-verb agreement mistake.
+1. Yes; 2. Syntax and Morphology; 3. There are two errors in this sentence. The first error is a subject-verb agreement mistake where "drives" does not agree with the singular subject "Tom". Additionally, there is an unnecessary repetition of the word "as", which creates confusion about the intended meaning.
+1. Yes; 2. Syntax and Morphology; 3. There are two errors in this sentence. The first error is a comma splice where "which is against the law" is separated from the rest of the sentence by a comma, making it difficult to understand the intended meaning. Additionally, there should be an article before "cats", such as "a" or "an". 
+1. Yes; 2. Syntax and Morphology; 3. There are two errors in this sentence. The first error is a subject-verb agreement mistake where "than" does not agree with the singular subject "Muriel". Additionally, there should be an article before "that", such as "a" or "an". 
+1. Yes; 2. Syntax; 3. The subject "himself" and verb "is understood" do not agree in number. Rutherford is singular while himself is plural. To fix this, you could say "Rutherford understands himself." or "He understands himself." 
+1. No; 2. None; 3. There are no mistakes in your sentence. It is grammatically correct as it is written. 
+1. Yes; 2. Syntax; 3. The subject "this set" and verb "is" do not agree in number. The set is singular while proof is plural. To fix this, you could say "The proof that this set is recursive is difficult." or "This set's proof is difficult."
+1. Yes; 2. Syntax; 3. The subject "the madrigals" and verb "sound" do not agree in number. Madrigals are plural while Henry plays the lute and sings is singular. To fix this, you could say "The madrigals that Henry plays the lute and sings sound lousy." or "Henry's playing of the lute and singing of the madrigals sounds lousy."
+1. Yes; 2. Syntax; 3. The subject and verb agreement in "These grapes" are not consistent throughout the sentence. In the first clause, it should be "Tom picked these grapes," but in the second clause, it becomes "Suzie will prepare THESE grapes." It should be "Suzie will prepare these grapes"
+1. Yes; 2. Syntax; 3. The sentence contains two independent clauses joined by a coordinating conjunction "and." However, the subject and verb agreement between them are not consistent. It should be either "Where did you go, and who ate what?" or "You went where, and who ate what?"
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains several errors in grammar and syntax: "Which boy's" should be "Whose boy?" or "The boy's," depending on the intended meaning; "did we elect guardian's employer president?" should be "Did we elect the guardian's employer as president?"
+1. No; 2. None; 3. There are no grammar mistakes in the sentence "How sane is Peter?" It is a grammatically correct question asking about the level of sanity of a person named Peter.
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains several errors in grammar and syntax: "the place where Route 150 crosses the River" should be "where Route 150 crosses the river," as "river" is an uncountable noun and does not take the article "the"; "my dad lives at the place where Route 150 crosses the Hudson River too" should be "My dad also lives at the place where Route 150 crosses the Hudson River." or "My dad lives at the place where Route 150 crosses the Hudson River as well."
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains an error in grammar and syntax: "it" should be replaced with a proper noun or pronoun referring to the place where Route 150 crosses the Hudson River, as it is unclear what "it" refers to.
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains an error in grammar and syntax: "make up to" should be replaced with a more appropriate phrase, as it is unclear what the speaker means by "making up." It could mean reconciling or apologizing, but without context, it is difficult to determine which one is intended.
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains several errors in grammar and syntax: "gotten" should be replaced with a more appropriate verb form, as it is an incorrect past participle form of "get." The correct form would be "given" or "received," depending on the intended meaning.; "of a plot to negotiate" could be rephrased for clarity and conciseness: "from a plot to negotiate"; "an honorable end to the war in Vietnam" should be "a honorable end to the war in Vietnam" or "a honourable end to the war in Vietnam," depending on the intended meaning.
+1. No; 2. None; 3. There are no grammar mistakes in the sentence "Mike talked about politics yesterday to my friends." It is a grammatically correct sentence stating that Mike discussed politics with your friends on the previous day.
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains an error in grammar and syntax: "It" should be replaced with a proper noun or pronoun referring to the subject, as it is unclear what "it" refers to.
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains an error in grammar and syntax: "she" should be replaced with a proper noun or pronoun referring to the person, as it is unclear who "she" refers to.
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains an error in grammar and syntax: "never wore this hat" should be replaced with a more appropriate phrase, as it is unclear what the speaker means by "this hat." It could refer to a specific hat or hats in general, but without context, it is difficult to determine which one is intended.
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains an error in grammar and syntax: "wire" should be replaced with a more appropriate noun or phrase, as it is unclear what type of wire is being referred to.
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains an error in grammar and syntax: "some money" should be replaced with a more appropriate phrase or noun, as it is unclear how much money is being referred to.
+1. No; 2. None; 3. There are no grammar mistakes in the sentence "Do you believe the claim that somebody was looking for something?" It is a grammatically correct sentence asking if someone believes a statement about someone else searching for something.
+1. Yes; 2. Syntax and Morphology; 3. The sentence contains an error in grammar and syntax: "any money" should be replaced with a more appropriate phrase or noun, as it is unclear how much money is being referred to.
+1. The category of the mistake is syntax. 2. The sentence contains a run-on sentence caused by the lack of punctuation and conjunction between two independent clauses. 3. Here's an example of how to correct it: "That Sam sometimes didn't sleep must have pleased somebody, but I don't know who." Alternatively, you could use a semicolon to separate the two independent clauses: "That Sam sometimes didn't sleep; must have pleased somebody."
+1. No. 2. None. 3. None
+1. Yes. 2. The category of the mistake is syntax and semantics. 3. The sentence contains several issues that make it difficult to understand: There are two independent clauses without proper conjunction or punctuation between them, which creates a run-on sentence. For example, you could use "but" to connect the second clause with the first one: "That the fuzz wanted him worried John, but that the fuzz wanted her didn't worry Mary." The pronouns "him" and "her" are ambiguous without more context or clarification about who they refer to. You could consider using specific names or noun phrases to clarify: "That the fuzz wanted Winston worried John, but that the fuzz wanted Alice didn't worry Mary." The sentence contains a repetition of "wanted" without clear emphasis or additional meaning. Consider revising it for clarity and conciseness
+1. Yes. 2. The category of the mistake is syntax and semantics. 3. The sentence contains a conditional construction issue: You could rephrase the sentence using "if" and "whether" to create a clearer structure: "I'll work on it if/whether Sam will be working on it." Additionally, consider adding an auxiliary verb (such as "can") or another conditional construction element to form a complete conditional statement: "I'll work on it if/when Sam is working on it" or "I'll work on it unless/in case Sam isn't working on it." The sentence could also be improved by using more specific and descriptive language, such as mentioning the task or project that you both will be working on.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. The category of the mistake is syntax and semantics. 3. The sentence contains a run-on sentence caused by the lack of punctuation between two independent clauses: You could use a semicolon to separate the two independent clauses: "Fluffy is sick; which not everybody knows." Alternatively, you could rephrase the sentence using a conjunction or relative pronoun to create a more cohesive structure: "Fluffy is sick, and not everybody knows it" or "Fluffy is sick, which some people may not be aware of."
+1. No. 2. None. 3. None 
+1. Yes. 2. The category of the mistake is syntax and semantics. 3. The sentence contains several issues that make it difficult to understand: There are two independent clauses without proper conjunction or punctuation between them, which creates a run-on sentence. For example, you could use "and" to connect the second clause with the first one: "The younger woman might have been tall and blond, and the older one definitely was." The pronouns "she" and "her" are ambiguous without more context or clarification about who they refer to. You could consider using specific names or noun phrases to clarify: "The younger woman might have been tall and blond, and the older one definitely was Alice." The sentence contains a repetition of "was" without clear emphasis or additional meaning. Consider revising it for clarity and conciseness
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. The category of the mistake is syntax and semantics. 3. The sentence contains a run-on sentence caused by the lack of punctuation between two independent clauses: You could use a semicolon to separate the two independent clauses: "The socks are ready for you to put on; they're planned." Alternatively, you could rephrase the sentence using a conjunction or relative pronoun to create a more cohesive structure: "The socks are ready for you to put on and have been planned" or "The socks are ready for putting on and have been planned."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. The category of the mistake is syntax and semantics. 3. The sentence contains a run-on sentence caused by the lack of punctuation between two independent clauses: You could use a semicolon to separate the two independent clauses: "My mother is easy to please my father; and" Alternatively, you could rephrase the sentence using a conjunction or relative pronoun to create a more cohesive structure: "My mother is easy to please both my father and myself" or "My mother is easy to please, and my father appreciates it too."
+1. No. 2. None. 3. None
+1. Yes. 2. The category of the mistake is syntax and semantics. 3. The sentence contains a run-on sentence caused by the lack of punctuation between two independent clauses: You could use a semicolon to separate the two independent clauses: "That the cops spoke to the janitor about it yesterday is terrible; that robbery." Alternatively, you could rephrase the sentence using a conjunction or relative pronoun to create a more cohesive structure: "It's terrible that the cops spoke to the janitor about that robbery yesterday" or "That the cops spoke to the janitor about it yesterday is concerning; that robbery."
+1. Yes. 2. The category of the mistake is syntax and semantics. 3. The sentence contains a run-on sentence caused by the lack of punctuation between two independent clauses: You could use a semicolon to separate the two independent clauses: "Every student; he wears socks, is a swinger." Alternatively, you could rephrase the sentence using a conjunction or relative pronoun to create a more cohesive structure: "Every student and anyone who wears socks are swing dancers" or "Every student is a swinger; he always wears socks."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. The category of the mistake is syntax and semantics. 3. The sentence contains a run-on sentence caused by the lack of punctuation between two independent clauses: You could use a semicolon to separate the two independent clauses: "No writer; nor any playwright, meets in Vienna." Alternatively, you could rephrase the sentence using a conjunction or relative pronoun to create a more cohesive structure: "Neither writers nor playwrights meet in Vienna" or "No writer, including playwrights, meets in Vienna."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None 
+1. No. 2. None. 3. None 
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None 
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None 
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "turned." It should be "He turned into a frog" instead of just "He turned into".
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "threw." It should be "Brian threw the fence with the stick" instead of just "Brian threw the fence".
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None (Paperback)
+1. Yes. 2. Syntax. 3. The sentence should be "The books lifted onto the table easily."
+1. Yes. 2. Syntax. 3. The sentence should be "Jessica loaded boxes into the wagon."
+1. Yes. 2. Syntax. 3. The sentence should be "Jessica loaded boxes onto the wagon."
+1. Yes. 2. Syntax. 3. The sentence is missing an object for the verb "crammed." It should be "Jessica crammed boxes into/onto/etc. the truck" to make it grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is missing a direct object for the verb "buttered." It should be "Lora buttered the toast" or "Lora buttered at the toast" (if "at" is intended as a preposition indicating the location of the toast) to make it grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is missing a direct object for the verb "shoveled." It should be "Carla shoveled the snow from/off the walk" to make it grammatically correct.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax 3. The preposition "at" is not necessary in this context and can be omitted for a more concise sentence. A better version of the sentence would be "Carla slid the book."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Semantics 3. The subject of the sentence is plural ("packages"), but the verb should be singular ("drives") to agree with it. Also, the phrase "drive easily" should be hyphenated as "drive easily" since it's a compound adjective modifying "route." A better version of the sentence would be: "The route from here to New York is easy for packages to drive on."
+1. Yes. 2. Syntax and Semantics 3. The verb "pushed" is in the past tense, but it should be in the passive voice to match the subject "chair." A better version of the sentence would be: "The chair was pushed by someone."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Semantics 3. The subject of the sentence is singular ("a job"), but the verb should be plural ("offer") to agree with it. A better version of the sentence would be: "We offer jobs to many people."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Semantics 3. The phrase "with the papers" should be set off with a pair of commas to show that it's nonessential to the meaning of the sentence. A better version of the sentence would be: "Michelle kept the desk, along with the papers."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Semantics 3. The phrase "the sugar and the cream" should be set off with a pair of commas to show that it's nonessential to the meaning of the sentence. A better version of the sentence would be: "Herman whipped the mixture, adding sugar and cream."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. The first mistake is a syntax error and the second one is a morphological error. 3. The correct way to say this would be "This flyer differs from that flyer."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax 3. The subject "children" is singular, but the verb "amused" is in its plural form. It should be "The children amused themselves."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax 3. The verb "chewed" is in its past tense form and does not agree with the subject "Cynthia." It should be "Cynthia chewed on the carrot."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The phrase "winked her lip" is not idiomatic. It should be "Linda winked at him with her eye." Also, the verb "winked" should agree with the subject "Linda," which is singular.
+1. Yes. 2. Syntax and Morphology 3. The preposition "to" is commonly used to indicate the direction of an action towards someone or something. In this case, it should be "My heart is pounding for me." Also, the verb "pounding" should agree with the subject "my heart," which is singular.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The subject "witch" is singular, but the verb "poisoned" is in its past tense form and does not agree with the subject. It should be "The witch poisoned the children." Also, the plural noun "children" agrees with the singular subject "witch," which is incorrect.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The verb "squeaked" is in its past tense form and does not agree with the subject "I." It should be "I squeeze the door," which is an idiomatic expression meaning to open a door quietly or stealthily. Also, the verb "squeezed" agrees with the singular subject "door," but it should also agree in number with the plural subject "we" if referring to multiple people.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The verb "fluttered" is in its past tense form and does not agree with the subject "the fort." It should be "The fort flutters with many flags," which is an idiomatic expression meaning that there are many flags on or around the fort, causing it to move slightly. Also, the plural noun "flags" agrees with the singular subject "fort," which is incorrect.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The phrase "There presented itself" is not idiomatic. It should be "Yesterday presented itself as a wonderful opportunity," which means that yesterday was an excellent chance to do something or take advantage of a situation. Also, the verb "presented" should agree with the singular subject "yesterday," but it does not in your sentence.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The verb "jumped" is in its past tense form and does not agree with the subject "the box." It should be "Out of the box jumped a little white rabbit," which means that something or someone unexpectedly emerged from the box. Also, the plural noun "rabbits" agrees with the singular subject "box," which is incorrect.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The subject "many" is plural, but it should agree with the singular verb "was provided." It should be "Many information was provided," which means that a lot of details or data were given. However, this sentence structure is not idiomatic in English. Instead, you could say "A lot of information was provided" to convey the same meaning.
+1. Yes. 2. Syntax. 3. The verb "offers" should agree with the singular subject "John," but it does not in your sentence. It should be "John offers much advice," which means that John provides a lot of suggestions or recommendations. Also, the plural noun "advice" agrees with the singular subject "John," which is incorrect.
+1. Yes. 2. Syntax. 3. The subject "the one that Smith got" is a relative clause referring to "cake." It should be "The cake that Jones got was more delicious than the one that Smith got," which means that the cake brought by Jones tasted better than the one brought by Smith. However, this sentence structure is not idiomatic in English. Instead, you could say "Jones's cake was more delicious than Smith's cake" to convey the same meaning.
+1. Yes. 2. Syntax. 3. The verb "recommend" should agree with the plural subject "we," but it does not in your sentence. It should be "We recommend that you eat less cake and pastry," which means that we suggest reducing the amount of cake and pastries consumed. Also, the phrase "to eat less cake and pastry" is a subordinate clause that could be omitted for more concise expression.
+1. Yes. 2. Syntax. 3. The verb "explode" should agree with the singular subject "gas can," but it does not in your sentence. It should be "I saw that a gas can could explode," which means that I observed that a container of gas was capable of exploding under certain conditions. Also, the phrase "that gas can" is a restrictive relative clause referring to "explosion."
+1. Yes. 2. Syntax. 3. The subject "her" is singular, but it does not agree with the verb "washed," which should be in its past tense form to match the past tense of the auxiliary verb "was." It should be "He washed her hair," which means that he cleaned her hair using water or soap. However, this sentence structure is not idiomatic in English. Instead, you could say "She washed her own hair" to convey the same meaning without implying any relationship between the two people involved.
+1. Yes. 2. syntax. 3. The verb "wash" should agree with the singular subject "you," but it does not in your sentence. It should be "Wash yourself!" which means that you should cleanse or purify yourself by washing your body or clothes. However, this sentence structure is not idiomatic in English. Instead, you could say "Please wash your hands" to convey the same meaning without using imperative mood.
+1. Yes. 2. syntax. 3. The phrase "no in" is unclear and does not make sense in English grammar. It seems like a fragment or incomplete thought, so it needs to be revised for clarity and coherence. If you meant to convey that they do not have something inside them, you could say "They have no insides," which means that their internal organs are absent or removed. However, this sentence structure is also not idiomatic in English. Instead, you could use a more specific term or phrase depending on what you want to describe.
+1. Yes. 2. morphology. 3. The possessive pronoun "my" should agree with a singular noun to indicate possession or ownership, but it does not in your sentence. It should be "Some of my jobs are in jeopardy," which means that some specific tasks or positions I hold may be at risk of being lost or terminated. However, this sentence structure is also not idiomatic in English. Instead, you could say "My job is in jeopardy" to convey the same meaning without using a plural form for "job."
+1. Yes. 2. syntax. 3. The verb "met" should agree with a singular subject to indicate meeting or encountering someone, but it does not in your sentence. It should be "It was the policeman who met several young students in the park last night," which means that the person who interacted with the students was a specific police officer. Also, the phrase "several young students" is redundant and could be replaced by a more concise expression such as "a group of students."
+1. Yes. 2. syntax. 3. The verb "meet" should agree with a singular subject to indicate meeting or encountering someone, but it does not in your sentence. It should be "Did the policeman meet anyone in the park?" which means that you are asking if there was any interaction between the police officer and other people in the park. However, this sentence structure is also not idiomatic in English. Instead, you could say "Was anyone met by the policeman in the park?" to convey the same meaning using a more formal or literary style.
+1. No. 2. None. 3. None
+1. Yes. 2. syntax. 3. The subject "monkeys" and verb "are proud" do not agree in number. It should be "The monkeys are proud of their leader."
+1. Yes. 2. syntax. 3. The sentence is incomplete and lacks a verb. It should be "John sounded very happy" or "John sounded very tired", depending on what you intended to convey.
+1. No. 2. None. 3. None
+1. Yes. 2. syntax. 3. The preposition "on" does not work well with the surface of a table. It should be either "John bought a book on the table." or "John put a book on the table." depending on what you intended to convey.
+1. No. 2. None 3. None
+1. Yes. 2. syntax. 3. The verb "tastes" should be in its base form as it is the second verb in the infinitive phrase "to taste". It should be "I forgot how good beer tastes."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The verb "remained" should be in its past participle form as it is the second verb in the infinitive phrase "to remain". Also, the pronoun "him" should agree in number with the subject "friend". It should be "A good friend of mine remained with me by him."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The noun "smith" is a proper noun and should be capitalized. Also, the verb "hammered" should agree in number with the subject "smith". It should be "The smith hammered the metal."
+1. Yes. 2. Syntax and Morphology 3. The adjective "ballet" should be preceded by the article "the". Also, the verb "removed" should agree in number with the subject "Sandy". It should be "She removed her ballet shoes." or "The ballerina removed her ballet shoes." depending on what you intended to convey.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The verb "worked" should agree in tense with the time frame of the action described by the adverbial phrase "when he was a student". It should be either "Benny worked in a shoe factory when he was a student." or "When he was a student, Benny worked in a shoe factory." depending on what you intended to convey. Also, the verb "worked" should agree in number with the subject "he".
+1. Yes. 2. Syntax and Morphology 3. The verb "hoped" should agree in number with the subject "everyone". Also, the pronoun "she" should be in its nominative form as it is the subject of the infinitive phrase "to sing". It should be "Everyone hoped that she would sing." or "Everyone hoped that the singer would perform." depending on what you intended to convey.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax and Morphology 3. The verb "devoured" should agree in number with the subject "crocodile". Also, the object of the verb "devoured" should be a doughnut not a donut. It should be "The crocodile devoured the doughnut." or "The alligator consumed the pastry." depending on what you intended to convey.
+1. No. 2. None. 3. None
+1. Yes. 2. syntax. 3. The correct preposition to use in this context is "in" instead of "under". So, it should be "John put IN the bathtub."
+1. No. 2. None. 3. None
+1. Yes. 2. syntax. 3. The correct preposition to use in this context is "on" instead of "for". So, it should be "Kim depends ON Sandy."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. syntax. 3. The mistake is in the past participle form used for the second verb. Instead of "was nominated," it should be "nominated."
+1. Yes. 2. syntax. 3. The mistake is in the article used before "FTA." Instead of "possible," it should be "a."
+1. Yes. 2. syntax. 3. The mistake is in the preposition used. Instead of "paid me against," it should be "paid me for."
+1. No. 2. None. 3. None
+1. Yes. 2. syntax. 3. The mistake is in the verb form used for the second verb. Instead of "be," it should be "do.". So, it should be "We made them be rude."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The first mistake is that "studying English" should be "study English," as it's an action being performed by students, not a subject they study. The second mistake is that the verb tense of "reads" should match with the subject "Students." It should be in present simple tense, so it should be "read" instead of "reads.". The corrected sentence would be: Students study English reads Conrad's Heart of Darkness while at university.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The first mistake is that "of students" should be removed as it's not necessary in this context, and the verb "failed" should agree with the subject "student." So, it should be "neither student failed," or "none of the students failed.". The corrected sentence would be: Neither student failed.
+1. Yes. 2. Syntax, Morphology. 3. The first mistake is that "of water" should be removed as it's not necessary in this context, and the verb "drank" should agree with the subject "I." So, it should be "I drank some water," or "I drink water.". The corrected sentence would be: I drank some water.
+1. Yes. 2. Morphology. 3. The first mistake is that "hair" should be pluralized as there's more than one hair, so it should be "golden hairs." The second mistake is the use of the article "a," which suggests a general or indefinite noun, but "golden hairs" is specific and definite. So, it should be "the golden hairs." . The corrected sentence would be: The golden hairs are shiny.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax, semantics. 3. The first mistake is that "it" should be replaced with a proper noun or pronoun to refer to the dog, as it's unclear which dog is being referred to. So, it could be "That dog is so ferocious that even tried to bite itself." Or "That dog is so ferocious that it bites everything in sight, including itself.". The second mistake is a semantic error where the sentence implies that the dog bit its own tail or body, but this action doesn't make sense for a ferocious dog. So, it should be rephrased to avoid confusion and contradiction. The corrected sentence would be: That dog is so ferocious that it even tried to bite everything in sight, including other dogs and people.
+1. Yes. 2. Syntax. 3. The first mistake is that "yourself" should be removed as it's a reflexive pronoun, which means the subject performs an action on themselves. In this case, there's no need for a reflexive pronoun because the subject already performed the action of washing. So, it should be "He washed himself.". The second mistake is that "washed" should agree with the subject "he," so it should be in third person singular form, which is "washes." The corrected sentence would be: He washes himself.
+1. Yes. 2. Morphology. 3. The first mistake is that "please Kim" should be removed as it doesn't make sense in this context, and there's no need to mention the person being pleased. So, it could be "John is easy to please," or "John is easy to satisfy.". The second mistake is that "is" should agree with the subject "Kim," so it should be in third person singular form, which is "pleases.". The corrected sentence would be: John pleases Kim easily.
+1. Yes. 2. Syntax. 3. The first mistake is that "to be intelligent" should be replaced with a proper verb form to convey meaning, as it's unclear what action or state the subject is performing. So, it could be "There seemed to be intelligent life," or "There seemed to be an intelligent solution.". The second mistake is a semantic error where the sentence implies that intelligence can seem like something, but this doesn't make sense as intelligence is not a tangible object or state that can be perceived by senses. So, it should be rephrased to avoid confusion and contradiction. The corrected sentence would be: There seemed to be evidence of intelligent life on Mars.
+1. No. 2. None. 3. None 
+1. Yes. 2. Syntax, semantics. 3. The first mistake is that "to be a fountain" should be replaced with a proper verb form to convey meaning, as it's unclear what action or state the subject is performing. So, it could be "We believed John was a fountain in the park," or "We believed John had turned into a fountain in the park.". The second mistake is a semantic error where the sentence implies that John has become a physical object (a fountain), which doesn't make sense. So, it should be rephrased to avoid confusion and contradiction. The corrected sentence would be: We believed John had turned into a fountain in the park.
+1. Yes. 2. Syntax, morphology. 3. The first mistake is that "it" should be replaced with a proper noun or pronoun to refer to the subject, as it's unclear what or who is trying to leave the country. So, it could be "The government tries to leave the country," or "The citizens try to leave the country.". The second mistake is that "tries" should agree with the subject, so it should be in third person singular form, which is "try." The corrected sentence would be: The government tries to leave the country.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The first mistake is that "seems" should be replaced with a proper verb form to convey meaning, as it's unclear what action or state the subject is performing. So, it could be "Under the bed is a fun place to hide," or "Under the bed appears to be a fun place to hide.". The second mistake is that "to hide" should agree with the subject, so it should be in third person singular form, which is "hides.". The corrected sentence would be: Under the bed is a fun place to hide.
+1. Yes. 2. Syntax. 3. The first mistake is that "believed to be" should be replaced with a proper verb form to convey meaning, as it's unclear what action or state the subject is performing. So, it could be "There is believed to have sheep in the park," or "There are believed to be sheep in the park.". The second mistake is that "to be" should agree with the subject and verb tense, so it should be in third person singular form, which is "are.". The corrected sentence would be: There are believed to be sheep in the park.
+1. Yes. 2. Syntax. 3. The first mistake is that "to would" should be replaced with a proper verb form to convey meaning, as it's unclear what action or state the subject is performing. So, it could be "I hope to study in France," or "I plan to study in France.". The second mistake is that "would" should agree with the subject and verb tense, so it should be in first person singular form, which is "will.". The corrected sentence would be: I hope to study in France.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The first mistake is that "will rain" should be replaced with a proper verb form to convey meaning, as it's unclear what action or state the subject is performing. So, it could be "It will rain tomorrow," or "John says it will rain tomorrow.". The second mistake is that "rain" should agree with the subject and verb tense, so it should be in third person singular form, which is "rains.". The corrected sentence would be: It will rain tomorrow.
+1. Yes. 2. Syntax. 3. The first mistake is that "to will" should be replaced with a proper verb form to convey meaning, as it's unclear what action or state the subject is performing. So, it could be "We expect there to rain," or "We anticipate there will be rain.". The second mistake is that "will" should agree with the subject and verb tense, so it should be in first person plural form, which is "will.". The corrected sentence would be: We expect there to rain.
+1. No. 2. None. 3. None 
+1. Yes. 2. Syntax. 3. The first mistake is that "be" should be replaced with a proper verb form to convey meaning, as it's unclear what action or state the subject is performing. So, it could be "Was the child at school?" or "Did the child attend school?". The second mistake is that "in" should agree with the preposition and object, so it should be in third person singular form, which is "at.". The corrected sentence would be: Was the child at school?
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it contains a double negative ("not to leave" and "wants not"). In English, using two negatives in one sentence can create confusion about the intended meaning. To fix this issue, you could either remove one of the negatives or rephrase the sentence for clarity. For example: John wants to stay in town. (removing the double negative); He doesn't want to leave the town. (using a single negative and changing "wants not" to "doesn't")
+1. Yes. 2. Syntax. 3. The sentence contains a mismatch in verb tense between "likes" (present tense) and "hates" (present tense with an added "-s" for third-person singular). To correct this issue, you should ensure that both verbs are in the same tense. Here's one possible correction: Mary likes to tour art galleries, but Bill hates to do so. (changing "doesn't like" to "hates" for consistency)
+1. No. 2. None. 3. None 
+1. No. 2. None. 3. None 
+1. Yes. 2. Syntax. 3. The sentence contains a mismatch in verb tense between "love" (present tense) and "do not" (negative form of "do," which is also present tense). To correct this issue, you should ensure that both verbs are in the same tense. Here's one possible correction: They love to play golf, but I don't. (changing "do not" to "don't" for consistency)
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence contains a mismatch in verb tense between "could" (past tense) and "do anything worth mentioning" (present tense). To correct this issue, you should ensure that both verbs are in the same tense. Here's one possible correction: As a statesman, he could hardly do anything worth mentioning. (changing "could" to "couldn't" and adjusting the word order for clarity)
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it lacks a subject for the verb "was driven." To fix this issue, you could add a subject to the sentence or rephrase it for clarity. For example: John drove the car. (adding a subject); Someone drove the car. (using a more general subject); The car was moved by someone. (changing "was driven" to "was moved" and using a more specific subject)
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence contains a mismatch in verb tense between "was slept" (past participle) and "in" (preposition). Additionally, "slept" should be in its base form "sleep." To correct this issue, you can change the verb to the past tense and use the appropriate preposition. Here's one possible correction: The bed was slept on. (changing "was slept" to "was slept on")
+1. Yes. 2. Syntax, morphology. 3. The sentence contains a mismatch in verb tense between "was weighed" (past participle) and "by the book" (prepositional phrase). Additionally, "weighed" should be in its base form "weigh." To correct this issue, you can change the verb to the past tense and use the appropriate preposition. Here's one possible correction: The book weighed a pound. (changing "was weighed" to "weighed" and reordering the phrases for clarity)
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence contains a mismatch in verb tense between "knows" (present tense) and "her to vote for" (infinitive phrase). To correct this issue, you should ensure that both verbs are in the same tense. Here's one possible correction: Fed knows which politician to vote for. (changing "her to vote for" to "to vote for")
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence contains a mismatch in verb tense between "knows" (present tense) and "whose efforts to achieve peace the world should honor" (infinitive phrase). To correct this issue, you should ensure that both verbs are in the same tense. Here's one possible correction: The committee knows whose efforts should be honored for achieving peace. (changing "whose efforts to achieve peace the world should honor" to "whose efforts should be honored for achieving peace")
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence contains a mismatch in verb tense between "fell" (past tense) and "in love with" (present participle). Additionally, there is an unnecessary redundancy in the phrase "with whom." To correct this issue, you can change the verbs to the same tense and remove the redundant phrase. Here's one possible correction: Jack is the person Jenny fell in love with. (changing "fell" to "fell" and removing "with whom")
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence contains a mismatch in verb tense between "get bored" (present tense) and "because Mary talked about" (infinitive phrase). To correct this issue, you should ensure that both verbs are in the same tense. Here's one possible correction: Which topic did you get bored of because Mary talked about it? (changing "get bored" to "get bored of" and changing "because Mary talked about" to "because Mary talked about it")
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject and verb do not agree in number. "Any trouble" is singular but "what I don't want" is plural. A possible correction could be: "I don't want any trouble."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject and verb do not agree in number. "Some of them" is plural but "made as many errors as 20" is singular. A possible correction could be: "Some of them made as many errors as twenty."
+1. Yes. 2. Syntax. 3. The subject and verb do not agree in gender. "Sally" is singular and feminine but "kissed himself" is plural and masculine. A possible correction could be: "Sally kissed herself."
+1. Yes. 2. Syntax. 3. The subject and verb do not agree in number. "Drew believes" is singular but "I think Rosie loves magazine ads" is plural. A possible correction could be: "Drew believes that I think Rosie loves magazine ads."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Semantics. 3. The subject "Blue leather" is not appropriate for the sentence, it should be a person or an animal. Also, the verb "shows herself" does not agree with the subject "Betsy". A possible correction could be: "Betsy shows herself that she is pretty."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax, morphology. 3. The subject "I" is singular but the verb "knew" is plural. Also, the word order should be "You knew that I hit it." A possible correction could be: "You knew that I hit it."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject "they" is plural but the verb "chased" should be in singular form to agree with the object "man". Also, it should be "They chased the man with their car." A possible correction could be: "They chased the man with their car."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject "the book of poems" is singular but the verb "takes" should be in plural form to agree with the object "from Blackwell". Also, it should be "The book of poems from Blackwell takes a very long time to read." A possible correction could be: "The book of poems from Blackwell takes a very long time to read."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject "the building" is singular but the verb "is leaking" should be in plural form to agree with the object "roof". Also, it should be "The building's roof is leaking." A possible correction could be: "The building's roof is leaking."
+1. Yes. 2. Syntax. 3. The subject "the panther" is singular but the verb "is" should be in plural form to agree with the object "coat". Also, it should be "The panther's coat is dark black." A possible correction could be: "The panther's coat is dark black."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject "the man" is singular but the verb "robbed" should be in plural form to agree with the object "bank". Also, it should be "The man I saw getting into the cab robbed the bank." A possible correction could be: "The man I saw getting into the cab robbed the bank."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The verb "bother" should be in singular form to agree with the object "me". Also, it should be "John's drum will always bother me." A possible correction could be: "John's drum will always bother me."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject "Andy" is singular but the verb "to eat" should be in plural form to agree with the object "salmon flavored candy bars". Also, it should be "Heidi thinks that Andy eats salmon-flavored candy bars." A possible correction could be: "Heidi thinks that Andy eats salmon-flavored candy bars."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject "Calvin" is singular but the verb "did" should be in plural form to agree with the object "his homework". Also, it should be "Did Calvin do his homework?" A possible correction could be: "Did Calvin do his homework?"
+1. Yes. 2. Syntax. 3. The verb "was slapping" should be in past tense to agree with the time frame of the action described in the sentence. Also, it should be "Sylvia was slapping Jeff upside the head in martial arts class." A possible correction could be: "Sylvia was slapping Jeff upside the head in martial arts class."
+1. Yes. 2. Syntax. 3. The verb "buy" should be in first person singular present tense to agree with the subject "I". Also, it should be "If I were a rich man, I'd buy a diamond ring." A possible correction could be: "If I were a rich man, I'd buy a diamond ring."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The past participle "sunk" should agree with the subject "was" in number (singular or plural). The correct form would be "was sunk," not "was sink."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject "who" is singular and requires a singular verb, not plural. The correct form would be "Who has Peter talked to?" instead of "Who has Peter talked with?".
+1. No. 2. None. 3. None
+1. Yes. 2. Morphology. 3. The subject "Mary" is singular and requires a singular verb, not plural. Also, the pronoun "himself" should be replaced with "herself" to agree with the antecedent "Mary." The correct form would be "John thinks that Mary loves herself."
+1. Yes. 2. Syntax. 3. The pronoun "himself" should be replaced with a reflexive pronoun to make the sentence clear. Also, the verb tense needs to agree with the subject. The correct form would be "Which pictures does John like of himself?"
+1. Yes. 2. Syntax, morphology. 3. The verb "hunts" should be changed to agree with the subject "owl." Also, the word order needs to be corrected for clarity. The correct form would be "An owl hunts mice."
+1. Yes. 2. Syntax, morphology. 3. The negative form "didn't" should be changed to agree with the subject "man." Also, the word order needs to be corrected for clarity. The correct form would be "No man ate dinner."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The pronoun "whoever" should be replaced with a noun or another pronoun to make the sentence clear. Also, the verb tense needs to agree with the subject. The correct form would be "Everybody who attended last week's huge rally signed the petition."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The verb "has" should be changed to agree with the subject "tiger." Also, the word order needs to be corrected for clarity. The correct form would be "A tiger has orange fur marked with black stripes."
+1. Yes. 2. Syntax. 3. The verb "has" should be changed to agree with the subject "albino tiger." Also, the word order needs to be corrected for clarity. The correct form would be "An albino tiger has orange fur marked with black stripes."
+1. Yes. 2. Syntax. 3. The verb "pick" should be changed to agree with the subject "you." Also, the word order needs to be corrected for clarity. The correct form would be "Pick any flower you see."
+1. Yes. 2. Syntax. 3. The verb "could be flying" should be changed to agree with the subject "pilot." Also, the word order needs to be corrected for clarity. The correct form would be "Any pilot on duty today could fly this plane."
+1. Yes. 2. Syntax. 3. The verb "pick" should be changed to agree with the subject "you." Also, the word order needs to be corrected for clarity. The correct form would be "You may pick every flower but leave a few for Mary."
+1. Yes. 2. Syntax. 3. The verb "beaten" should be changed to agree with the subject "Dodgers." Also, the word order needs to be corrected for clarity. The correct form would be "The Dodgers beat the Red Sox but lost to the Giants."
+1. Yes. 2. Syntax. 3. The verb "seen" should be changed to agree with the subject "man." Also, the word order needs to be corrected for clarity. The correct form would be "In which car was the man seen?"
+1. Yes. 2. Syntax. 3. The corrected sentence should be "The man whom Mary loves and Sally hates computed my tax."
+1. Yes. 2. syntax, semantics. 3. The corrected sentence should be "The kennel that Mary made and where Fido sleeps has been stolen."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject "She" and verb "was" do not agree in number. It should be "She asked if Alison was coming to the party.". The word order of the question is incorrect. It should be "Was Alison coming to the party?" or "Did Alison come to the party?"
+1. Yes. 2. Syntax. 3. The past perfect form "never had" should be changed to "he had never been" to correctly convey that Sir Thomas had never been offended before this incident. The verb tense of the main clause is incorrect. It should be in the present perfect form, as it refers to a state or action up until the time of speaking: "They realized that he had never been so offended."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The adjective "well" should be changed to "knowledgeably" or "familiarly" to correctly convey that he had knowledge of the country, rather than a physical attribute. The verb tense of the main clause is incorrect. It should be in the present perfect form, as it refers to an action completed before another past action: "Knowing the country well, he took a short cut."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The main issue with your sentence is that it lacks a clear subject for the second clause "that the Dome was dull." Additionally, there should be a comma after "Prime Minister" to separate the two clauses. A possible corrected version of your sentence could be: "The idea dismayed the Prime Minister, and the Dome was dull."
+1. Yes. 2. Syntax. 3. The main issue with your sentence is that it lacks a clear subject for the second clause "without so much as a knock." Additionally, there should be a comma after "he" to separate the two clauses. A possible corrected version of your sentence could be: "He came right in without so much as a knock."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The main issue with your sentence is that it lacks a clear subject for the second clause "and very upset about it." Additionally, there should be a comma after "Award" to separate the two clauses. A possible corrected version of your sentence could be: "Pat was awarded the Golden Fleece Award and was very upset about it."
+1. Yes. 2. Syntax. 3. The main issue with your sentence is that it lacks a clear subject for the second clause "beating his dog." Additionally, there should be a comma after "cats" to separate the two clauses. Also, "alienated" requires an object, which is missing in this sentence. A possible corrected version of your sentence could be: "Kim alienated cats and beat his dog."
+1. Yes. 2. Syntax. 3. The main issue with your sentence is that it lacks a clear subject for the second clause "would be on sale." Additionally, there should be a plural form of "pictures" as you're talking about pictures of each other. A possible corrected version of your sentence could be: "They knew that pictures of themselves would be on sale."
+1. Yes. 2. Syntax. 3. The main issue with your sentence is that it lacks a clear subject for the second clause "without reading." Additionally, there should be an article before "papers" to make the sentence clearer. A possible corrected version of your sentence could be: "Which article did Terry file papers without reading?" or "What article did Terry file papers without reading?"
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The first mistake is that "buying" should be in its gerund form "buy" to function as a verb in this context. The correct sentence would be "She goes and buys some whiskey.". The second mistake is that the subject "she" and the verb "goes" do not agree in number. The correct sentence would be "She goes and buy some whiskey."
+1. Yes. 2. Syntax. 3. The first mistake is that the subject "Kim and Terry" should be in its plural form "Kim and Terri" to agree with the verb "is." The correct sentence would be "Kim and Terri are happy.". The second mistake is that the verb "is" should be in its third-person singular form "are" to agree with the subject "Kim and Terry." The correct sentence would be "Kim and Terri are happy."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The first mistake is that "will put" should be in its present simple form "puts" to function as a verb in this context. The correct sentence would be "This girl in the red coat puts a picture of Bill in the mailbox and on your desk before tomorrow.". The second mistake is that the subject "girl" and the verb "will put" do not agree in number. The correct sentence would be "This girl in the red coat puts a picture of Bill in the mailbox and on your desk before tomorrow."
+1. Yes. 2. Syntax. 3. The first mistake is that "will put" should be in its present simple form "puts" to function as a verb in this context. The correct sentence would be "Put a picture of Bill on your desk before tomorrow, this girl in the red coat puts a picture of Bill on your desk before tomorrow.". The second mistake is that the subject "girl" and the verb "will put" do not agree in number. The correct sentence would be "This girl in the red coat puts a picture of Bill on your desk before tomorrow."
+1. Yes. 2. Syntax. 3. Here is an explanation of the mistakes: "Picture of Bill" should be "a picture of Bill" because "picture" is a countable noun that requires an article. "this girl in the red coat will put" should be "she will put" or "the girl in the red coat will put" to make it grammatically correct and clear who is doing the action. "on your desk before tomorrow" should be "on your desk by tomorrow" because "before" implies a time earlier than expected, while "by" indicates the latest possible time.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. "John became deadly afraid" should be "John became deathly afraid" because "deadly" means causing or capable of causing death, while "deathly" means extremely frightened or unwell. "of flying" should be removed as it doesn't make sense in this context and the sentence is already clear about what John is afraid of.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. "which" should be replaced with "what" because "books about cooking" is a noun phrase that functions as the object of the verb "wants to buy". "Which" is used for questions, not sentences. The sentence could also be rephrased as "Henri wants to buy books about cooking. Which ones does he want?" to make it grammatically correct and clear who is asking the question.
+1. Yes. 2. Syntax. 3. "fix the computer for Carol" should be "fix the computer for her" or "fix the computer for Carol's use" to make it clear who will benefit from the fix. The sentence could also be rephrased as "I will fix the computer and give it to Carol" if you want to convey that you are giving the fixed computer to Carol as a gift.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. "The paper" should be "a paper" because "paper" is a countable noun that requires an article. "is cut by Mary" should be "was cut by Mary" or "has been cut by Mary" to indicate past tense or present perfect tense, depending on the context of your sentence.
+1. Yes. 2. Syntax. 3. "It was from six to nine or it took place from six to nine" should be rephrased as "It either lasted from 6 to 9, or it started at 6 and ended at 9." This makes the sentence clearer by using parallel structure and avoiding confusion between two different meanings of "took place". The use of "from six to nine" in both clauses is redundant as they are describing the same time period.
+1. Yes. 2. Syntax. 3. "Suddenly, there arrived two inspectors from the INS" should be rephrased as "Two inspectors suddenly arrived from the INS." This makes the sentence clearer by using parallel structure and avoiding confusion between the subject and object of the verb. The use of "there" is unnecessary in this context and can be removed for a more concise sentence.
+1. Yes. 2. Syntax. 3. "The soup cooks" should be "The soup is cooking" to indicate that the action of cooking is ongoing or has started but not yet finished. "thickens" should be "and thickens" to make it clear that both actions are happening simultaneously. The sentence could also be rephrased as "As the soup cooks, it thickens." This makes the sentence clearer by using a conjunction and avoiding confusion between two separate actions.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. In this sentence, there is a problem with both syntax (word order) and morphology (the form of words). The word "even" should not come after "saw", as it changes the meaning of the sentence to imply that you saw something unexpected or surprising about the student. Additionally, the verb "was seen" would be more appropriate than "seen by me" in this context.
+1. Yes. 2. Syntax, morphology. 3. In this sentence, there is a problem with both syntax (word order) and morphology (the form of words). The verb tense of the second clause ("left") should match that of the first clause ("whispered"). Additionally, "Mary had left" would be more appropriate than just "Mary left", as it implies that Mary had already left before John whispered about her departure.
+1. Yes. 2. Syntax. 3. In this sentence, there is a problem with both syntax (word order) and morphology (the form of words). The phrase "that Bill will come" should be replaced by "whether Bill will come" or "if Bill will come", as it implies that Mary has doubts about whether Bill will arrive. Additionally, the verb tense of the second clause ("will come") should match that of the first clause ("wonders").
+1. Yes. 2. Syntax. 3. In this sentence, there is a problem with both syntax (word order) and morphology (the form of words). The verb tense of the second clause ("will") should match that of the first clause ("is going"). Additionally, "the theater" should be written as two separate words: "to the theater".
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax, morphology. 3. In this sentence, there is a problem with both syntax (word order) and morphology (the form of words). The word "herself" should come before the verb "likes", as it refers to the subject of the sentence ("Mary's mother"). Additionally, the verb tense of the second clause ("likes") should match that of the first clause ("is liked by").
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject of the sentence "John's mother" is singular, but the verb "likes" should agree with it in number. Instead of saying "likes himself," which would be correct if "himself" were the object of the verb, you have said "likes himself," which implies that "mother" is doing the liking and "himself" is being liked. To fix this mistake, change "himself" to "him." So the corrected sentence should read: John's mother likes him.
+1. Yes. 2. Syntax. 3. The subject of the sentence "Mary" is singular, but the verb "revealed" should agree with it in number. Instead of saying "revealed himself," which would be correct if "himself" were the object of the verb, you have said "revealed himself," which implies that "Mary" is doing the revealing and "himself" is being revealed. To fix this mistake, change "himself" to "him." So the corrected sentence should read: Mary revealed him
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject of the sentence "John" is singular, but the verb "heard" should agree with it in number. Instead of saying "heard that they criticized themselves," which would be correct if "themselves" were the object of the verb "criticized," you have said "heard that they criticized themselves," which implies that "John" is doing the hearing and "themselves" are being criticized. To fix this mistake, change "themselves" to "them." So the corrected sentence should read: John heard that they criticized them.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject of the sentence "Henry" is singular, but the verb "found" should agree with it in number. Instead of saying "found that Bill is sad," which would be correct if "Bill" were a plural noun, you have said "found that Bill is sad," which implies that "Bill" is singular and "is" is incorrect. To fix this mistake, change "is" to "are." So the corrected sentence should read: Henry found that Bill are sad.
+1. Yes. 2. Syntax. 3. The subject of the sentence "John" is singular, but the verb "considers" should agree with it in number. Instead of saying "considers himself proud of Mary," which would be correct if "himself" were the object of the verb "proud," you have said "considers himself proud of Mary," which implies that "John" is doing the considering and "himself" is being considered. To fix this mistake, change "himself" to "he." So the corrected sentence should read: John considers he is proud of Mary.
+1. Yes. 2. Syntax. 3. The phrase "before there" is incorrect and should be changed to "before you." Additionally, the verb tense of "sit" should be consistent with the rest of the sentence. To fix these mistakes, change "before there" to "before you," and make sure that both verbs in the sentence are in the same tense. So the corrected sentence could read: You should sit down before you leave
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject of the sentence "everyone" is plural, but the verb "hopes" should agree with it in number. Instead of saying "hopes everyone to sleep," which would be correct if "to sleep" were a singular noun, you have said "hopes everyone to sleep," which implies that "everyone" is doing the hoping and "to sleep" is being hoped for by each person individually. To fix this mistake, change "to sleep" to "that they sleep." So the corrected sentence should read: Everyone hopes that everyone sleeps.
+1. Yes. 2. Syntax. 3. The subject of the sentence "he" is singular, but the verb "will sleep" should agree with it in number. Instead of saying "hopes that he will sleep," which would be correct if "he" were a plural noun, you have said "hopes that he will sleep," which implies that "he" is doing the hoping and "will sleep" is being hoped for by each person individually. To fix this mistake, change "that he will sleep" to "that everyone sleeps." So the corrected sentence should read: Everyone hopes that everyone sleeps.
+1. Yes. 2. Syntax. 3. The subject of the sentence "Only Churchill" is singular, but the verb "remembered" should agree with it in number. Additionally, the word "giving" should be changed to "delivering," as "Blood, Sweat and Tears" was a speech given by Winston Churchill, not something he gave. To fix these mistakes, change "Churchill giving" to "Churchill delivering," and make sure that both verbs in the sentence are in the same tense. So the corrected sentence could read: Only Churchill remembered Churchill delivering the Blood, Sweat and Tears speech.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject of the sentence "Mary" is singular, but the verb "should sleep" should agree with it in number. Additionally, the word order of the sentence could be improved for clarity. To fix these mistakes, change "that Mary should sleep" to "that she should sleep," and make sure that both verbs in the sentence are in the same tense. So the corrected sentence could read: John convinced Bill that she should sleep.
+1. Yes. 2. Syntax. 3. The subject of the first clause "I" is singular, but the verb "did" should agree with it in number. Additionally, the word order of the second clause could be improved for clarity. To fix these mistakes, change "while you did so Mary" to "while you were doing so, Mary," and make sure that both verbs in each clause are in the same tense. So the corrected sentence could read: I saw Bill while you were doing so, Mary.
+1. Yes. 2. Syntax. 3. The subject of the first clause "Mary" is singular, but the verb "did" should agree with it in number. Additionally, the word order of the second clause could be improved for clarity. To fix these mistakes, change "Bill was give a book" to "Bill gave him a book," and make sure that both verbs in each clause are in the same tense. So the corrected sentence could read: What Mary did was give Bill a book.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The subject of the sentence "to steal talismans from witches" is singular, but the verb "is dangerous" should agree with it in number. Additionally, the phrase "from witches" could be rephrased for clarity. To fix these mistakes, change "talismans from witches" to "talmens," and make sure that both verbs in the sentence are in the same tense. So the corrected sentence could read: To steal talmens is dangerous.
+1. Yes. 2. Syntax. 3. The verb "demonized" is not a proper verb form. It should be changed to either "demonize" or "be demonized." Additionally, the subject of the sentence "Anson" could be made clearer by adding more context. To fix these mistakes, change "demonized" to "was demonized," and make sure that both verbs in the sentence are in the same tense. So the corrected sentence could read: Anson was demonized.
+1. Yes. 2. Syntax. 3. The subject "you" is plural, but the verb "kicked" is singular. It should be "You kicked yourselves."
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence is difficult to understand due to a lack of context and unclear phrasing. It appears to be incomplete or grammatically incorrect. Please provide more information or revise the sentence for clarity.
+1. Yes. 2. Semantics. 3. The sentence could be improved by rephrasing to make it clearer and more concise. One possible revision is "I am not going to the party." This conveys the same meaning without using negative phrasing, which can sometimes lead to confusion or misunderstandings.
+1. Yes. 2. Syntax. 3. Kick yourself!
+1. Yes. 2. Syntax. 3. The sentence should be "Whom did you get an accurate description of?" to use the correct form for the object of the question.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None 
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence should be "You wanted to meet the man I saw." for correct subject-verb agreement and word order.
+1. Yes. 2. Syntax. 3. The sentence should be "Anson demonized David every day." for correct word order and verb tense agreement.
+1. Yes. 2. Syntax. 3. The sentence should be "Is there a program about Euripides on Radio 4 tonight?" for correct word order and verb tense agreement.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence should be "Extremely frantically, Anson danced at Trade." for correct word order and verb tense agreement.
+1. Yes. 2. Syntax. 3. The sentence should be "What did you ask Medea who she gave?" for correct word order and pronoun agreement.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence should be "Medea tried to poison her children by asking the nurse." for correct word order, verb tense agreement, and pronoun agreement.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. Can and will together is incorrect.
+1. Yes. 2. syntax. 3. The subject "I" and verb "ate" do not agree in number. The sentence should be written as "I ate that she was happy." or "She made me eat that I was happy."
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The verb "having fought" should be in its base form "fought." The correct sentence would be "Gilgamesh has fought the dragon." or "Gilgamesh was fighting the dragon."
+1. Yes. 2. Syntax. 3. The sentence should be written as "Anson thought that he was happy." or "Anson believed himself to be happy." The use of "himself" twice in the same sentence is redundant and incorrect.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence should be written as "I might not go to the party but wash my hair." or "I might not attend the party and instead wash my hair." The use of "be" before "not going" is incorrect, and the verb tenses are inconsistent.
+1. Yes. 2. Syntax. 3. The sentence should be written as "I thought he liked me." or "I believed him to like me." The use of "myself" in this context is incorrect and unnecessary.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence should be written as "Jason happens to seem sick." or "It seems that Jason is sick." The use of "to appear" and "to seem" together in this context is redundant and incorrect.
+1. Yes. 2. Syntax. 3. The sentence should be written as "What did you ask who saw?" or "Who did you ask saw what?" The use of "who" and "saw" in this context is incorrect, and the word order needs to be adjusted for clarity.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence should be written as "He can go." or "He will go." The use of "will" and "go" together in this context is redundant and incorrect.
+1. Yes. 2. Syntax. 3. The sentence should be written as "How fierce was the battle?" or "What a fierce battle it is!" The use of "the" before "battle" is incorrect, and the verb tense needs to be adjusted for clarity.
+1. Yes. 2. Syntax. 3. The sentence should be written as "Which king did you ask about which city was invaded?" or "You asked me about which city was invaded by which king." The use of "which" and "invaded" in this context is incorrect, and the word order needs to be adjusted for clarity.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence should be written as "It stinks that Aphrodite is all-powerful." or "I don't like that Aphrodite is omnipotent." The use of "is" before "omnipotent" is incorrect, and the word order needs to be adjusted for clarity. Additionally, the adjective "all-powerful" would be more appropriate than "omnipotent" in this context as it means having complete power or control over everything.
+1. No. 2. None. 3. None
+1. No. 2. None. 3. None
+1. No. 2. None. 3. The sentence could be improved by adding a question mark at the end to make it a complete question: "I wondered who Medea had poisoned?" or rephrasing it as a statement: "Medea had poisoned someone, and I wondered who it was."
+1. Yes. 2. Syntax. 3. The sentence could be improved by adding a question mark at the end to make it a complete question: "I inquired when we could leave?" or rephrasing it as a statement: "We can leave then." Additionally, the use of "could" implies uncertainty about whether leaving is possible, which may not be what was intended.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence should be written as "The monkey ate the banana." or "Ate the banana, the monkey did." The use of "is" before "ate" is incorrect, and the verb tense needs to match between the two clauses in the sentence. Additionally, the word order needs to be adjusted for clarity.
+1. Yes. 2. Syntax. 3. The sentence could be improved by removing the unnecessary use of "could" as it implies uncertainty about whether swimming is possible when "would like to" already indicates a desire or willingness to do so. Additionally, the word order needs to be adjusted for clarity: "I would like to swim."
+1. No. 2. None. 3. The sentence is grammatically correct and has a clear meaning. However, it should be noted that this sentence could potentially be considered offensive or inappropriate depending on the context in which it is used.
+1. Yes. 2. Syntax, semantics. 3. The sentence could be improved by adding a direct object to clarify what is running: "The bookcase ran across the room." or "The bookcase was being pushed by someone." Additionally, it should be noted that inanimate objects like bookcases do not have the ability to run on their own without an external force acting upon them.
+1. No. 2. None. 3. None
+1. Yes. 2. Syntax. 3. The sentence could be improved by adding a direct object to clarify what Anson became muscle-bound about: "Anson became muscle-bound from lifting weights." or "Anson became muscle-bound due to his workout routine." Additionally, the word order needs to be adjusted for clarity.

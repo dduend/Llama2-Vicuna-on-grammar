@@ -1,0 +1,527 @@
+1. No. 2. The sailors rode the breeze clear of the rocks.
+1. Yes. 2. The weights made the rope stretch over the pulley. -> The weights caused the rope to stretch over the pulley.
+1. Yes. 2. The mechanical doll wriggled itself loose -> The mechanical doll wriggled free itself.
+1. No 2. If you had eaten more, you would want less.
+1. Yes. 2. As you eat the most, you want the least -> The more you eat, the less you want.
+1. Yes. 2. The more you would want, the less you would eat -> The more you would want, the less you would have to eat.
+1. Yes. 2. I demand that the more John eat, the more he pays -> I demand that the more John eats, the more he pays.
+1. Yes. 2. Mary listens to the Grateful Dead, she gets depressed -> Mary listening to the Grateful Dead makes her feel depressed.
+1. No. 2. The angrier Mary got, the more she looked at pictures.
+1. Yes. 2. The higher the stakes, the lower his expectations are -> The higher the stakes, the lower his expectations become.
+1. Yes. 2. The more Fred is obnoxious, the less attention you should pay to him -> The more obnoxious Fred becomes, the less attention you should give him.
+1. No. 2. John was lots more obnoxious than Fred.
+1. Yes. 2. The more people you give beer to, the more people get sick -> The more people you give beer to, the sicker they may become.
+1. Yes. 2. The more does Bill smoke, the more Susan hates him -> The more Bill smokes, the more Susan dislikes him.
+1. Yes. 2. The more pictures of him that appear in the news, the more embarrassed John becomes -> The more pictures of him appear in the news, the more embarrassed John becomes.
+1. Yes. 2. Every senator seems to become more corrupt, as he talks to more lobbyists -> Every senator seems to become more corrupt as they talk to more lobbyists.
+1. Yes. 2. Who does John visit Sally because he likes -> Why does John visit Sally?
+1. No. 2.  Marianne did not leave.
+1. No. 2. He could not have been working -> He was not working.
+1. Yes. 2. He can not have been working -> He could not have been working.
+1. No. 2. You will believe Bob -> You should believe Bob.
+1. No. 2. John has not kissed Mary -> John hasn't kissed Mary.
+1. No. 2. I said that never in my life had I seen a place like Bangor -> I have never seen a place like Bangor before.
+1. Yes. 2. Mickey looked up it -> Mickey looked it up.
+1. Yes. 2. There tended to be a lot of discussion -> There was a lot of discussion.
+1. No. 2. John tried to be a good boy -> John was trying to be a good boy.
+1. No. 2. John is eager -> John is full of eagerness.
+1. No. 2. We want John to win -> We hope that John will win.
+1. Yes. 2. The box contained the ball from the tree -> The box contained a ball that was on the tree.
+1. No. 2. The tube was escaped by gas.
+1. No. 2. Water bubbled up out of the kettle -> Bubbles formed as water boiled in the kettle.
+1. No. 2. The tub leaked water -> Water was leaking from the tub.
+1. Yes. 2. What the water did to the bottle was fill it -> The water filled the bottle.
+1. Yes. 2. What the water did to the whole bottle was fill it -> The water filled the entire bottle.
+1. Yes. 2. The tank leaked the fluid free -> The tank was leaking fluid and it was now free.
+1. No. 2. John lay the ball in the box. 
+1. No. 2. John owns the book.
+1. No. 2. We persuaded Mary to leave and Sue to stay.
+1. No. 2.  Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.
+1. No. 2. Mary beautifully plays the violin.
+1. Yes 2. 
+1. No. 2. Sue gave to Bill a book.
+1. No. 2. The men will all leave.
+1. No. 2. John went home. 
+1. Yes. 2. The sentence contains several errors: "They" should be replaced with "she" to reflect that Mary is being represented to the dean. "as a genuine linguist" should be moved to the end of the sentence for proper punctuation and clarity. The verb tense in "represented" should match the past tense of the other verbs in the sentence.
+1. Yes. 2. The sentence contains an error: The subject "Us" should be in its plural form "We."
+1. No. 2. It is nice to go abroad.
+1. No. 2. Mary intended John to go abroad.
+1. No. 2. I remembered having kissed Mary.
+1. Yes. 2. The sentence contains an error: The comma after "won't" should be removed as it creates a grammatical ambiguity and makes the sentence unclear.
+1. No. 2. John wants to read Fred's story, and I also want to.
+1. No. 2.  We wanted to invite someone, but we couldn't decide who to.
+1. No. 2. Mary will read Fred's story, and Joe will read Holly's.
+1. Yes. 2. The sentence contains an error: The verb "should" should be in its base form as it is being used as a linking verb to connect "Holly" and "not eat cabbage." The phrase "that eating cabbage" can be rewritten as "when she eats cabbage" for better clarity.
+1. Yes. 2. The sentence contains an error: The phrase "to be introduced" should be in its past tense form as it refers to a completed action in the past. The verb "came" should also be in its past tense form for consistency.
+1. No. 2. If I can, I will work on it.
+1. Yes. 2. Here are two possible corrections: Joe's neuroses bother his patrons, and Sally bothers them too. Joe's neuroses bother his patrons, but Sally doesn't bother them as much.
+1. Yes. 2. I know which book José didn't read for class, but I don't know which book Lilly did it for him.
+1. Yes. 2. This is the book which Bob reviewed, but this is not the one which Fred will do it.
+1. Yes. 2. I know which book Mag read, but I don't know which book Bob said that you hadn't.
+1. Yes. 2. Here are two possible corrections: I know which book Mag read, but I don't know which book Bob read my report that you hadn't. I know which book Mag read, and I also know which book Bob read my report that you hadn't.
+1. No. 2. I'm sure I would like him to eat fruit more than I would cookies.
+1. Yes. 2. Rusty talked about himself only after Mary had talked about him.
+1. Yes. 2. Fred talked about everything before Rusty had talked about something.
+1. No. 2. John often meets Mary. 
+1. No. 2. The problem perceives easily.
+1. No. 2. A hundred men surrounded the fort.
+1. Yes. 2. The correct version of the sentence would be "We elected me as the leader."
+1. No. 2.  Which report that John was incompetent did he submit?
+1. No. 2. Mary has always preferred lemons to limes.
+1. Yes. 2. The correct version of the sentence would be "He let the cats out which were whining."
+1. No. 2. What did Bill buy?
+1. No. 2. Mary saw the boy walking toward the railroad station.
+1. Yes. 2. The correct version of the sentence would be "Proof that the claim had been made was given when John admitted to lying."
+1. Yes. 2. The correct version of the sentence would be "He attributed the fire which destroyed most of my factory to a short circuit caused by an overloaded transducer."
+1. Yes. 2. The correct version of the sentence would be "The mayor regarded the proposal to build a sidewalk from Dartmouth to Smith as absurd."
+1. Yes. 2. The correct version of the sentence would be "I want Bill's departure to remain a secret."
+1. Yes. 2. The correct version of the sentence would be "I know a man who Tom drives as does he."
+1. Yes. 2. The correct version of the sentence would be "Drowning cats, which is against the law, are hard to rescue." or "It's hard to rescue drowning cats, as it's against the law."
+1. No. 2.  Muriel said nothing else than that she had been insulted.
+1. Yes. 2. The correct version of the sentence would be "Rutherford understands himself."
+1. No. 2. I feel that Arch will show up.
+1. Yes. 2. The correct version of the sentence would be "This set's proof that it is recursive is difficult."
+1. Yes. 2. The correct version of the sentence would be "Henry's madrigals on the lute and sung sound lousy." or "The madrigals that Henry plays on the lute and sings sound lousy."
+1. Yes. 2. The correct version of the sentence would be "Tom picked these grapes and I washed some turnips, and Suzie will prepare them." or "Tom picked these grapes, I washed some turnips, and Suzie will prepare them."
+1. Yes. 2. The correct version of the sentence would be "Where did you go and who ate what?" or "Who ate what and where did you go?"
+1. Yes. 2. The correct version of the sentence would be "Whose guardian's employer did we elect as president?" or "Who's guardian's employer did we elect as president?"
+1. No. 2. How sane is Peter? 
+1. Yes. 2. The correct version of the sentence would be "I live at the place where Route 150 crosses the River and my dad lives at the place where Route 150 crosses the Hudson River as well." or "My dad and I both live at the places where Route 150 crosses a river, he on the Hudson River and me on the River."
+1. Yes. 2. I live at the place where Route 150 crosses the Hudson River and my dad lives there too.
+1. Yes. 2. The correct version of the sentence would be "Who is she trying to make up to now?" or "To whom is she trying to make up now?"
+1. No. 2. Wind was gotten of a plot to negotiate an honorable end to the war in Vietnam.
+1. No. 2. Mike talked about politics yesterday to my friends
+1. No. 2. It was expected by the reporters that the principal would fire some teacher.
+1. Yes. 2. The correct version of your sentence would be "Which hat did Mike quip that she never wore?" The only issue with the original sentence is that it uses "she" instead of "he" as the pronoun referring to Mike, which could be confusing or incorrect depending on the gender of the person named Mike.
+1. No. 2. Which girl did Mike quip never wore this hat?
+1. Yes. 2. The correct version of your sentence would be "We donated wire for the convicts to build cages."
+1. Yes. 2. The correct version of your sentence would be "I won't have any money." The word "some" implies that you have more than one unit of currency, which may not necessarily be true if you only mean that you don't have any money at all. Using the phrase "any money" instead of "some money" makes it clear that you are referring to a lack of money in general.
+1. No. 2. Do you believe the claim that somebody was looking for something?
+1. Yes. 2. The correct version of your sentence would be "I won't ask you to believe that he tried to force me to give her any money." The verb tense in the original sentence is incorrect - "tried" should be in the past participle form instead of the present tense. Additionally, the pronouns used could be clearer; it may not be immediately clear who "her" refers to without additional context.
+1. Yes. 2. The correct version of your sentence would be "That Sam sometimes didn't sleep must have pleased someone." 
+1. No. 2. I talked to Winston about himself.
+1. Yes. 2. The correct version of your sentence would be "That the fuzz wanted him worried John, but that the fuzz didn't want her to worry Mary."
+1. Yes. 2. I'll work on it if Sam will be working on it.
+1. No. 2. I'll work on it if I can. 
+1. Yes. 2. The correct version of your sentence would be "Here's a knife with which you can cut up the onions." The original sentence contains an error in syntax - it should use a relative clause to clarify who the knife is intended for instead of using the phrase "for you" at the end of the sentence. Additionally, the verb tense used could be improved for clarity and conciseness.
+1. Yes. 2. Fluffy is sick, which not everyone knows.
+1. No. 2. Maxwell is quite a doctor.
+1. Yes. 2. The correct version of your sentence would be "The younger woman might have been tall and blonde, and the older one definitely was." The original sentence contains an error in syntax - it should use a comma instead of a semicolon to separate two independent clauses that could stand alone as complete sentences. Additionally, the verb tense used could be improved for clarity and conciseness.
+1. Yes. 2. The correct version of your sentence would be "Sally is tall and may be blonde, while Sheila is short and definitely is blonde."
+1. No. 2. I have to try to finish grading some papers.
+1. Yes. 2. The correct version of your sentence would be "The socks are ready for you to put on and plan."
+1. No. 2. It is easy to play sonatas on this violin.
+1. Yes. 2. This violin is difficult to play sonatas on.
+1. Yes. 2. The correct version of your sentence would be "My mother is easy to please both my father and me." The original sentence contains an error in syntax - it should use a relative clause to clarify who or what is being referred to instead of using the phrase "and" at the end of the sentence. Additionally, the verb tense used could be improved for clarity and conciseness.
+1. No. 2. Poor Bill, it had started to rain and he had no umbrella.
+1. No. 2. That the cops spoke to the janitor about it yesterday is terrible, that robbery. 
+1. Yes. 2. The correct version of the sentence would be "Every student who wears socks is a swinger."
+1. No. 2. That girl was given my binoculars by him.
+1. No. 2. Bill didn't allege that Roger had eaten anything.
+1. Yes. 2. The correct version of the sentence would be "Nobody who hates eating anything should work in a deli."
+1. Yes. 2. Here is a corrected version: "Everyone around here who ever buys anything on credit talks in their sleep.
+1. Yes. 2. The correct version of the sentence would be "I can't remember the name of someone who had misgivings."
+1. Yes. 2. 
+1. No. 2. No writer, nor any playwright, meets in Vienna.
+1. No. 2. That you will marry any student is not certain.
+1. No. 2. Felicia kicked the ball off the bench.
+1. No. 2. I sent the package halfway around the world. 
+1. Yes. 2. The correct version of the sentence would be "Sam took the ball out of the basket."
+1. Yes. 2. The correct version of the sentence would be "Sam took the ball out of the basket."
+1. No. 2. Park Square has a festive air.
+1. No. 2. The worker will have a job. 
+1. Yes. 2. The correct version of the sentence would be "Nobody can forgive that comment to you."
+1. No. 2. We launched the rocket to the moon, but it blew up before it got there.
+1. Yes. 2. The correct version of the sentence would be "Sarah promised
+1. Yes. 2. The correct version of the sentence would be "I lent the book to Tony halfway."
+1. No. 2. The farmer loaded the cart with apples.
+1. Yes. 2. The correct version of the sentence would be "The farmer loaded the cart with apples."
+1. No. 2. Martha carved the baby a toy out of wood.
+1. No. 2. The bread cuts easily.
+1. Yes. 2. The correct version of the sentence would be "Janet broke her nail on Bill's finger."
+1. No. 2. Janet broke the cup.
+1. No. 2. The visitor rang the bell.
+1. Yes. 2. The correct version of the sentence would be "We managed to free ourselves."
+1. No. 2. That movie always shocks people.
+1. Yes. 2. The correct version of the sentence would be "That movie always shocks people."
+1. Yes. 2. Sharon enter the room.
+1. No. 2. Bill sent a package to Tom.
+1. No. 2. That acorn will grow into an oak tree.
+1. Yes. 2. The correct version of the sentence would be "He turned into a prince."
+1. No. 2. I mixed the sugar into the butter. 
+1. Yes. 2. The correct version of the sentence would be "Brian threw the stick over the fence."
+1. Yes. 2. The correct version of the sentence would be "Mira condemned Terry because of the accident."
+1. No. 2. We investigated the area for bombs.
+1. No. 2. I sensed his eagerness.
+1. No. 2. They praised the dedication in the volunteers.
+1. No. 2. The earth was believed to be round.
+1. Yes. 2. Sarah smiled a charming smile.
+1. No. 2. Sandra beamed a cheerful welcome.
+1. No. 2. You've really lived it up.
+1. No. 2. Paperback books lift onto the table easily.
+1. No. 2. The books lifted onto the table.
+1. No. 2. Jessica loaded boxes under the wagon.
+1. No. 2. Jessica loaded boxes on the wagon.
+1. Yes. 2. The correct version of your sentence would be "Jessica crammed boxes into the truck."
+1. Yes. 2. The correct version of your sentence would be "Lora buttered the toast." In this case, "at" should be replaced with "the".
+1. Yes. 2. The correct version of your sentence would be "Carla shoveled the walkway."
+1. No. 2. Nora sent the book.
+1. No. 2. Nora sent Peter the book.
+1. No. 2. Carla slid the book.
+1. Yes. 2. The correct version of your sentence would be "Carla slid on the book."
+1. No. 2. Amanda carried the package to Pamela.
+1. Yes. 2. The correct version of your sentence would be "Packages drive easily to New York City."
+1. Yes. 2. The correct version of your sentence would be "The chair pushed against the wall."
+1. No. 2. We offered a job to her.
+1. Yes. 2. The correct version of your sentence would be "A job offer was made." In this case, "offered" should be replaced with "was made".
+1. No. 2. Brown presented a plaque to Jones.
+1. No. 2. Carmen bought Mary a dress.
+1. No. 2. Carmen obtained the spare part at the hardware store.
+1. Yes. 2. The correct version of your sentence would be "Michelle kept the desk with all the papers."
+1. No. 2. Frances hid the presents in the drawer. 
+1. Yes. 2. The correct version of your sentence would be "The needle poked through the cloth." In this case, "poked" should be replaced with "pierced".
+1. No. 2. Carrie touched that cat.
+1. Yes. 2. The correct version of your sentence would be "Herman whipped cream and sugar."
+1. No. 2. Linda taped the picture to the wall.
+1. No. 2. Linda taped the picture onto the wall.
+1. No. 2. The child and her mother clung together.
+1. No. 2. This flyer and that flyer differ.
+1. Yes. 2. The correct version of your sentence would be "This flyer and that one differ."
+1. Yes. 2. The correct version of your sentence would be "The jeweler scribbled his name on the contract."
+1. No. 2. The gardener grew that acorn into an oak tree.
+1. No. 2. I shaped a loaf.
+1. Yes. 2. The correct version of your sentence would be "The children amused themselves."
+1. No. 2. Susan whispered the news.
+1. Yes. 2. The correct version of your sentence would be "Susan whispered to Rachel."
+1. No. 2. Ellen said that melons were selling well. 
+1. Yes. 2. The correct version of your sentence would be "Ellen said something about the present conditions."
+1. No. 2. Ellen warned Helen against skating on thin ice. 
+1. No. 2. Cynthia nibbled on the carrot .
+1. Yes. 2. The correct version of your sentence would be "Cynthia chewed on the carrot."
+1. No. 2. Paul laughed at Mary. 
+1. Yes. 2. The correct version of your sentence would be "Linda winked her eye." In this case, "lip" should be replaced with "eye".
+1. Yes. 2. The correct version of your sentence would be "My heart is pounding."
+1. No. 2. Sharon fainted from hunger. 
+1. No. 2. The witch poisoned the children.
+1. No. 2. A grandfather clock ticked in the hallway. 
+1. Yes. 2. The correct version of your sentence would be "I squeezed through the door."
+1. No. 2. Over the fire there bubbled a fragrant stew.
+1. No. 2. Soaring temperatures are predicted for this weekend.
+1. Yes. 2. The correct version of your sentence would be "The fort was fluttering with many flags."
+1. No. 2. The voices echoed in the hall.
+1. No. 2. The stream twists through the valley.
+1. Yes. 2. The correct version of your sentence would be "Yesterday presented itself as a wonderful opportunity." In this case, "itself" should be removed from the sentence and "as" should be added after "presented".
+1. No. 2. A wonderful opportunity presented itself to him yesterday.
+1. Yes. 2. The correct version of your sentence would be "Out of the box jumped a little white rabbit."
+1. No. 2. Penny skated around the rink. 
+1. No. 2. Jackie accompanied Rose.
+1. Yes. 2. The correct version of your sentence would be "much information was provided."
+1. Yes. 2. The correct version of your sentence would be "John offers much advice."
+1. No. 2. The cake that Jones got was more delicious than the one that Smith got.
+1. Yes. 2. The correct version of your sentence would be "We recommend that you eat less cake and pastry."
+1. No. 2. I saw that gas can explode. 
+1. Yes. 2. The correct version of your sentence would be "He washed her hair."
+1. Yes. 2. The correct version of your sentence would be "Wash yourself!"
+1. Yes. 2. The correct version of your sentence would be "They have no ins."
+1. Yes. 2. The correct version of your sentence would be "Some of my jobs are in jeopardy."
+1. Yes. 2. The correct version of your sentence would be "It was the policeman who met several young students in the park last night."
+1. No. 2. did the policeman meet in the park?
+1. No. 2. John put old books in the box.
+1. Yes. 2. The correct version of your sentence would be "The monkeys are proud of their leader."
+1. Yes. 2. The correct version of your sentence would be "John sounded very happy."
+1. No. 2. I don't know if I should agree.
+1. Yes. 2. The correct version of your sentence would be "John bought a book from/on the table."
+1. No. 2. John called the president a fool. 
+1. No. 2. I forgot how good beer tastes.
+1. No. 2. This teacher is a genius.
+1. Yes. 2. The correct version of your sentence would be "A good friend has remained with me because of him."
+1. No. 2. John ate his noodle quietly.
+1. No. 2. A smith hammered the metal. 
+1. No. 2. Sandy removed her ballet shoes.
+1. No. 2. This week will be a difficult one for us.
+1. No. 2.  Benny worked in a shoe factory when he was a student.
+1. No. 2. Everyone hoped that she would sing. 
+1. No. 2. This proved a decisive factor.
+1. No. 2. The crocodile devoured the doughnut.
+1. No. 2. John is afraid of Bill.
+1. Yes. 2. The correct version of your sentence would be "John put something under the bathtub."
+1. No. 2. John placed Kim behind the garage.
+1. Yes. 2. The correct version of your sentence would be "Kim depends on Sandy."
+1. No. 2. John put the book in the box.
+1. No. 2. John taught English Syntax to new students.
+1. No. 2. John regards Bill as a good friend.
+1. Yes. 2. The correct version of your sentence would be "Kim put something in the box."
+1. No. 2. The chickens seem fond of the farmer.
+1. No. 2. The rules require that the executives be polite.
+1. Yes. 2. The correct version of your sentence would be "That Fred was unpopular nominated Bill for something."
+1. No. 2. They were taking a hard look at possible FTA.
+1. Yes. 2. The correct version of your sentence would be "John paid me for the book."
+1. No. 2. The committee will study the feasibility of setting up a national computer network. 
+1. Yes. 2. The correct version of your sentence would be "We made them behave rudely."
+1. No. 2. After reading the pamphlet, Judy threw it into the garbage can.
+1. Yes. 2. The correct version of your sentence would be "Students studying English read Conrad's Heart of Darkness while at university."
+1. No. 2. I read some of the book.
+1. No. 2. Most of the fruit is rotten
+1. Yes. 2. The correct version of your sentence would be "Neither of the students failed."
+1. Yes. 2. The correcr version of yout sentence would be "I drank some water."
+1. Yes. 2. The correct version of your sentence would be "It's a golden hair."
+1. No. 2. The boy in the doorway waved to his father.
+1. Yes. 2. The correct version of your sentence would be "That dog is so ferocious that it even tried to bite itself."
+1. Yes. 2. The correct version of your sentence would be "He washed himself"
+1. Yes. 2. The correct version of your sentence would be "John is easy to please Kim."
+1. Yes. 2. The correct version of your sentence would be "There seemed to be intelligence."
+1. No. 2. John tried to please Stephen.
+1. Yes. 2. The correct version of your sentence would be "We believed John to be a fountain in the park."
+1. Yes. 2. The correct version of your sentence would be "It tries to leave the country."
+1. No. 2. John tries to leave the country.
+1. Yes. 2. The correct version of your sentence would be "Under the bed seems like a fun place to hide."
+1. Yes. 2. The correct version of your sentence would be "It is believed that there are sheep in the park."
+1. Yes. 2. The correct version of your sentence would be "I hope to study in France."
+1. No. 2. John can kick the ball. 
+1. Yes. 2. The correct version of your sentence would be "It will rain tomorrow."
+1. Yes. 2. The correct version is "We expect it to rain."
+1. No. 2. John was found in the office.
+1. Yes. 2. The correct version of your sentence would be "Was the child in the school?"
+1. No. 2. It did not rain.
+1. Yes. 2. The correct version of your sentence would be "John does not want to leave the town."
+1. No. 2. Mary likes to tour art galleries, but Bill hates to.
+1. No. 2. The correct version of your sentence would be "They do not need to take this exam."
+1. No. 2. The correct version of your sentence would be "Ann may spend her vacation in Italy."
+1. No. 2. They love to play golf, but I do not. 
+1. No. 2. George has spent a lot of money, hasn't he? 
+1. Yes. 2. The correct version of your sentence would be "As a statesman, he could scarcely do anything worth mentioning."
+1. No. 2. We never found any of the unicorns
+1. No. 2. One of Korea's most famous poets wrote these lines.
+1. No. 2. Somebody apparently struck the unidentified victim during the early morning hours.
+1. No. 2. The car was driven. 
+1. No. 2. Ricky can be relied on. 
+1. Yes. 2. The correct version of your sentence would be "The bed had been slept in."
+1. No. 2. A pound was weighed by the book.
+1. No. 2. Who do you think Tom saw
+1. No. 2. he had spent five thousand dollars.
+1. Yes. 2. The correct version of your sentence would be "Fed knows which politician to vote for." The word "her" should be replaced with "to".
+1. No. 2. How did you guess that he fixed the computer?
+1. Yes. 2. The correct version of your sentence would be "The committee knows whose efforts should be honored for achieving peace."
+1. No. 2. Which house does your friend live?
+1. No. 2. the baker from whom I bought these bagels left.
+1. No. 2. I found the place where we can relax.
+1. Yes. 2. The correct version of your sentence would be "Jack is the person with whom Jenny fell in love." The word "with" should be removed after "love".
+1. No. 2. There is a bench to sit on. 
+1. No. 2. I met the man who grows peaches.
+1. Yes. 2. The correct version of your sentence would be "Which topic did you choose without getting his approval?" 
+1. Yes. 2. The correct version of your sentence would be "Which topic did you get bored because Mary talked about it?" The word "because" should be replaced with "due to". Also, add a comma after "Mary talked about."
+1. No. 2. That is the reason why he resigned.
+1. No. 2. It bothers me that John coughs.
+1. Yes. 2. The correct version of your sentence would be "Pleasing John is easy." The word "to" should be removed from the beginning of the sentence
+1. No. 2. Kim is eager to please Tom.
+1. Yes. 2. The correct version of your sentence would be "That we invaded Iraq really bites."
+1. No. 2. It annoys me that Fido barks.
+1. Yes. 2. The correct version of your sentence would be "Angela achieved the best result." 
+1. No. 2. It was the peasant girl who got it.
+1. Yes. 2. The correct version of your sentence would be "That kind of person is hard to find someone to look after." The word "anyone" should be replaced with "someone". Also, consider adding a comma after "look after".
+1. No. 2. A sick owl doesn't hunt mice. 
+1. Yes. 2. The correct version of your sentence would be "Each candidate who has an interest in semantics will be admitted to the department." 
+1. Yes. 2. The correct version of your sentence would be "Each author whose contribution is written in any language other than English will provide a summary in English."
+1. No. 2.  I'm sure we even got these tickets!
+1. Yes. 2. The correct version of your sentence would be "I'm not even sure if we got these tickets!"
+1. Yes. 2. The correct version of your sentence would be "It's not because I have any sympathy for urban guerrillas that I helped him." 
+1. No. 2. It isn't because Sue said anything bad about me that I'm angry.
+1. Yes. 2. The correct version of your sentence would be "John whined because he was hungry." 
+1. No. 2. I gave Mary after the party a book.
+1. Yes. 2. The correct version of your sentence would be "As for Mary, I really like her because she's so pleasant." 
+1. Yes. 2. The correct version of your sentence would be "Although he may hate those who criticize Carter, it doesn't matter." 
+1. Yes. 2. The correct version of your sentence would be "Without a job, John wouldn't be happy." The word "no" should be replaced with "without". Also, consider adding a comma after "job".
+1. No. 2. I have much of the manuscript left to type.
+1. No. 2. He's a more reliable man.
+1. Yes. 2. The correct version of your sentence would be "I don't want any trouble."
+1. No. 2. They may grow as high as bamboo. 
+1. Yes. 2. The correct version of your sentence would be "Some of them made as many errors as twenty."
+1. Yes. 2. The correct version of your sentence would be "Sally kissed herself." The word "himself" should be replaced with "herself".
+1. Yes. 2.  The correct version of your sentence would be "Drew believes that I think Rosie loves magazine ads."
+1. No. 2. Dave, Dan, Erin, Jaime, and Alina left.
+1. No. 2. Hopefully, we'll make it through the winter without snow.
+1. Yes. 2. The correct version of your sentence would be "Blue leather shows that Betsy is pretty."
+1. No. 2. Gwen hit the baseball.
+1. Yes. 2. The correct version of your sentence would be "I hit that you knew the answer."
+1. No. 2. I've lost my wallet or I've lost my mind.
+1. No. 2. It was a brand new car that he bought.
+1. No. 2. He likes cookies and he hates crumb cake.
+1. Yes. 2. The correct version of your sentence would be "They chased the man with their car." 
+1. No. 2. I didn't have a red cent.
+1. Yes. 2. The correct version of your sentence would be "the book of poems from Blackwell takes a very long time to read."
+1. No. 2. the one with a red cover takes a very long time to read.
+1. No. 2. John has a fear of dogs.
+1. Yes. 2. The correct version of your sentence would be "The building's roof is leaking." The word "the" should be removed from both instances of "building".
+1. Yes. 2. The correct version of your sentence would be "the panther's coat is dark black." 
+1. No. 2. Colin asked if they could get a mortgage.
+1. Yes. 2. The correct version of your sentence would be "The man I saw getting into the cab robbed the bank."
+1. No. 2. I know you eat asparagus.
+1. Yes. 2.  The correct version of your sentence would be "John's drumming will always bother me."
+1. No. 2. An evil thought struck Dave.
+1. No. 2. In the classroom John put the book on the table.
+1. No. 2. Phillip gave the medal to the soldier.
+1. Yes. 2. The correct version of your sentence would be "Heidi thinks that Andy should eat salmon-flavored candy bars."
+1. No. 2. Heidi thinks that Andy should eat salmon flavored candy bars. 
+1. No. 2. He danced.
+1. Yes. 2. The correct version of your sentence would be "Did Calvin do his homework?"
+1. Yes. 2. The correct version of your sentence would be "Sylvia was slapping Jeff on the head in martial arts class."
+1. No. 2. If I am a rich man, I'd buy a diamond ring.
+1. No. 2. If he were a rich man, he'd buy a diamond ring.
+1. No. 2. John is likely to leave.
+1. No. 2. The manager laughed.
+1. Yes. 2. The correct version of your sentence would be "Was sunk?" The word "sunk" should not be used in this context as it implies past tense. Consider adding a question mark at the end to form a question.
+1. No. 2. Who did you think kissed the gorilla?
+1. No. 2. Have you seen my model airplane collection?
+1. No. 2. It seems that Lucy was mugged.
+1. No. 2. I ate a salad that was filled with lima beans.
+1. No. 2. There were four men arriving at the station when I pulled up.
+1. No. 2. Jean is reluctant to dance.
+1. No. 2. I want her to dance.
+1. No. 2. Jean persuaded Robert.
+1. No. 2. Jean wants Bill to do the Macarena.
+1. No. 2. The children admire their mother.
+1. No. 2. Who has Peter talked with?
+1. No. 2. Heidi likes her violin.
+1. Yes. 2. The correct version of your sentence would be "John thinks that Mary loves herself." 
+1. Yes. 2. The correct version of your sentence would be "Which pictures does John like of himself?" 
+1. No. 2. Any owl hunts mice.
+1. Yes. 2. The correct version of your sentence would be "Any man did not eat dinner."
+1. No. 2. A pilot could be flying this plane.
+1. Yes. 2. The correct version of your sentence would be "Everybody who attended last week's huge rally signed the petition, whomever they were."
+1. No. 2. Anybody who attended last week's huge rally signed the petition.
+1. No. 2. Any tiger has orange fur, marked with black stripes.
+1. No. 2. Any albino tiger has orange fur, marked with black stripes.
+1. No. 2. You must pick any flower you see.
+1. No. 2. Any pilot on duty today could be flying this plane.
+1. No. 2. You may pick every flower, but leave a few for Mary. 
+1. Yes. 2. The correct version of your sentence would be "The Dodgers beat the Red Sox and were defeated by the Giants."
+1. No. 2. In which car was the man seen?
+1. Yes. 2. The correct version of your sentence would be "The man whom Mary loves and Sally hates computed my tax."
+1. Yes. 2. The correct version of your sentence would be "The kennel that Mary made and Fido sleeps in has been stolen."
+1. No. 2. Tom said he would and Bill actually did eat a raw eggplant.
+1. No. 2. The wealthy young man bought that piano for his secret fiancée.
+1. No. 2. The dog stole the turkey.
+1. No. 2. a tall building
+1. No. 2. This building is tall. 
+1. No. 2. I like the book which you gave me.
+1. No. 2. Captain Wentworth wrote a letter to Anne Elliott.
+1. Yes. 2. The correct version of your sentence would be "She asked if Alison was coming to the party."
+1. Yes. 2. The correct version of your sentence would be "They realized that never had Sir Thomas been so offended." 
+1. No. 2. Fanny regretted having to talk to Aunt Norris. 
+1. No. 2. Knowing the country well, he took a short cut.
+1. No. 2. He left the train with somebody else's wallet in his pocket.
+1. No. 2.  Magnus went to Ireland.
+1. No. 2. Who did John send the book?
+1. Yes. 2. The correct version of your sentence would be "The idea dismayed the Prime Minister that the Dome was dull." 
+1. Yes. 2. The correct version of your sentence would be "He came right in without so much as a knock." 
+1. No. 2. Harriet admired Mr Knightley.
+1. No. 2. The book is boring.
+1. No. 2. Ethel wishes to ask you some awkward questions.
+1. No. 2. Emma made Harriet some food.
+1. No. 2. The window was broken with a hammer.
+1. No. 2. The fugitive lay motionless in order to avoid discovery.
+1. No. 2. The guard marched the prisoners round the yard.
+1. No. 2. Frank Churchill crossed the street.
+1. No. 2. Emma and Harriet were attacked yesterday.
+1. No. 2. Fiona might be here by 5 o'clock.
+1. No. 2. I am both expecting to get the job and of the opinion that it is a desirable one.
+1. Yes. 2. The correct version of your sentence would be "Pat was awarded the Golden Fleece Award and was very upset about it."
+1. Yes. 2. The correct version of your sentence would be "Kim alienated cats and beat his dog." 
+1. No. 2. They knew that pictures of each other would be on sale.
+1. No. 2. Which article did Terry file papers without reading?
+1. No. 2. I want to try and buy some whiskey. 
+1. Yes. 2. The correct version of your sentence would be "She goes and buys some whiskey."
+1. Yes. 2. The correct version of your sentence would be "Kim and Terry are happy." 
+1. No. 2. Kim gave a dollar to Bobbie and a dime to Jean.
+1. Yes. 2. The correct version of your sentence would be "This girl in the red coat will put pictures of Bill in the mailbox and on your desk before tomorrow."
+1. Yes. 2. The correct version of your sentence would be "This girl in the red coat will put pictures of Bill on your desk before tomorrow." 
+1. Yes. 2. The correct version of your sentence would be "This girl in the red coat will put pictures of Bill on your desk before tomorrow." 
+1. No. 2.  Ann bought a first edition of Richard III for $1000.
+1. Yes. 2. The correct version of your sentence would be "John became deadly afraid of flying." 
+1. No. 2. What John promised is to be gentle.
+1. Yes. 2. The correct version of your sentence would be "Which books about cooking does Henri want to buy?" 
+1. No. 2. I will fix the computer for Carol.
+1. No. 2. Smith loaned a valuable collection of manuscripts to the library.
+1. Yes. 2. The correct version of your sentence would be "Mary cut the paper." 
+1. Yes. 2. The correct version of your sentence would be "It took place from six to nine." 
+1. Yes. 2. The correct version of your sentence would be "Two inspectors from the INS suddenly arrived." 
+1. Yes. 2. The correct version of your sentence would be "The soup thickens as it cooks."
+1. No. 2. I gave money to the charity.
+1. No. 2. John asked.
+1. Yes. 2. I saw even the student.
+1. Yes. 2. Mary left, and John whispered.
+1. Yes. 2. The correct version of your sentence would be "Mary wonders if Bill will come."
+1. Yes. 2. The correct version of your sentence would be "Sophie will go to the theater." 
+1. No. 2. John finished the cake and drank the lemonade.
+1. Yes. 2. The correct version of your sentence would be "Mary's mother likes herself." 
+1. Yes. 2. The correct version of your sentence would be "Some of the boys fought with each other."
+1. Yes. 2. The correct version of your sentence would be "John's mother likes John." 
+1. Yes. 2. The correct version of your sentence would be "Mary revealed herself to John."
+1. Yes. 2. The correct version of your sentence would be "Mary believes that Bill saw himself." 
+1. Yes. 2. The correct version of your sentence would be "They criticized themselves."
+1. No. 2. Mary thinks that she is smart.
+1. Yes. 2. The correct version of your sentence would be "Henry found that Bill is sad." 
+1. Yes. 2. The correct version of your sentence would be "John considers himself proud of Mary."
+1. Yes. 2. You should sit before you go.
+1. No. 2. There is a nurse available.
+1. Yes. 2. The correct version of your sentence would be "Everyone hopes that everyone sleeps."
+1. No. 2. Everyone hopes that he will sleep.
+1. Yes. 2. The correct version of your sentence would be "Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech."
+1. Yes. 2. The correct version of your sentence would be "John promised Mary that he will shave himself." 
+1. No. 2. John convinced Bill that Mary should sleep.
+1. Yes. 2. The correct version of your sentence would be "I saw Bill while you were doing so Mary."
+1. No. 2. What Mary did Bill was give a book.
+1. No. 2. The bears sniffed.
+1. Yes. 2. The correct version of your sentence would be "Stealing talismans from witches is dangerous."
+1. Yes. 2. The correct version of your sentence would be "Anson demonized."
+1. Yes. 2. You kicked yourself.
+1. Yes. 2. The book that I said I'd never read.
+1. Yes. 2. The correct version of your sentence would be "Anson demonized the Khyber Pass." 
+1. No. 2. It is not true that I might be going to the party.
+1. Yes. 2. Kick you!
+1. No. 2. Jason persuaded the doctor to treat Medea.
+1. Yes. 2. The correct version of your sentence would be "Whom did you get an accurate description from?"
+1. No. 2. The Peter we all like was at the party.
+1. No. 2. The government's imposition of a fine.
+1. No. 2. Did Athena help us? 
+1. No. 2. You wanted to meet the man I saw.
+1. Yes. 2. The correct version of the sentence would be "David demonized Anson every day."
+1. Yes. 2. The correct version of the sentence would be "Is there a program about Euripides on Radio 4 tonight?"
+1. No. 2. Medea denied poisoning the phoenix.
+1. No. 2. The elixir was hidden in a hole in the ground.
+1. Yes. 2. The correct version of the sentence would be "Anson danced frantically at Trade."
+1. Yes. 2. The correct version of the sentence would be "What did you ask Medea who she gave?"
+1. No. 2. It's Anson that I like 
+1. Yes. 2. The correct version of the sentence would be "Medea tried to poison her children by giving them a potion."
+1. Yes. 2. The correct version of the sentence would be "I felt that I know you." (Note: The verb tense should be changed to past simple to reflect the speaker's feeling in the past.)
+1. Yes. 2. The correct version of the sentence would be "Can he do it?"
+1. Yes. 2. The correct version of the sentence would be "She was happy that I ate it."
+1. No. 2. Anson believed himself to be handsome.
+1. No. 2. We arrived about six o'clock
+1. Yes. 2. The correct version of the sentence would be "Gilgamesh has fought the dragon."
+1. Yes. 2. The correct version of the sentence would be "Anson thought that he was happy."
+1. No. 2. Fortunately Hermione passed biology
+1. Yes. 2. The correct version of the sentence would be "I might not go to the party and wash my hair."
+1. Yes. 2. The correct version of the sentence would be "I thought he liked me."
+1. No. 2. The butler sent the poison to Dinah
+1. Yes. 2. The correct version of the sentence would be "Jason seems to appear sick."
+1. Yes. 2. The correct version of the sentence would be "What did you ask who saw it?"
+1. No. 2. We linguists love to argue.
+1. Yes. 2. The correct version of the sentence would be "He can go."
+1. Yes. 2. The correct version of the sentence would be "How fierce was the battle?"
+1. Yes. 2. The correct version of the sentence would be "Which king did you ask which city he invaded?"
+1. Yes. 2. The correct version of the sentence would be "There are some disgruntled old pigs in those ditches that humans love to eat."
+1. Yes. 2. The correct version of the sentence would be "A monkey is eating that banana."
+1. No. 2. Burn them!
+1. Yes. 2. The correct version of the sentence would be "It stinks that Aphrodite is all-powerful."
+1. Yes. 2. The correct version of the sentence would be "Agamemnon seems to be manic."
+1. No. 2. Will Anson come to the party?
+1. No. 2. I wondered who Medea had poisoned.
+1. Yes. 2. The correct version of the sentence would be "I asked when we could leave."
+1. Yes. 2. The correct version of the sentence would be "They kicked it."
+1. Yes. 2. The correct version of the sentence would be "The monkey ate the banana."
+1. Yes. 2. The correct version of the sentence would be "I would like to be able to swim."
+1. No. 2. I kicked myself.
+1. Yes. 2. The correct version of the sentence would be "The bookcase ran." (Note that this sentence could also be interpreted as a humorous or metaphorical statement rather than a literal description.)
+1. No. 2. I shaved myself
+1. Yes. 2. The correct version of the sentence would be "Anson became muscle-bound."
