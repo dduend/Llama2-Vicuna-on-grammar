@@ -1,0 +1,1054 @@
+label	category	correction
+0	syntax	" The correct version of the sentence should be: ""The sailors rode the breeze clear of the rocks."" (Note: ""The sailors rode the breeze"" is a gerund phrase functioning as a subject, and ""clear of the rocks"" is a prepositional phrase modifying ""rode the breeze"".)
+"
+0	syntax	" The correct version of the sentence should be: ""The weights made the rope stretch over the pulley."" (Note: ""The weights made the rope stretch"" is a gerund phrase functioning as a subject, and ""over the pulley"" is a prepositional phrase modifying ""stretch"".)
+"
+0	syntax	" The correct version of the sentence should be: ""The mechanical doll wriggled itself free."" (Note: ""The mechanical doll wriggled itself"" is a gerund phrase functioning as a subject, and ""free"" is an adjective modifying ""itself"".)
+"
+0	syntax	" The correct version of the sentence should be: ""If you had eaten more, you would want less."" (Note: ""If you had eaten more"" is a past hypothetical condition, and ""you would want less"" is the result of the condition.)
+"
+0	syntax	" The correct version of the sentence should be: ""Since you eat the most, you want the least."" (Note: ""Since you eat the most"" is a present causal condition, and ""you want the least"" is the result of the condition.)
+"
+0	syntax	" The correct version of the sentence should be: ""The more you would want, the less you would eat."" (Note: ""The more you would want"" is a past hypothetical condition, and ""the less you would eat"" is the result of the condition.)
+"
+0	syntax	" The correct version of the sentence should be: ""I demand that the more John eats, the more he pays."" (Note: ""the more John eats"" is a past hypothetical condition, and ""the more he pays"" is the result of the condition.)
+"
+0	syntax	" The correct version of the sentence should be: ""Mary listens to the Grateful Dead, and she gets depressed."" (Note: ""and she gets depressed"" is a coordinating conjunction connecting two independent clauses.)
+"
+0	syntax	" The correct version of the sentence should be: ""The angrier Mary got, the more she looked at pictures."" (Note: ""The angrier Mary got"" is a past hypothetical condition, and ""the more she looked at pictures"" is the result of the condition.)
+"
+0	syntax	" The correct version of the sentence should be: ""The higher the stakes, the lower his expectations are."" (Note: ""The higher the stakes"" is a past hypothetical condition, and ""the lower his expectations are"" is the result of the condition.)
+"
+0	syntax	" The correct version of the sentence should be: ""The more Fred is obnoxious, the less attention should be paid to him."" (Note: ""The more Fred is obnoxious"" is a past hypothetical condition, and ""the less attention should be paid to him"" is the result of the condition.)
+"
+0	syntax	" The correct version of the sentence should be: ""John was much more obnoxious than Fred.""
+"
+0	syntax	" The correct version of the sentence should be: ""The more beer you give to people, the more people get sick.""
+"
+0	syntax	" The correct version of the sentence should be: ""The more Bill smokes, the more Susan hates him.""
+"
+0	syntax	" The correct version of the sentence should be: ""The more pictures of him that appear in the news, the more embarrassed John becomes."" or ""The more pictures of him that appear in the news, the more embarrassed John gets.""
+"
+0	syntax	" The correct version of the sentence should be: ""Every senator seems to become more corrupt as he talks to more lobbyists."" or ""Every senator seems to become more corrupt as he talks to more and more lobbyists.""
+"
+0	syntax	" The correct version of the sentence should be: ""Why does John visit Sally? Because he likes her."" or ""John visits Sally because he likes her.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be: ""He couldn't have been working.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be: ""Mickey looked it up.""
+"
+0	syntax	" The correct version of the sentence should be: ""There is a tendency to have a lot of discussion."" or ""There tends to be a lot of discussion.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence would be: ""The box contained the ball from under the tree.""
+"
+0	syntax	" The correct version of the sentence would be: ""The gas escaped through the tube.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence would be: ""The tub leaked water."" (Note: ""The tub"" should be ""The tub leaked"" or ""The tub had leaked"" depending on the intended meaning.)
+"
+0	syntax	" The correct version of the sentence would be: ""The water filled the bottle.""
+"
+0	syntax	" The correct version of the sentence would be: ""The water filled the entire bottle.""
+"
+0	syntax	" The correct version of the sentence would be: ""The fluid leaked from the tank."" or ""The fluid was free from the tank.""
+"
+1	none	" The correct version of the sentence is the one you provided: ""John laid the ball in the box.""
+"
+1	none	" The correct version of the sentence is the one you provided: ""John owns the book.""
+"
+0	syntax	" The correct version of the sentence would be: ""We persuaded Mary to leave and Sue to stay."" or ""We persuaded Mary to leave and Sue to remain.""
+"
+0	syntax	" The correct version of the sentence would be: ""Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.""
+"
+1	none	" The correct version of the sentence is the one you provided: ""Mary beautifully plays the violin.""
+"
+0	syntax	" The correct version of the sentence would be: ""Clearly, John will probably learn French perfectly immediately.""
+"
+1	none	" The correct version of the sentence is the one you provided: ""Sue gave Bill a book.""
+"
+1	none	" The correct version of the sentence is the one you provided: ""The men will all leave.""
+"
+1	none	" The correct version of the sentence is the one you provided: ""John went home.""
+"
+0	syntax	" The correct version of the sentence would be: ""They represented Mary seriously to the dean as a genuine linguist.""
+"
+0	syntax	" The correct version of the sentence should be: ""We love they.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be: ""I can't believe that Fred won't either.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be: ""We wanted to invite someone, but we couldn't decide who to invite.""
+"
+0	syntax	" The correct version of the sentence should be: ""Mary will read Fred's story, and Joe will read Holly's stories.""
+"
+0	syntax	" The correct version of the sentence should be: ""Mary claimed that Holly shouldn't eat cabbage.""
+"
+0	syntax	" The correct version of the sentence should be: ""Mary came to be introduced by the bartender, and I also came to be introduced.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be: ""Joe's neuroses bother his patrons, and Sally's do too.""
+"
+0	syntax	" The correct version of the sentence should be: ""I know which book José didn't read for class, and which book Lilly read it for him.""
+"
+0	syntax	" The correct version of the sentence should be: ""This is the book that Bob reviewed, and this is the one that Fred won't do.""
+"
+0	syntax	" The correct version of the sentence should be: ""I know which book Mag read, and which book Bob said that you hadn't read.""
+"
+0	syntax	" The correct version of the sentence could be: ""I know which book Mag read and which book Bob read my report that you hadn't."" or ""I know which book Mag read and which book Bob read your report that I hadn't.""
+"
+0	syntax	" The correct version of the sentence could be: ""I'm sure I would like him to eat fruit more than I would like him to eat cookies."" or ""I'm sure I would like him to eat more fruit than I would like him to eat more cookies.""
+"
+0	syntax	" The correct version of the sentence could be: ""Rusty talked about himself only after Mary did talk about him."" or ""Rusty talked about himself only after Mary had talked about him.""
+"
+0	syntax	" The correct version of the sentence could be: ""Fred talked about everything before Rusty talked about something."" or ""Fred talked about everything before Rusty talked about anything.""
+"
+1	none	" The correct version of the sentence is: ""John often meets Mary.""
+"
+0	syntax	" The correct version of the sentence could be: ""The problem is easily perceived."" or ""The problem is perceived easily.""
+"
+1	none	" The correct version of the sentence is: ""A hundred men surrounded the fort.""
+"
+0	syntax	" The correct version of the sentence could be: ""We elected me."" or ""They elected me.""
+"
+0	syntax	" The correct version of the sentence could be: ""Which report did he submit that John was incompetent?"" or ""Which report that John was incompetent did he submit?"" The second version is more common, but both versions are grammatically correct.
+"
+1	none	" The correct version of the sentence is: ""Mary has always preferred lemons to limes.""
+"
+0	syntax	" The correct version of the sentence could be: ""He let the cats out which were whining."" or ""He let the cats out and they were whining.""
+"
+1	none	" The correct version of the sentence is: ""What did Bill buy?"" It is a common and grammatically correct question used to ask for information about what Bill purchased.
+"
+1	none	" The correct version of the sentence is: ""Mary saw the boy walking towards the railroad station.""
+"
+0	syntax	" The correct version of the sentence could be: ""A proof that the claim had been made was given that John had lied."" or ""A proof that the claim had been made was given that John had made a false statement.""
+"
+0	syntax	" The correct version of the sentence could be: ""He attributed the fire which destroyed most of my factory to a short circuit which was caused by an overloaded transducer."" or ""He attributed the fire which destroyed most of my factory to an overloaded transducer which caused a short circuit.""
+"
+0	syntax	" The correct version of the sentence could be: ""The mayor regarded the proposal to build a sidewalk from Dartmouth to Smith as absurd."" or ""The mayor regarded the proposal to build a sidewalk from Dartmouth to Smith as being absurd.""
+"
+0	syntax	" The correct version of the sentence could be: ""I want Bill to remain a secret."" or ""I want Bill to leave as a secret.""
+"
+0	syntax	" The correct version of the sentence would be: ""I know a man who drives Tom as well.""
+"
+0	syntax	" The correct version of the sentence would be: ""Drowning cats, which is against the law, are hard to rescue."" (Note: there is no need to add ""are"" before ""hard"" as it is already implied in the sentence.)
+"
+0	syntax	" The correct version of the sentence would be: ""Muriel said nothing other than that she had been insulted."" (Note: ""other"" is used instead of ""than"" to indicate comparison between two things, and ""had been"" is used instead of ""that"" to indicate the past perfect tense.)
+"
+1	syntax	" The sentence is grammatically correct and does not require any changes.
+"
+1	semantics	" The sentence is grammatically correct and does not require any changes.
+"
+0	syntax	" The correct version of the sentence would be: ""The proof that this set is recursive is difficult."" (Note: ""that"" is used to introduce a clause, and ""is"" is used to link the clause to the subject ""proof"".)
+"
+0	syntax	" The correct version of the sentence would be: ""The madrigals which Henry plays on the lute and sings sound lousy."" (Note: ""on"" is used to indicate the instrument that Henry plays, and ""and sings"" is set off with a pair of commas to show that it is nonessential to the meaning of the sentence.)
+"
+0	syntax	" The correct version of the sentence would be: ""Tom picked these grapes, and I washed some turnips, and Suzie will prepare them."" (Note: ""them"" is used as a pronoun to refer to the grapes, which were previously mentioned in the sentence.)
+"
+0	syntax	" The correct version of the sentence would be: ""Where did you go, and who ate what?"" (Note: the two clauses are joined with a comma and ""and"" to show that they are closely related.)
+"
+0	syntax, morphology	" The correct version of the sentence would be: ""Whose boy did we elect as the guardian's employer's president?"" (Note: ""whose"" is used to introduce a relative clause, ""did"" is used to form the past tense of the verb, ""as"" is used to introduce a clause, and ""employer's"" is used to show possession.)
+"
+1	semantics	" The sentence is grammatically correct and does not require any changes.
+"
+0	syntax	" The correct version of the sentence would be: ""I live at the place where Route 150 crosses the river, and my dad lives at the place where Route 150 crosses the Hudson River as well."" (Note: ""and"" is used to connect the two clauses, ""the"" is used before ""place"" to specify which place is being referred to, and ""as well"" is used to show that both locations are on the river.)
+"
+0	syntax	" The correct version of the sentence would be: ""I live at the place where Route 150 crosses the Hudson River, and my dad lives there too."" (Note: ""there"" is used to refer to the place where Route 150 crosses the river, and ""too"" is used to show that both the speaker and the dad live in that place.)
+"
+0	syntax	" The correct version of the sentence would be: ""Who is she trying to make up to now?"" (Note: the verb phrase ""to make up"" is a phrasal verb, and it should not be separated by a preposition.)
+"
+0	syntax, morphology	" The correct version of the sentence would be: ""Wind was gotten from a plot to negotiate an honorable end to the war in Vietnam."" (Note: ""gotten"" is not a standard English word, and it should be replaced with ""obtained."" Additionally, ""of"" should be replaced with ""from"" to show the source of the wind.)
+"
+1	none	" The sentence is already grammatically correct.
+"
+0	syntax	" The correct version of the sentence is: ""It was expected by the reporters that the principal would fire some teachers."" (plural form of ""teacher"" is ""teachers"").
+"
+0	syntax	" The correct version of the sentence is: ""Which hat did Mike say that she never wore?"" (replacing ""quip"" with ""say"" and adding ""that"" after ""she"" to make the sentence grammatically correct).
+"
+0	syntax	" The correct version of the sentence is: ""Which girl did Mike say never wore this hat?"" (replacing ""quip"" with ""say"" and adding ""that"" after ""she"" to make the sentence grammatically correct).
+"
+0	syntax	" The correct version of the sentence is: ""We donated wire for the convicts to build cages."" (removing ""with"" at the end of the sentence to make it grammatically correct).
+"
+0	syntax	" The correct version of the sentence is ""I will not have some money.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""I won't ask you to believe that he tried to force me to give her any money.""
+"
+0	syntax	" The correct version of the sentence is ""It must have pleased somebody that Sam sometimes didn't sleep.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""That the fuzz wanted him worried John, but that the fuzz wanted her didn't worry Mary.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""Here's a knife for you to cut up the onions with.""
+"
+0	syntax	" The correct version of the sentence is ""Fluffy is sick, and not everybody knows it.""
+"
+0	syntax	" The correct version of the sentence is ""Maxwell is a quite good doctor.""
+"
+0	syntax	" The correct version of the sentence is ""The younger woman might have been tall and blonde, and the older one definitely was.""
+"
+0	syntax	" The correct version of the sentence is ""Sally is tall, and may be blonde. Sheila is short, and definitely is blonde.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""The socks are ready for you to put on them.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be ""This violin is difficult to play sonatas on it.""
+"
+0	syntax	" The correct version of the sentence would be ""My mother is easy to please, and my father is pleased as well.""
+"
+0	syntax	" The correct version of the sentence should be ""Poor Bill! It had started to rain, and he had no umbrella.""
+"
+0	syntax	" The correct version of the sentence should be ""It is terrible that the cops spoke to the janitor about that robbery yesterday.""
+"
+0	syntax	" The correct version of the sentence should be ""Every student is a swinger, and he wears socks.""
+"
+0	syntax	" The correct version of the sentence should be ""He gave my binoculars to that girl.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be ""Nobody who hates to eat anything should work in a delicatessen.""
+"
+0	syntax	" The correct version of the sentence should be ""Everybody around here who ever buys anything on credit talks in his sleep.""
+"
+0	syntax	" The correct version of the sentence should be ""I can't remember the name of someone who had misgivings.""
+"
+0	syntax	" The correct version of the sentence should be ""No writer or playwright meets in Vienna.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be ""That you will marry any student is not certain.""
+"
+0	syntax	" The correct version of the sentence should be ""Felicia kicked the ball off the bench.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""Sam gave the ball out of the basket."" (Note: There is no need to change the sentence as it is already grammatically correct.)
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""The worker will have a job."" (Note: There is no need to change the sentence as it is already grammatically correct.)
+"
+0	syntax	" The correct version of the sentence is ""No one can forgive that comment to you."" (Note: There is no need to change the sentence as it is already grammatically correct.)
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""Sarah promised Catherine her old car, but then gave it to her son instead."" (Note: There is no need to change the sentence as it is already grammatically correct.)
+"
+0	syntax	" The correct version of the sentence is: ""I lent the book to Tony partway.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is: ""The farmer dumped the cart full of apples.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is: ""Janet broke her finger on Bill.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is: ""That movie always shocks people.""
+"
+0	syntax	" The correct version of the sentence is: ""Sharon came into the room.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is: ""He turned into a frog.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is: ""Brian threw the stick over the fence.""
+"
+0	syntax	" The correct version of the sentence would be: ""Mira condemned Terry because of the accident.""
+"
+1	none	" The sentence is grammatically correct and does not require any changes.
+"
+1	none	" The sentence is grammatically correct and does not require any changes.
+"
+1	none	" The sentence is grammatically correct and does not require any changes.
+"
+1	none	" The sentence is grammatically correct and does not require any changes.
+"
+1	none	" The sentence is grammatically correct and does not require any changes.
+"
+1	none	" The sentence is grammatically correct and does not require any changes.
+"
+0	syntax	" The correct version of the sentence would be: ""You've really lived it up."" (Note: The sentence is already in the correct form, there is no need to change anything.)
+"
+0	syntax	" The correct version of the sentence would be: ""Paperback books are easy to lift onto the table."" (Note: The sentence is already in the correct form, there is no need to change anything.)
+"
+0	syntax	" The correct version of the sentence would be: ""The books lifted onto the table."" (Note: The sentence is already in the correct form, there is no need to change anything.)
+"
+0	syntax	" The correct version of the sentence would be: ""Jessica loaded the boxes under the wagon."" (Note: The sentence is already in the correct form, there is no need to change anything.)
+"
+1	none	" The sentence is already grammatically correct. Well done!
+"
+0	syntax	" The correct version of the sentence should be: ""Jessica loaded boxes into the truck.""
+"
+0	syntax	" The correct version of the sentence should be: ""Lora buttered the toast.""
+"
+0	morphology	" The correct version of the sentence should be: ""Carla shoveled the walkway."" or ""Carla shoveled the sidewalk."" (depending on the context)
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+0	syntax	" The correct version of the sentence should be: ""Carla slid the book onto the table."" or ""Carla slid the book across the table."" (depending on the context)
+"
+0	syntax	" The correct version of the sentence should be: ""Carla slid on the book."" or ""Carla slid into the book."" (depending on the context)
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+0	syntax	" The correct version of the sentence should be: ""Packages drive easily to New York."" or ""Packages can drive easily to New York."" (depending on the context)
+"
+0	syntax	" The correct version of the sentence should be: ""The chair pushed against the wall."" or ""The chair pushed the table."" (depending on the context)
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+0	syntax	" The correct version of the sentence should be: ""A job is offered"" or ""We offered a job."" (depending on the context)
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+0	syntax	" The correct version of the sentence should be: ""Carmen obtained the spare part from the hardware store."" or ""Carmen obtained the spare part at the hardware store."" (depending on the context)
+"
+0	syntax	" The correct version of the sentence should be: ""Michelle kept the desk along with the papers."" or ""Michelle kept the desk and the papers on it."" (depending on the context)
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+0	syntax	" The correct version of the sentence should be: ""The needle poked the cloth."" (poked is the past tense of the verb ""poke"")
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+0	syntax	" The correct version of the sentence should be: ""Herman whipped the cream and sugar."" (whipped is the past tense of the verb ""whip"")
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+0	syntax	" The correct version of the sentence should be: ""These flyers differ from each other."" (It is more natural to use ""these"" when referring to two or more items that are close together or that have been previously mentioned. ""differ from"" is also more natural than ""differ apart"")
+"
+0	syntax	" The correct version of the sentence should be: ""The jeweler scribbled his name on the contract."" (It is more natural to use ""his"" when referring to a specific person, ""jeweler"" is also one word)
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+0	syntax	" The correct version of the sentence should be: ""The children amused themselves."" (It is more natural to specify who is doing the amusing and what they are doing, ""themselves"" is more natural than ""amused"")
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+1	none	" The sentence is grammatically correct as it is.
+"
+0	syntax	" The correct version of the sentence should be: ""Ellen said something about the present conditions."" (It is more natural to specify what Ellen said about the present conditions, ""about"" is more natural than ""the present conditions"")
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be ""Linda winked her eye"" instead of ""Linda winked her lip"".
+"
+0	syntax	" The correct version of the sentence should be ""My heart is pounding in me"" instead of ""My heart is pounding me"".
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be ""I creaked the door"" instead of ""I squeaked the door"".
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be ""Yesterday presented itself as a wonderful opportunity"" instead of ""There presented itself a wonderful opportunity yesterday"".
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be ""A little white rabbit jumped out of the box"" instead of ""Out of the box jumped a little white rabbit"".
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence is ""much information was provided"" or ""a lot of information was provided"".
+"
+0	syntax	" The correct version of the sentence is ""John offers much advice"" or ""John provides much advice"".
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence is ""We recommend that you eat less cake and pastry"" or ""We suggest that you eat less cake and pastry"".
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence is ""He washed her hair"" or ""He washed her clothes"", depending on the intended meaning.
+"
+0	syntax, morphology	" The correct version of the sentence is ""Wash yourself!""
+"
+0	syntax	" The correct version of the sentence is ""They have no interest in"" or ""They have no involvement in"", depending on the intended meaning.
+"
+0	syntax, morphology	" The correct version of the sentence is ""Some of my jobs are in jeopardy.""
+"
+0	syntax	" The correct version of the sentence is ""It was the policeman who met several young students in the park last night.""
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence is ""The monkeys are proud of their leader.""
+"
+0	syntax	" ""John sounded very happy.""
+"
+1	none	" ""I don't know if I should agree.""
+"
+0	syntax	" ""John bought a book on the table."" could be corrected to ""John bought a book from the table."" or ""John put a book on the table."" depending on the intended meaning.
+"
+0	semantics	" The sentence is grammatically correct but it could be considered offensive or inappropriate depending on the context. The correct version of the sentence would be ""John called the president a foolish person."" which is more polite and less offensive.
+"
+0	syntax	" The correct version of the sentence would be ""I forgot how good beer tastes.""
+"
+1	none	" ""This teacher is a genius."" is grammatically correct.
+"
+0	syntax	" The correct version of the sentence would be ""A good friend has been remained to me by him.""
+"
+1	none	" ""John ate his noodle quietly."" is grammatically correct.
+"
+0	syntax	" The correct version of the sentence would be ""The smith hammered the metal.""
+"
+1	none	" ""Sandy removed her ballet shoes."" is grammatically correct.
+"
+1	none	" ""This week will be a difficult one for us."" is grammatically correct.
+"
+1	none	" ""Benny worked in a shoe factory when he was a student."" is grammatically correct.
+"
+1	none	" ""Everyone hoped that she would sing."" is grammatically correct.
+"
+1	none	" ""This proved a decisive factor."" is grammatically correct.
+"
+1	none	" ""The crocodile devoured the doughnut."" is grammatically correct.
+"
+1	none	" ""John is afraid of Bill."" is grammatically correct.
+"
+0	syntax	" The correct version of the sentence would be ""John put the bathtub under.""
+"
+1	none	" ""John placed Kim behind the garage."" is grammatically correct.
+"
+0	syntax	" The correct version of the sentence would be ""Kim depends on Sandy.""
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence would be ""Kim put the book in the box."" The pronoun ""the"" is needed to clarify which box is being referred to, and the word ""book"" should be included to provide more context about what is being put in the box.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence would be ""The rules require that the executives are polite."" The subject ""the executives"" is plural, so the verb ""are"" should be used instead of ""be."" Additionally, the word ""that"" should be added after ""require"" to make the sentence more clear and grammatically correct.
+"
+0	syntax	" The correct version of the sentence would be ""Fred was nominated by Bill, and that made him unpopular."" The sentence is grammatically correct, but it is a bit awkwardly constructed. By rephrasing it, the meaning is more clear and the sentence flows better.
+"
+0	syntax	" The correct version of the sentence would be ""They were taking a hard look at the possibility of an FTA."" The sentence is grammatically correct, but it is a bit awkwardly constructed. By rephrasing it, the meaning is more clear and the sentence flows better. Additionally, the word ""the"" should be added before ""possibility"" to make the sentence more clear.
+"
+0	syntax	" The correct version of the sentence would be ""John paid me for the book."" The sentence is grammatically correct, but it is a bit awkwardly constructed. By rephrasing it, the meaning is more clear and the sentence flows better. Additionally, the word ""for"" should be added after ""paid"" to make the sentence more clear.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence would be ""We made them be rude."" should be ""We made them be rude."" The sentence is grammatically correct, but it is a bit awkwardly constructed. By rephrasing it, the meaning is more clear and the sentence flows better. Additionally, the sentence would be more clear if it is changed to ""We made them act rudely.""
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax, morphology	" The correct version of the sentence would be ""Students studying English read Conrad's Heart of Darkness while at university.""
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence would be ""Neither of the students failed."" The sentence is grammatically correct, but it is a bit awkwardly constructed. By rephrasing it, the meaning is more clear and the sentence flows better. Additionally, the word ""the"" should be added before ""students"" to make the sentence more clear.
+"
+0	syntax	" The correct version of the sentence would be ""I drank some water."" The word ""of"" is not necessary in this sentence, and it should be removed. Additionally, the verb ""drank"" should be in the past tense as the sentence is in the past tense.
+"
+0	syntax	" The correct version of the sentence would be ""It is a golden hair."" The word ""a"" should be added before ""golden"" to make the sentence more clear and grammatically correct. Additionally, ""hair"" should be in its plural form ""hairs"" if it's referring to multiple hairs, otherwise it should be in singular form.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence should be: ""That dog is so ferocious that it even tried to bite itself."" The use of ""that"" instead of ""who"" is necessary because the subject of the sentence is a dog, which is non-human and cannot perform an action like trying to bite itself. The use of ""who"" would imply a human subject.
+"
+0	syntax	" The correct version of the sentence should be: ""He washed himself."" 
+"
+0	syntax	" The correct version of the sentence should be: ""John is easy to please."" 
+"
+0	syntax	" The correct version of the sentence should be: ""There seemed to be intelligent life."" 
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be: ""We believed John to be a fountain in the park.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be: ""Under the bed seems like a fun place to hide."" The phrase ""to be"" is unnecessary and should be replaced with ""like"" to form a complete and grammatically correct sentence.
+"
+0	syntax	" The correct version of the sentence should be: ""It is believed that there are sheep in the park.""
+"
+0	syntax, morphology	" The correct version of the sentence should be: ""I hope to study in France.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be: ""It will rain tomorrow.""
+"
+0	syntax	" The correct version of the sentence should be: ""We expect it to rain.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence should be: ""Was the child in the school?"" The use of ""be"" is unnecessary and incorrect. The correct way to form a question like this is to use the past simple form of the verb followed by ""in,"" which is the correct preposition to use in this context.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is: ""John wants not to leave the town."" should be ""John wants to not leave the town.""
+"
+0	syntax	" The correct version of the sentence is: ""Mary likes to tour art galleries, but Bill hates to."" should be ""Mary likes to tour art galleries, but Bill hates touring art galleries.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" The correct version of the sentence is: ""They love to play golf, but I do not."" should be ""They love to play golf, but I don't.""
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" As a statesman, he could scarcely do anything worth mentioning.
+"
+1	none	" The sentence is correct.
+"
+1	none	" The sentence is correct.
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" The correct version of the sentence is: ""The car was driven by someone.""
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" The bed was slept on.
+"
+0	syntax	" The book weighed a pound.
+"
+1	none	" The sentence is correct.
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" Fed knows which politician to vote for.
+"
+1	none	" The sentence is correct.
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" In which house does your friend live?
+"
+1	none	" The sentence is correct.
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" Jack is the person with whom Jenny fell in love.
+"
+1	none	" The sentence is correct.
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" Which topic did you choose without his approval?
+"
+0	syntax	" Which topic did you get bored of because Mary talked about it?
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" It bothers me that John is coughing.
+"
+0	syntax	" To please John easy.
+"
+1	none	" The sentence is correct.
+"
+1	none	" The sentence is correct.
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" Who achieved the best result was Angela. (correct sentence)
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" That kind of person is hard to find anyone to look after. (correct sentence)
+"
+1	none	" The sentence is correct.
+"
+0	syntax	" Each candidate who has an interest in semantics will be admitted to the department. (correct sentence)
+"
+0	syntax	" Each author who has contributed in any language other than English will provide a summary in English. (correct sentence)
+"
+0	syntax	" I'm sure we even got these tickets! (correct sentence)
+"
+0	syntax	" I'm even sure that we got these tickets! (correct sentence)
+"
+1	none	" It's not because I have any sympathy for urban guerrillas that I helped him.
+"
+1	syntax	" It isn't because Sue said anything bad about me that I'm angry. (correct sentence)
+"
+0	syntax	" The correct version of the sentence is: ""John whined that he was hungry.""
+"
+0	syntax	" The correct version of the sentence is: ""I gave Mary a book after the party.""
+"
+0	syntax	" The correct version of the sentence is: ""I really like Mary because she's so pleasant.""
+"
+0	syntax	" The correct version of the sentence is: ""It doesn't matter that he may hate those who criticize Carter.""
+"
+0	syntax	" The correct version of the sentence is: ""Would John be happy without a job?""
+"
+1	none	" The sentence is grammatically correct as is.
+"
+0	syntax	" The correct version of the sentence is: ""He is a more reliable man.""
+"
+0	syntax	" The correct version of the sentence is: ""I don't want any trouble.""
+"
+0	syntax	" The correct version of the sentence is: ""Bamboo can grow as high as they may.""
+"
+0	syntax	" The correct version of the sentence is: ""Some of them made as many errors as 20.""
+"
+0	syntax	" The correct version of the sentence is: ""Sally kissed herself.""
+"
+0	syntax	" The correct version of the sentence is: ""Drew believes that I think Rosie loves magazine ads.""
+"
+1	none	" The sentence is grammatically correct as is.
+"
+1	none	" The sentence is grammatically correct as is.
+"
+0	syntax	" The correct version of the sentence is: ""The blue leather shows that Betsy is pretty.""
+"
+1	none	" The sentence is grammatically correct as is.
+"
+0	syntax	" The correct version of the sentence should be: ""I hit you because you knew the answer.""
+"
+1	none	" The sentence is grammatically correct as is.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence should be: ""They chased the man with the car."" or ""They chased the man in the car."" depending on the intended meaning.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence should be: ""The book of poems by Blackwell takes a very long time to read."" or ""The book of poems, by Blackwell, takes a very long time to read."" depending on the intended meaning.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence should be: ""The building's roof is leaking."" or ""The roof of the building is leaking."" depending on the intended meaning.
+"
+0	syntax	" The correct version of the sentence should be: ""The panther's coat is dark black."" or ""The coat of the panther is dark black."" depending on the intended meaning.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence should be: ""The man I saw getting into the cab robbed the bank."" or ""I saw the man getting into a cab and he later robbed the bank."" depending on the intended meaning.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+0	syntax	" The correct version of the sentence should be: ""John's drumming will always bother me."" or ""John's drum bothers me."" depending on the intended meaning.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+1	none	" The sentence is grammatically correct and does not require any correction.
+"
+1	none	" The correct version of the sentence is: ""Phillip gave the medal to the soldier.""
+"
+0	syntax	" The correct version of the sentence is: ""Heidi thinks that Andy should eat salmon-flavored candy bars.""
+"
+0	syntax	" The correct version of the sentence is: ""Heidi thinks that Andy should eat salmon-flavored candy bars.""
+"
+1	none	" The correct version of the sentence is: ""He danced.""
+"
+0	syntax	" The correct version of the sentence is: ""Did Calvin do his homework?""
+"
+0	syntax	" The correct version of the sentence is: ""Sylvia was slapping Jeff in the head during martial arts class.""
+"
+0	morphology	" The correct version of the sentence is: ""If I were a rich man, I'd buy a diamond ring.""
+"
+0	syntax	" The correct version of the sentence is: ""If he were a rich man, he'd buy a diamond ring.""
+"
+1	none	" The correct version of the sentence is: ""John is likely to leave.""
+"
+1	none	" The correct version of the sentence is: ""The manager laughed.""
+"
+0	syntax	" The correct version of the sentence should be: ""Was sunk."" (past participle form of ""sink"" with the auxiliary verb ""was"" for past tense).
+"
+1	none	" The correct version of the sentence is: ""Who did you think kissed the gorilla?""
+"
+1	none	" The correct version of the sentence is: ""Have you seen my model airplane collection?""
+"
+1	none	" The correct version of the sentence is: ""It seems that Lucy was mugged.""
+"
+1	none	" The correct version of the sentence is: ""I ate a salad that was filled with lima beans.""
+"
+1	none	" The correct version of the sentence is: ""There were four men arriving at the station when I pulled up.""
+"
+1	none	" The correct version of the sentence is: ""Jean is reluctant to dance.""
+"
+1	none	" The correct version of the sentence is: ""I want her to dance.""
+"
+1	none	" The correct version of the sentence is: ""Jean persuaded Robert.""
+"
+1	none	" The correct version of the sentence is: ""Jean wants Bill to do the Macarena.""
+"
+1	none	" The correct version of the sentence is: ""The children admire their mother.""
+"
+1	syntax	" The correct version of the sentence should be: ""Who has Peter talked to?"" (The preposition ""to"" is used to indicate the person or thing that someone has talked to, rather than ""with"").
+"
+1	none	" The correct version of the sentence is: ""Heidi likes her violin.""
+"
+1	syntax, semantics	" The correct version of the sentence should be: ""John thinks that Mary loves herself."" (The pronoun ""herself"" is used to refer to Mary, and the verb ""loves"" is in the correct form for the subject ""Mary"".)
+"
+1	none	" The correct version of the sentence is: ""Which pictures of himself does John like?""
+"
+1	syntax	" The correct version of the sentence should be: ""Does any owl hunt mice?"" or ""Do owls hunt mice?"" (The verb ""hunts"" should be in the third person singular form, and the verb ""does"" or ""do"" should agree with the subject ""any owl"".)
+"
+0	syntax	" The correct version of the sentence is: ""No man ate dinner.""
+"
+1	none	" The sentence is grammatically correct as is.
+"
+0	syntax	" The correct version of the sentence is: ""Everybody who attended last week's huge rally signed the petition, whoever they were.""
+"
+1	none	" The sentence is grammatically correct as is.
+"
+0	syntax	" The correct version of the sentence is: ""Any tiger has orange fur marked with black stripes.""
+"
+0	syntax	" The correct version of the sentence is: ""Any albino tiger has orange fur marked with black stripes.""
+"
+1	none	" The sentence is grammatically correct as is.
+"
+0	syntax	" The correct version of the sentence is: ""Any pilot on duty today could fly this plane.""
+"
+1	none	" The sentence is grammatically correct as is.
+"
+0	syntax	" The correct version of the sentence is: ""The Dodgers beat the Red Sox, but lost to the Giants.""
+"
+1	none	" The sentence is grammatically correct as is.
+"
+0	syntax	" The correct version of the sentence is: ""Mary loves the man, but Sally hates him; he computed my tax.""
+"
+0	syntax	" The correct version of the sentence is:  ""Mary made the kennel that Fido sleeps in; it has been stolen.""
+"
+0	syntax	" The correct version of the sentence is:  ""Tom said that he would eat a raw eggplant, but Bill actually did eat one.""
+"
+0	syntax	" The correct version of the sentence should be: ""The wealthy young man bought that piano for his secret fiancée.""
+"
+1	none	" The correct version of the sentence is: ""The dog stole the turkey.""
+"
+0	syntax	" The correct version of the sentence should be: ""A tall building."" Note that the article ""a"" is used before a noun that starts with a consonant sound, while ""an"" is used before a noun that starts with a vowel sound.
+"
+1	none	" The correct version of the sentence is: ""This building is tall.""
+"
+0	syntax	" The correct version of the sentence should be: ""I like the book that you gave me."" 
+"
+1	none	" The correct version of the sentence is: ""Captain Wentworth wrote a letter to Anne Elliott.""
+"
+0	syntax	" The correct version of the sentence should be: ""She asked if Alison was coming to the party."" 
+"
+0	syntax	" The correct version of the sentence should be: ""They realized that Sir Thomas had never been so offended.""
+"
+1	none	" The correct version of the sentence is: ""Fanny regretted having to talk to Aunt Norris.""
+"
+1	none	" The correct version of the sentence is: ""Knowing the country well, he took a short cut.""
+"
+0	syntax	" The correct version of the sentence should be: ""He left the train with somebody else's wallet in his pocket.""
+"
+1	none	" The correct version of the sentence is: ""Magnus went to Ireland.""
+"
+1	none	" The correct version of the sentence is: ""Who did John send the book to?""
+"
+0	syntax	" The correct version of the sentence should be: ""The idea dismayed the Prime Minister that the Dome was dull."" 
+"
+0	syntax, morphology	" The correct version of the sentence should be: ""He came right in without so much as a knock.""
+"
+0	syntax	" The correct version of the sentence would be: ""Harriet admired Mr. Knightley."" (Note the use of a comma after ""Harriet"" and the inclusion of the period after ""Knightley."")
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+0	syntax	" The correct version of the sentence would be: ""Pat was awarded the Golden Fleece Award and was very upset about it.""
+"
+0	syntax, morphology	" The correct version of the sentence would be: ""Kim alienated the cats and beat his dog.""
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+1	none	" The sentence is already grammatically correct.
+"
+0	syntax	" The correct version of the sentence would be: ""She goes and buys some whiskey.""
+"
+0	syntax	" The correct version of the sentence would be: ""Kim and Terry are happy.""
+"
+0	syntax	" Kim gave a dollar to Bobbie and ten cents to Jean.
+"
+0	syntax	" Corrected version: ""This girl in the red coat will put a picture of Bill in the mailbox and on your desk before tomorrow.""
+"
+0	syntax	" Corrected version: ""Put a picture of Bill on your desk before tomorrow. This girl in the red coat will do the same.""
+"
+0	syntax	" Corrected version: ""This girl in the red coat will put a picture of Bill on your desk before tomorrow.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" Corrected version: ""John became deadly afraid of flying.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" Corrected version: ""Which books about cooking does Henri want to buy?""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" Corrected version: ""Mary cut the paper.""
+"
+0	syntax	" Corrected version: ""It took place from six to nine, or it was from six to nine.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" Corrected version: ""The soup thickens as it cooks.""
+"
+1	none	" The sentence is grammatically correct.
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" Corrected version: ""I saw even the student."" or ""I saw the student, even.""
+"
+0	syntax	" Corrected version: ""John whispered, 'Mary left.'""
+"
+0	syntax	" Corrected version: ""Mary wonders whether Bill will come.""
+"
+0	syntax	" The correct version of the sentence is ""Sophie will go to the theater.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""Mary's mother likes herself.""
+"
+0	syntax	" The correct version of the sentence is ""Some of the boys fought with each other.""
+"
+0	syntax	" The correct version of the sentence is ""John's mother likes herself.""
+"
+0	syntax	" The correct version of the sentence is ""Mary revealed herself to John.""
+"
+0	syntax	" The correct version of the sentence is ""Mary believes that Bill saw himself.""
+"
+0	syntax	" The correct version of the sentence is ""John heard that they criticized themselves.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""Henry found that Bill is sad.""
+"
+0	syntax	" The correct version of the sentence is ""John considers himself proud of Mary.""
+"
+0	syntax	" The correct version of the sentence is ""You should sit down before you leave.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""Everyone hopes that everyone will sleep.""
+"
+1	none	" The sentence is grammatically correct.
+"
+0	syntax	" The correct version of the sentence is ""Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech.""
+"
+0	syntax	" The correct version of the sentence should be: ""John promised Mary that he would shave himself.""
+"
+0	syntax	" The correct version of the sentence should be: ""John convinced Bill that Mary should sleep.""
+"
+0	syntax	" The correct version of the sentence should be: ""I saw Bill while you were doing so, Mary.""
+"
+0	syntax	" The correct version of the sentence should be: ""What Bill did was give a book to Mary.""
+"
+1	none	" The correct version of the sentence is: ""The bears sniffed.""
+"
+0	syntax	" The correct version of the sentence should be: ""Stealing talismans from witches is dangerous.""
+"
+0	syntax	" The correct version of the sentence should be: ""Anson demonized [someone/something].""
+"
+0	syntax	" The correct version of the sentence should be: ""You kicked yourselves.""
+"
+0	syntax	" The correct version of the sentence should be: ""The book that I said I'd never read.""
+"
+0	syntax	" The correct version of the sentence should be: ""Anson demonized the Khyber Pass.""
+"
+1	none	" The correct version of the sentence is: ""It is not true that I might be going to the party.""
+"
+0	syntax	" The correct version of the sentence should be: ""Kick you!"" (Note: The exclamation mark is necessary to indicate that the sentence is a command or imperative.)
+"
+1	none	" The correct version of the sentence is: ""Jason persuaded the doctor to treat Medea.""
+"
+0	syntax	" The correct version of the sentence should be: ""Whom did you get an accurate description of?""
+"
+0	syntax	" The correct version of the sentence should be: ""The Peter we all like was at the party.""
+"
+1	none	" The correct version of the sentence is: ""The government's imposition of a fine.""
+"
+1	none	" The correct version of the sentence is: ""Did Athena help us?""
+"
+0	syntax	" The correct version of the sentence should be: ""You wanted to meet the man I saw.""
+"
+0	syntax	" The correct version of the sentence should be: ""Anson demonized David every day.""
+"
+0	syntax	" The correct version of the sentence should be: ""Is there a program about Euripides on Radio 4 tonight?""
+"
+1	none	" The correct version of the sentence is: ""Medea denied poisoning the phoenix.""
+"
+1	none	" The correct version of the sentence is: ""The elixir was hidden in a hole in the ground.""
+"
+0	syntax	" The correct version of the sentence should be: ""Anson danced extremely frantically at Trade.""
+"
+0	syntax	" The correct version of the sentence should be: ""What did you ask Medea who she gave it to?""
+"
+0	syntax	" The correct version of the sentence should be: ""It's Anson that I like."" or ""I like Anson.""
+"
+0	syntax	" The correct version of the sentence should be: ""Medea tried to poison her children by giving them the nurse.""
+"
+0	syntax	" The correct version of the sentence should be: ""I felt that I knew you."" or ""I knew that I felt like I knew you.""
+"
+0	syntax	" The correct version of the sentence should be: ""Can he do it?""
+"
+0	syntax	" The correct version of the sentence should be: ""That she was happy made me eat it."" or ""I ate it because she was happy.""
+"
+1	none	" The correct version of the sentence is: ""Anson believed himself to be handsome.""
+"
+1	none	" The correct version of the sentence is: ""We arrived about six o'clock.""
+"
+0	syntax	" The correct version of the sentence should be: ""Gilgamesh has fought the dragon.""
+"
+0	syntax	" The correct version of the sentence should be: ""Anson thought that he was happy.""
+"
+1	none	" The correct version of the sentence is: ""Fortunately, Hermione passed biology.""
+"
+0	syntax	" The correct version of the sentence should be: ""I might not be going to the party, but I am washing my hair.""
+"
+0	syntax	" The correct version of the sentence should be: ""I thought he liked me.""
+"
+0	syntax	" The correct version of the sentence is: ""The butler sent the poison to Dinah.""
+"
+0	syntax	" The correct version of the sentence is: ""Jason seems to be sick.""
+"
+0	syntax	" The correct version of the sentence is: ""What did you ask who saw?""
+"
+1	none	" The sentence ""We linguists love to argue"" is already grammatically correct. It is a simple sentence with a subject ""we linguists"" and a predicate ""love to argue.""
+"
+0	syntax	" The correct version of the sentence is: ""He can will go.""
+"
+0	syntax	" The correct version of the sentence is: ""How fierce is the battle?""
+"
+0	syntax	" The correct version of the sentence is: ""Which king did you ask which city he invaded?""
+"
+0	syntax	" The correct version of the sentence is: ""It is some disgruntled old pigs in those ditches that humans love to eat.""
+"
+0	syntax	" The correct version of the sentence is: ""The monkey is eating the banana.""
+"
+0	syntax	" The correct version of the sentence is: ""Burn it!""
+"
+0	syntax	" The correct version of the sentence is: ""It's unfortunate that Aphrodite is omnipotent.""
+"
+0	semantics	" The correct version of the sentence is: ""Agamemnon appears to be manic.""
+"
+1	none	" The correct version of the sentence is: ""Will Anson come to the party?""
+"
+1	none	" The correct version of the sentence is: ""I wondered who Medea had poisoned.""
+"
+0	syntax	" The correct version of the sentence is: ""I asked when we could leave.""
+"
+0	syntax	" The correct version of the sentence is: ""They kicked them out."" or ""They kicked the ball."" (depending on the intended meaning).
+"
+0	syntax	" The correct version of the sentence is: ""The monkey ate the banana.""
+"
+0	syntax	" The correct version of the sentence is: ""I would like to be able to swim.""
+"
+1	syntax	" The correct version of the sentence is: ""I kicked myself.""
+"
+0	syntax	" The correct version of the sentence is: ""The bookcase fell."" or ""The bookcase moved."" (depending on the intended meaning).
+"
+1	syntax	" The correct version of the sentence is: ""I shaved myself.""
+"
+0	syntax	" The correct version of the sentence is: ""Anson became muscle-bound."""

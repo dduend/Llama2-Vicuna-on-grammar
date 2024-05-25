@@ -1,0 +1,1054 @@
+label	category
+0	" Syntax.
+"
+1	" None.
+"
+1	" None.
+"
+1	" None.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+1	" None.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None.
+"
+1	" None.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None.
+"
+1	" None.
+"
+1	" None.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None.
+"
+1	" None.
+"
+1	" None.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None.
+"
+1	" None.
+"
+1	" None.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax 
+"
+0	" The mistake is in syntax.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None
+"
+0	" The category of the mistake is syntax.
+"
+0	" The categories of the mistakes are syntax and semantics.
+"
+1	" None
+"
+1	" None.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is semantics.
+"
+0	" The categories of the mistakes are syntax and semantics.
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+1	" None
+"
+0	" Syntax and semantics.
+"
+0	" Syntax.
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax. The correct sentence would be: ""We launched the rocket to the moon, but it blew up before it got there."" The correct punctuation is to put a comma after ""moon"" to separate the two clauses. Additionally, the verb ""blew up"" should be in the past tense ""blew"" to match the past tense of the first clause ""launched."" The corrected sentence would be: ""We launched the rocket to the moon, but it blew up before it got there.""
+"
+0	" Syntax. The correct sentence would be: ""Sarah promised Catherine her old car, but then gave it to her son instead."" The correct punctuation is to put a comma after ""car"" to separate the two clauses. Additionally, the verb ""gave"" should be in the past tense ""gave"" to match the past tense of the first clause ""promised."" The corrected sentence would be: ""Sarah promised Catherine her old car, but then gave it to her son instead.""
+"
+0	" Syntax. The correct sentence would be: ""I lent the book to Tony partway."" The correct preposition to use in this sentence is ""to,"" not ""partway."" Additionally, the verb ""lent"" should be in the past tense ""lent"" to match the past tense of the phrase ""to Tony partway."" The corrected sentence would be: ""I lent the book to Tony partway.""
+"
+1	" None. Your sentence is grammatically correct. It is a simple sentence with a subject (""The farmer""), a verb (""loaded""), and a direct object (""the cart with apples""). There are no grammatical mistakes in the sentence.
+"
+0	" Syntax. The correct sentence would be: ""The farmer dumped the cartful of apples."" The correct preposition to use in this sentence is ""of,"" not ""with."" Additionally, the noun ""cart"" should be in the singular form ""cart"" and the adjective ""full"" should be used instead of ""cartful"" to describe a cart that is full of something. The corrected sentence would be: ""The farmer dumped the cartful of apples.""
+"
+0	" Syntax. The correct sentence would be: ""Martha carved a toy for the baby out of wood."" The correct preposition to use in this sentence is ""for,"" not ""of."" Additionally, the word ""baby"" should be in the singular form ""baby"" and the verb ""carved"" should be in the past tense ""carved"" to match the past tense of the phrase ""for the baby."" The corrected sentence would be: ""Martha carved a toy for the baby out of wood.""
+"
+1	" None. Your sentence is grammatically correct. It is a simple sentence with a subject (""The bread""), a verb (""cuts""), and an adverb (""easily""). There are no grammatical mistakes in the sentence.
+"
+0	" Syntax. The correct sentence would be: ""Janet broke her finger on Bill."" The correct preposition to use in this sentence is ""on,"" not ""in."" Additionally, the pronoun ""her"" should be used instead of ""Bill"" to refer to Janet's finger, and the verb ""broke"" should be in the past tense ""broke"" to match the past tense of the phrase ""her finger on Bill."" The corrected sentence would be: ""Janet broke her finger on Bill.""
+"
+1	" None. Your sentence is grammatically correct. It is a simple sentence with a subject (""Janet""), a verb (""broke""), and a direct object (""the cup""). There are no grammatical mistakes in the sentence.
+"
+1	" None. Your sentence is grammatically correct. It is a simple sentence with a subject (""The visitor""), a verb (""rang""), and a direct object (""the bell""). There are no grammatical mistakes in the sentence.
+"
+1	" None. Your sentence is grammatically correct. It is a simple sentence with a subject (""We""), a verb (""pulled""), and a direct object (""free""). There are no grammatical mistakes in the sentence.
+"
+1	" None. Your sentence is grammatically correct. It is a simple sentence with a subject (""That movie""), a verb (""always shocks""), and a direct object (""people""). There are no grammatical mistakes in the sentence. Note: The word ""shocks"" can be replaced with ""surprises"" or ""disappoints"" depending on the intended meaning of the sentence.
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax. The correct sentence would be ""The children amused themselves.""
+"
+1	" None
+"
+0	" Syntax. The correct sentence would be ""Susan whispered to Rachel.""
+"
+1	" None
+"
+0	" Syntax. The correct sentence would be ""Ellen said something about the present conditions.""
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax. The correct sentence would be ""Cynthia chewed on the carrot.""
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None.
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+1	" None.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+1	" None
+"
+1	" None. The sentence is grammatically correct and makes sense. Good job!
+"
+1	" None. The sentence is grammatically correct and makes sense. Good job!
+"
+1	" None. The sentence is grammatically correct and makes sense. Good job!
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None. The sentence is grammatically correct and makes sense. Good job!
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+0	" Syntax. Note: The sentence seems unnatural and unclear. It may be difficult to identify the specific error without more context.
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+0	" Syntax.
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax. Note: The sentence could be corrected to ""Neither of the students failed."" 
+"
+0	" Syntax. Note: The sentence could be corrected to ""I drank some water.""
+"
+0	" Syntax.
+"
+1	" None
+"
+0	" Syntax.
+"
+0	" Syntax.
+"
+0	" Syntax. Note: The sentence could be corrected to ""John is easy to please, Kim."" 
+"
+0	" Syntax. Note: The sentence could be corrected to ""There seemed to be intelligence.""
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Category of mistake: syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Category of mistake: syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Category of mistake: syntax. I would suggest rephrasing the sentence to: ""Jack is the person that Jenny fell in love with.""
+"
+1	" None
+"
+1	" None
+"
+0	" Category of mistake: syntax. I would suggest rephrasing the sentence to: ""Which topic did you choose without getting his approval?""
+"
+0	" Category of mistake: syntax. I would suggest rephrasing the sentence to: ""Which topic did you get bored of because Mary talked about it?""
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None. Note that the sentence might sound a bit informal or colloquial, but it is grammatically correct.
+"
+1	" None
+"
+0	" Category of mistake: syntax
+"
+1	" None. Note that the sentence might sound a bit awkward or old-fashioned, but it is grammatically correct.
+"
+0	" Category of mistake: syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Category of mistake: syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" The category of the mistake is syntax. 
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None.
+"
+1	" None.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None.
+"
+0	" The category of the mistake is syntax and morphology.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax and morphology.
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" The mistake is in the word order. 
+"
+0	" The mistake is in the verb tense inconsistency.
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" The category of the mistake is syntax. 
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+0	" Syntax
+"
+1	" None
+"
+1	" None
+"
+0	" Syntax
+"
+0	" The category of the mistake is syntax.
+"
+1	" None
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is semantics.
+"
+0	" The category of the mistake is semantics.
+"
+0	" The category of the mistake is syntax.
+"
+1	" None
+"
+1	" None
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistake is syntax.
+"
+0	" The category of the mistakes are syntax and morphology.
+"
+1	" None
+"
+0	" The category of the mistake is syntax.
+"
+1	" None
+"
+0	 The category of the mistake is syntax.
