@@ -1,0 +1,528 @@
+1. No 2. None 3. There are no grammar mistakes in the sentence. 4. The sentence is grammatically correct and conveys a clear meaning
+1. No 2. None 3. There are no grammar mistakes in the sentence. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that "wriggled itself loose" is not a grammatically correct phrase. 4. The correct version of the sentence would be "The mechanical doll wriggled itself free."
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically incorrect and difficult to understand 4. The correct version of the sentence would be "If you had eaten more, you would want less."
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically incorrect and difficult to understand. 4. The correct version of the sentence would be "Since you eat the most, you want the least." or "As you eat the most, you desire the least." Note: There are many ways to correct this sentence, depending on what you want to convey.
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically correct but difficult to understand and has a logical error. 4. The correct version of the sentence would be "The more you eat, the less you would want."
+1. Yes, there are several mistakes in the sentence. 2. The categories of the mistakes are syntax and semantics. 3. The mistakes are: The sentence is grammatically incorrect and difficult to understand. The verb "demand" should be in the present tense, not the present participle. The word "more" is used incorrectly, it should be "the more John eats, the more he pays." 4. The correct version of the sentence would be "I demand that the more John eats, the more he pays."
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically incorrect and difficult to understand. 4. 
+The correct version of the sentence would be "Mary listens to the Grateful Dead and gets depressed."
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically correct but difficult to understand and has a logical error. 4. The correct version of the sentence would be "The angrier Mary got, the more she looked at pictures."
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically correct but difficult to understand and has a logical error. 4. The correct version of the sentence would be "The higher the stakes, the lower his expectations are."
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically correct but difficult to understand and has a logical error. 4. The correct version of the sentence would be "The more obnoxious Fred is, the less attention you should pay to him."
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically incorrect and difficult to understand. 4. The correct version of the sentence would be "John was much more obnoxious than Fred."
+1.  Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically correct but difficult to understand and has a logical error. 4. The correct version of the sentence would be "The more beer you give to people, the more people get sick."
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically incorrect and difficult to understand. 4. The correct version of the sentence would be "The more Bill smokes, the more Susan hates him."
+1. Yes, there is a mistake in the sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is grammatically correct but difficult to understand and has a logical error. 4. The correct version of the sentence would be "The more pictures of him appear in the news, the more embarrassed John becomes."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it could be rephrased for clarity. 4. "Every senator appears to become more corrupt as they talk to more lobbyists."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it could be rephrased for clarity. 4. "Why does John visit Sally? Because he likes her."
+1. No 2. None 3. None 4. "Marianne did not leave."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it could be rephrased for clarity. 4. "He couldn't have been working."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it could be rephrased for clarity. 4. "He couldn't have been working."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it could be rephrased for clarity. 4. "Believe Bob."
+1. No 2. None 3. None 4. "John has not kissed Mary."
+1. No 2. None 3. None 4. "I said that I had never seen a place like Bangor in my life."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect due to incorrect syntax. Note: The verb "looked" is in the past tense, so it should agree with the past participle form of the verb "look up" which is "looked up". Also, "it" is not clear what it refers to in the original sentence. 4. "Mickey looked it up."
+1. No; 2. None; 3. None; 4. The correct version of the sentence is "There was a lot of discussion."
+1. No; 2. None; 3. None; 4. The correct version of the sentence is "John tried to be a good boy."
+1. No; 2. None; 3. None; 4. The correct version of the sentence is "John is eager."
+1. No; 2. None; 3. None; 4. The correct version of the sentence is "We want John to win."
+1. Yes; 2. Syntax; 3. The sentence is grammatically correct, but it could be improved by removing the unnecessary article "the" before "ball" and "tree." 4. The correct version of the sentence is "The box contained a ball from the tree."
+1. Yes; 2. Syntax; 3. The sentence is grammatically incorrect because "escaped" is not the correct verb to use with "tube." 4. The correct version of the sentence is "The tube was emptied of gas." or "The gas escaped from the tube."
+1. No; 2. None; 3. None; 4. The correct version of the sentence is "Water bubbled up out of the kettle."
+1. Yes; 2. Morphology; 3. The mistake is in the word "tub". It should be "tap" as in "The tap leaked water." 4. The correct version of the sentence is "The tap leaked water."
+1. No; 2. None; 3. None; 4. The correct version of the sentence is "What the water did to the bottle was fill it."
+1. Yes; 2. Syntax; 3. The sentence is grammatically correct, but it could be improved by removing the unnecessary article "the" before "whole bottle." 4. The correct version of the sentence is "What the water did to the whole bottle was fill it."
+1. Yes; 2. Syntax; 3. The sentence is grammatically incorrect because "fluid" is a mass noun and should not be used with the article "the". 4. The correct version of the sentence is "The tank leaked fluid." or "The fluid leaked from the tank."
+1. No; 2. None; 3. None; 4. The correct version of the sentence is "John laid the ball in the box."
+1. No; 2. None; 3. None; 4. The correct version of the sentence is "John owns the book."
+1. No; 2. None; 3. None; 4. The correct version of the sentence is "We persuaded Mary to leave and Sue to stay."
+1. Yes; 2. Syntax; 3. The sentence is grammatically correct, but it could be improved by adding a comma after "murder" to separate the two clauses. 4. The correct version of the sentence is "Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder."
+1. No; 2. None; 3. None; 4. The correct version of the sentence is "Mary plays the violin beautifully."
+1. No; 2. None; 3. None; 4. The sentence is grammatically correct.
+1. Yes; 2. Syntax; 3. The sentence is missing a verb after "gave." It should be "Sue gave the book to Bill" or "Sue gave Bill the book." 4. The correct version of the sentence is "Sue gave the book to Bill" or "Sue gave Bill the book."
+1. No; 2. None; 3. None; 4. The sentence is grammatically correct.
+1. No; 2. None; 3. None; 4. The sentence is grammatically correct.
+1. Yes; 2. Syntax; 3. The sentence is missing a verb after "represented." It should be "They represented themselves seriously to the dean as a genuine linguist." 4. The correct version of the sentence is "They represented themselves seriously to the dean as a genuine linguist."
+1. Yes; 2. Syntax; 3. The sentence is ungrammatical because the subject "Us" is plural and the verb "love" is in the third person singular. It should be "We love them" or "They love us." 4. The correct version of the sentence is "We love them" or "They love us."
+1. No; 2. None; 3. None; 4. The sentence is grammatically correct.
+1. No; 2. None; 3. None; 4. The sentence is grammatically correct.
+1. No; 2. None; 3. None; 4. The sentence is grammatically correct.
+1. Yes; 2. Syntax; 3. The sentence is ungrammatical because of the lack of a comma before "either." It should be "I can't believe Fred won't, either." 4. The correct version of the sentence is "I can't believe Fred won't, either."
+1. No; 2. None; 3. None; 4. The sentence is grammatically correct.
+1. No; 2. None; 3. None; 4. The sentence is grammatically correct.
+1. No; 2. None; 3. None; 4. The sentence is grammatically correct.
+1. Yes; 2. Syntax; 3. The sentence is ungrammatical because of the lack of a comma before the coordinating conjunction "that." It should be "Mary claimed that eating cabbage, Holly shouldn't." 4. The correct version of the sentence is "Mary claimed that eating cabbage, Holly shouldn't."
+1. Yes; 2. Syntax; 3. The sentence is ungrammatical because of the lack of a comma before the coordinating conjunction "and." It should be "Mary came to be introduced by the bartender, and I also came to be." 4. The correct version of the sentence is "Mary came to be introduced by the bartender, and I also came to be."
+1. No; 2. None; 3. None; 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is missing a conjunction to connect the two independent clauses. 4. "Joe's neuroses bother his patrons, and Sally's do too." (Corrected sentence with the addition of "and" to connect the two clauses.)
+1. Yes. 2. Syntax. 3. The sentence is missing a conjunction to connect the two independent clauses. 4. "I know which book José didn't read for class, and I know which book Lilly did it for him." (Corrected sentence with the addition of "and" to connect the two clauses.)
+1. Yes. 2. Syntax. 3. The sentence is missing a conjunction to connect the two independent clauses. 4. "This is the book which Bob reviewed, and this is the one which Fred won't read." (Corrected sentence with the addition of "and" to connect the two clauses.)
+1. Yes. 2. Syntax and Morphology. 3. The sentence contains two errors: Syntax: The sentence is missing a conjunction to connect the two independent clauses. Morphology: The verb "said" should be in its past participle form "said" to function as a past participle clause. 4. "I know which book Mag read, and which book Bob said that you hadn't." (Corrected sentence with the addition of "and" to connect the two clauses, and the use of the past participle form of "said.")
+1. Yes. 2. Syntax and Morphology. 3. The sentence contains two errors: Syntax: The sentence is missing a conjunction to connect the two independent clauses. Morphology: The verb "read" should be in its past participle form "read" to function as a past participle clause. 4. "I know which book Mag read, and which book Bob read my report that you hadn't." (Corrected sentence with the addition of "and" to connect the two clauses, and the use of the past participle form of "read.")
+1. Yes. 2. Syntax. 3. The sentence is missing a conjunction to connect the two independent clauses. 4. "I'm sure I would like him to eat fruit more than I would like him to eat cookies." (Corrected sentence with the addition of "than" to connect the two clauses.)
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it can be improved by changing the word order to: "Mary talked about him only after Rusty talked about himself." 4.  The correct version of the sentence is: "Mary talked about him only after Rusty talked about himself."
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it can be improved by changing the word order to: "Rusty talked about something before Fred talked about everything." 4. The correct version of the sentence is: "Rusty talked about something before Fred talked about everything."
+1. No. 2. None. 3. None. 4. The correct version of the sentence is: "John often meets Mary."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "perceives" is an action that is performed by a person or thing, not a thing itself. 4. The correct version of the sentence would depend on what the sentence is trying to convey. One possible correction could be: "The problem is easily perceived."
+1. No. 2. None. 3. None. 4. The correct version of the sentence is: "A hundred men surrounded the fort."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "me" is the object of the verb "elected," which should be in the plural form "us." 4. The correct version of the sentence would depend on the context of the sentence, but one possible correction could be: "We elected us."
+1. No. 2. None 3. None. 4. The correct version of the sentence is: "Which report did he submit that John was incompetent?"
+1. No 2. None. 3. None. 4. The correct version of the sentence is: "Mary has always preferred lemons to limes".
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "which were whining" is a clause that should be set off by a pair of commas, not a preposition. 4. The correct version of the sentence could be: "He let the cats out, which were whining." or "He let the cats out, and they were whining."
+1. No. 2. None. 3. None. 4. The correct version of the sentence is: "What did Bill buy?"
+1. No. 2. None. 3. None. 4. The correct version of the sentence is: "Mary saw the boy walking towards the railroad station."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the clause "that John had lied" is not set off by a pair of commas and should be set off by a pair of commas to show that it is nonessential to the sentence. 4. The correct version of the sentence could be: "A proof, that the claim had been made, was given that John had lied."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the clauses "which was caused by an overloaded transducer" and "which destroyed most of my factory" are not set off by a pair of commas and should be set off by a pair of commas to show that they are nonessential to the sentence. 4.  The correct version of the sentence could be: "He attributed the fire, which destroyed most of my factory, to a short circuit which was caused by an overloaded transducer."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the clause "regarded as being absurd" is not set off by a pair of commas and should be set off by a pair of commas to show that it is nonessential to the sentence. 4. The correct version of the sentence could be: "The mayor regarded as being absurd the proposal to build a sidewalk from Dartmouth to Smith."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the subject of the sentence is "I," but the verb "left" is in the past tense. 4. The correct version of the sentence could be: "I want Bill to leave to remain a secret."
+1. Yes 2. Syntax 3. The subject of the sentence "I know a man" is not clear. It is unclear who "Tom" and "drives as" refer to. 4. None (if I understand the intended meaning correctly) or "I know a man who drives as Tom does."
+1. Yes 2. Syntax 3. The subject of the sentence, "drowning cats," is not grammatically correct. It should be "drowning cat" or "cats that are drowning." 4. "Cats that are drowning are hard to rescue, as it is against the law."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it would be more natural to use "nothing else but that" instead of "nothing else than that." 4. "Muriel said nothing else but that she had been insulted."
+1. No 2. None 3. None 4. "Rutherford understands himself."
+1. No 2. None 3. None 4. "I feel that Arch will show up."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it would be more natural to use "that" instead of "this" to clarify that a specific set is being referred to. 4. "The proof that this set is recursive is difficult."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it would be more natural to use "that" instead of "which" to clarify the relationship between the madrigals and Henry's lute playing and singing. 4. "The madrigals that Henry plays the lute and sings sound lousy."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it would be more natural to use "I" instead of "we" when referring to yourself and Suzie. 4. "Tom picked these grapes and I washed some turnips, and Suzie will prepare these grapes."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it would be more natural to use a question mark at the end of the sentence to indicate that it is a question. 4. "Where did you go, and who ate what?"
+1. Yes 2. Syntax 3. The sentence contains two errors. The first error is the use of "we" instead of "I" or "me" to refer to the speaker. The second error is the use of "guardian's employer president" instead of "guardian's employer" or "the president's employer" to clarify who was elected. 4. "Which boy's did we elect guardian's employer president?" should be revised to "Which boy did I elect as guardian's employer president?" or "We elected the president's employer as guardian."
+1. No 2. None 3. None 4. "How sane is Peter?" is a grammatically correct sentence.
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it would be more natural to use "too" instead of "to" when referring to the Hudson River. 4. "I live at the place where Route 150 crosses the River, and my dad lives at the place where Route 150 crosses the Hudson River too."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it would be more natural to use "the place where Route 150 crosses the Hudson River" instead of "it" to clarify that both the speaker and their dad live on the same side of the river. 4. "I live at the place where Route 150 crosses the Hudson River, and my dad lives nearby."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it would be more natural to use "making up to" instead of "make up to" to describe the act of trying to reconcile with someone. 4. "Who is she trying to make up to now?" should be revised to "Who is she trying to make up to now?"
+1. Yes 2. Syntax 3. The sentence contains two errors. The first error is the use of "gotten" instead of "got" to describe the act of obtaining wind. The second error is the use of "of a plot" instead of "from a plan" or "from a scheme" to clarify the source of the plot. 4. "Wind was gotten from a plan to negotiate an honorable end to the war in Vietnam." should be revised to something like "Wind was obtained from a plan to negotiate an honorable end to the war in Vietnam."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The subject of the sentence "It" is incorrect. The sentence should start with "The reporters expected" or "The principal expected" instead. 4. The correct version of the sentence would be "The reporters expected that the principal would fire some teachers." or "The principal expected that he would fire some teachers."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the pronoun "she" does not agree in gender or number with the antecedent "Mike." Also, the verb "quip" is not appropriate in this context. 4. The correct version of the sentence would be: "Which hat did Mike say she never wore?" or "Which hat did Mike mention that she never wore?"
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect due to the use of the plural noun "convicts" and the singular noun "cages." 4. The correct version of the sentence would be "We donated wire for the convicts to build a cage with."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the verb "have" is not appropriate in this context. 4. The correct version of the sentence would be "I won't have any money."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect due to the use of the pronoun "her" without a clear antecedent. 4. The correct version of the sentence would be "I won't ask you to believe that he tried to force me to give her any money." or "I won't ask you to believe that he tried to force me to give it to her."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect due to the use of the past participle "pleased" in the past simple tense. 4. The correct version of the sentence would be "That Sam sometimes didn't sleep must have pleased someone."
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct. 4. The correct version of the sentence is "I talked to Winston about himself."
+1. Yes. 2. Syntax and Semantics. 3. The sentence is grammatically incorrect due to the use of the pronouns "him" and "her" without clear antecedents, as well as the inconsistent use of the subject "John" and "Mary." 4. The correct version of the sentence would be "That the fuzz wanted John worried, but that the fuzz wanted Mary didn't worry her."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect due to the use of the present simple tense "will be working" instead of the future simple tense "will work." 4. The correct version of the sentence would be "I'll work on it if Sam will work on it."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect due to the use of the preposition "with which" instead of "for you to use" or "for cutting the onions." 4. The correct version of the sentence would be "Here's a knife for you to cut up the onions." or "Here's a knife for cutting the onions."
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it could be improved by adding a comma after "sick" to make it clearer that "which not everybody knows" is nonessential to the meaning of the sentence. 4. Fluffy is sick, which not everybody knows.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes 2. Syntax 3. There are two errors in the sentence: The comma after "tall" is unnecessary and should be removed. The sentence is missing a conjunction to join the two clauses together. 4. The younger woman might have been tall and the older one definitely was blond.
+1. Yes 2. Syntax 3. There are two errors in the sentence: The comma after "tall" is unnecessary and should be removed. The sentence is missing a coordinating conjunction to join the two clauses together. 4. Sally is tall and may be blond, while Sheila is short and definitely is blond.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes 2. Syntax 3. There are two errors in the sentence: The phrase "for for" is redundant and should be removed. The sentence is missing a preposition to complete the phrase "put on to be planned." 4. The socks are ready for you to put them on and be planned.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes 2. Syntax 3. There is one error in the sentence: The preposition "on" is not necessary and should be removed. 4. This violin is difficult to play sonatas.
+1. Yes 2. Syntax 3. There are two errors in the sentence: The conjunction "and" is unnecessary and should be removed. The sentence is missing a coordinating conjunction to join the two clauses together. 4. My mother is easy to please my father.
+1. Yes 2. Syntax 3. There are two errors in the sentence: The use of "it" before "Bill" is ambiguous and could refer to either Bill or rain. To avoid ambiguity, the pronoun should be replaced with a noun or pronoun that clearly refers to Bill.  The sentence is missing a coordinating conjunction to join the two clauses together. 4. Poor Bill, it had started to rain, and he had no umbrella.
+1. Yes 2. Syntax 3. There are two errors in the sentence: The use of "that" before "cops" is unnecessary and should be removed. The sentence is missing a coordinating conjunction to join the two clauses together. 4. The cops spoke to the janitor about it yesterday, and that robbery is terrible.
+1. Yes 2. Syntax 3. There are two errors in the sentence: The use of "and" before "he" is unnecessary and should be removed. The sentence is missing a coordinating conjunction to join the two clauses together. 4. Every student is a swinger, and he wears socks.
+1. Yes 2. Syntax 3. There is one error in the sentence: The pronoun "him" does not clearly refer to the person who gave the girl the binoculars. To avoid ambiguity, the sentence should specify who gave the binoculars. 4. That girl was given my binoculars by John.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes 2. Syntax 3. There is one error in the sentence: The phrase "to eat" is redundant and can be omitted. 4. Nobody who hates eating should work in a delicatessen.
+1. Yes 2. Syntax 3. The sentence contains a syntax error. The subject of the second clause (who ever buys anything on credit) is not clear. It is not clear whether the subject is "everybody" or "whoever buys anything on credit." 4. The sentence should be revised to make the subject of the second clause clear.
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it could be improved in terms of clarity and specificity. 4.  The correct version of the sentence could be: "I can't remember the name of the person who had misgivings." This version specifies the person as the subject, making the meaning clearer.
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it could be improved in terms of clarity and specificity. 4.  The correct version of the sentence could be: "It is not certain that you will marry any student." This version makes the meaning clearer by changing the word order and using "it" instead of "that."
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes 2. Syntax 3. The sentence contains a syntax error. The phrase "out of the basket" is not clear about the location of the ball. It is not clear whether the ball is inside or outside the basket. The sentence should be revised to make the location of the ball clear. 4. The correct version of the sentence could be: "Sam gave the ball out of the basket." This version makes the location of the ball clear.
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes 2. Syntax 3. The sentence contains a syntax error. The phrase "to you" is not clear about the recipient of the comment. The sentence should be revised to make the recipient of the comment clear. 4. The correct version of the sentence could be: "No one can forgive that comment to me." This version specifies the recipient of the comment as "me," making the meaning clearer.
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes 2. Syntax 3. The sentence contains a syntax error. The phrase "partway to Tony" is not clear about the location of the book. It is not clear whether the book is with Tony or not. The sentence should be revised to make the location of the book clear. 4. The correct version of the sentence could be: "I lent the book to Tony partway." This version makes the location of the book clear.
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes 2. Syntax 3. The subject of the sentence is "The farmer", but the verb "dumped" is in the past tense and does not match with the subject. It should be "The farmer dumped the cart of apples" or "The farmer dumped the cart with the apples". 4. The correct version of the sentence is either "The farmer dumped the cart of apples" or "The farmer dumped the cart with the apples".
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes 2. Syntax 3. The sentence is not grammatically correct because "broke" is not a transitive verb, it is an intransitive verb. It should be "Janet broke her finger" or "Janet broke a nail on her finger". 4. The correct version of the sentence is either "Janet broke her finger" or "Janet broke a nail on her finger".
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes 2. Syntax 3. The sentence is not grammatically correct because "pulled free" is not a grammatically correct phrase. It should be "We pulled free from the rope" or "We pulled free from the situation". 4. The correct version of the sentence is either "We pulled free from the rope" or "We pulled free from the situation".
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes 2. Syntax 3. The sentence is not grammatically correct because the verb "shocks" needs an object to complete its meaning. It should be "That movie always shocks people" or "That movie always shocks the audience". 4. The correct version of the sentence is either "That movie always shocks people" or "That movie always shocks the audience".
+1. Yes 2. Syntax 3. The sentence is not grammatically correct because the verb "came" needs an object to complete its meaning. It should be "Sharon came into the room" or "Sharon came to the room". 4. The correct version of the sentence is either "Sharon came into the room" or "Sharon came to the room".
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes 2. Syntax 3. The sentence is not grammatically correct. "He turned into a frog" is a sentence with a missing verb. It should be "He turned into a frog and jumped into the pond" or "He turned into a frog and croaked loudly". 4. The correct version of the sentence is either "He turned into a frog and jumped into the pond" or "He turned into a frog and croaked loudly".
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes 2. Syntax 3. The sentence is not grammatically correct because it is not clear what is being thrown with the stick. It should be "Brian threw the stick over the fence" or "Brian threw the fence over the stick". 4. The correct version of the sentence is either "Brian threw the stick over the fence" or "Brian threw the fence over the stick".
+1. Yes 2. Syntax 3. The sentence is not grammatically correct because "condemned" is a verb that takes an object. It should be "Mira condemned Terry for the accident" or "Mira condemned Terry's actions in the accident". 4. The correct version of the sentence is either "Mira condemned Terry for the accident" or "Mira condemned Terry's actions in the accident".
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes. 2. Syntax. 3. The sentence is missing an object for the verb "beamed." 4. The correct version of the sentence would be: "Sandra beamed a cheerful welcome at/to the guests."
+1. Yes. 2. Syntax. 3. The sentence is missing an object for the verb "lived." 4. The correct version of the sentence would be: "You've really lived it up." or "You've really been living it up."
+1. Yes. 2. Syntax. 3. The sentence is missing an object for the verb "lift." 4. The correct version of the sentence would be: "Paperback books are easy to lift onto the table." or "Paperback books lift onto the table with ease."
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes. 2. Syntax. 3. The sentence is missing an object for the verb "loaded." 4. The correct version of the sentence would be: "Jessica loaded the boxes under the wagon."
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes. 2. Syntax. 3. The sentence is missing an object for the verb "cramped." 4. The correct version of the sentence would be: "Jessica crammed the boxes into the truck." or "Jessica crammed the boxes into the back of the truck."
+1. Yes. 2. Syntax. 3. The sentence is missing an object for the verb "buttered." 4. The correct version of the sentence would be: "Lora buttered the toast." or "Lora buttered a piece of toast."
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes. 2. Syntax. 3. The sentence is missing a direct object for the verb "sent." 4. The correct version of the sentence would be: "Nora sent the book to John." or "Nora sent the book." (if there is no direct recipient).
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it is awkwardly phrased. A more natural way to say it would be "Carla slid the book." 4. Carla slid the book.
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "drive" is an intransitive verb and cannot be used with the preposition "to". The correct verb to use would be "go". 4. Packages go easily to New York.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "pushed" is in the past tense and "chair" is not a commonly used noun to describe a person or animal that pushes. 4. A person pushed the chair.
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "offered" is a past participle verb and needs to be in its base form "offer" and needs a subject to complete the sentence. 4. We offered a job.
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it is awkwardly phrased. A more natural way to say it would be "Michelle kept the desk with the papers on it." 4.  Michelle kept the desk with the papers on it.
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "whipped" is an intransitive verb and cannot be used with the preposition "and". The correct way to use "whipped" would be to say "Herman whipped the cream and sugar together." 4. Herman whipped the cream and sugar together.
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it is awkwardly phrased. A more natural way to say it would be "Linda taped the picture onto the wall." 4. Linda taped the picture onto the wall.
+1. No 2. Syntax 3. The sentence is grammatically correct. 4.  None
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "differ" is an intransitive verb, which means it cannot be followed by "apart". Additionally, the preposition "apart" is not necessary in this sentence as "differ" already implies a comparison between two things. 4. The correct version of the sentence would be: "This flyer and that flyer differ." or "This flyer differs from that flyer."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the subject of the sentence is "the jeweller" which is a singular noun, but the verb "scribbled" is in its plural form "scribbled". It should be "The jeweller scribbled the contract with his hand." 4. The correct version of the sentence is: "The jeweller scribbled the contract with his hand."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the verb "amused" is in its past tense, but the sentence does not indicate the time frame in which the action occurred. The subject "children" is also plural, but the verb "amused" is not in its plural form. 4. The correct version of the sentence would be: "The children amused themselves." or "The children were amused."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the preposition "at" is not necessary in this sentence. The verb "whispered" already implies that Susan spoke to or directed her words towards Rachel. 4. The correct version of the sentence would be: "Susan whispered to Rachel." or "Susan whispered in Rachel's ear."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the preposition "about" is not necessary in this sentence. The verb "said" already implies that Ellen spoke about the present conditions. 4. The correct version of the sentence would be: "Ellen spoke about the present conditions." or "Ellen said that the present conditions were..."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the verb "chewed" is in its simple past tense, but the sentence does not indicate the time frame in which the action occurred. The subject "Cynthia" is also singular, but the verb "chewed" is not in its singular form. In addition, the preposition "on" is more commonly used to indicate the surface or object on which something is placed or done, whereas "chewed" is the past tense of the verb "chew" which means to bite and chew food. So, it is more appropriate to use "chewed on the carrot" instead of "chewed the carrot" if the sentence is referring to the action of eating the carrot. 4. The correct version of the sentence would be: "Cynthia chewed the carrot." or "Cynthia chewed on the carrot."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes 2. Syntax 3. The mistake is that "winked" is a past tense verb, and should be matched with a past tense auxiliary verb such as "had" to form the past participle. 4. The correct version of the sentence would be "Linda had winked her lip."
+1. Yes 2. Syntax 3. The mistake is that the preposition "to" is missing between "pounding" and "me." 4. The correct version of the sentence would be "My heart is pounding to me."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes 2. Syntax 3. The mistake is that "squeaked" is a past tense verb, and should be matched with a past tense auxiliary verb such as "had" to form the past participle. 4. The correct version of the sentence would be "I had squeaked the door."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes 2. Syntax 3. The mistake is that the subject of the sentence is "there," which is an inanimate object and cannot present itself. The correct subject should be a person or a group of people. 4. The correct version of the sentence would be "We presented ourselves a wonderful opportunity yesterday."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes 2. Syntax 3. The mistake is that the subject of the sentence is "many," which is an inanimate object and cannot provide information. The correct subject should be a person or a group of people. 4. The correct version of the sentence would be "We were provided with a lot of information."
+1. Yes 2. Syntax 3. The mistake is that the verb "offers" should be in its singular form, as the subject "John" is singular. 4. The correct version of the sentence would be "John offers advice."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it lacks a verb. 4. The correct version of the sentence is "We recommend that you eat less cake and pastry."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the subject "he" and the object "her" are not in agreement in number. 4. The correct version of the sentence is "He washed his hair" or "He washed her hair" (depending on the intended meaning).
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the verb "wash" requires a subject pronoun before it. 4. The correct version of the sentence is "Wash yourself!"
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it lacks a verb. 4. The correct version of the sentence is "They have no idea."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the subject "some" and the verb "are" do not agree in number. 4. The correct version of the sentence is "Some of my jobs are in jeopardy."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it uses a past participle verb "met" instead of the past simple verb "met" and also the subject "it" is not clear who or what it refers to. 4. The correct version of the sentence could be "The policeman met several young students in the park last night." or "It was the policeman who met several young students in the park last night."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the verb "proud" is not in the correct form. 4. The correct version of the sentence is "The monkeys are proud of their leader."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it lacks a verb. 4. The correct version of the sentence is "John sounded very happy/excited/etc."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it implies that the book is on the table where John is doing the action of buying. 4. The correct version of the sentence is "John bought a book and put it on the table." or "John bought a book and placed it on the table."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it lacks a verb after the subject "John". 4. The correct version of the sentence is "John called the president a fool."
+1. No. 2. None. 3. None. 4. The sentence is already grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The subject of the sentence is not clear. The sentence could mean that a good friend was left to you by him, or that a good friend is still remaining with you. 4.  The correct version of the sentence would depend on the intended meaning. If the friend was left to you, the sentence could be: "He left me a good friend." If the friend is still with you, the sentence could be: "I have a good friend that he left with me."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing an object for the verb "hammered." 4. The correct version of the sentence would be: "The smith hammered the metal." (or "He hammered the metal as a smith.")
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "put." 4. The correct version of the sentence would be: "John put something under the bathtub." (or "John put the bathtub under something.")
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The subject of the sentence is ambiguous. It could refer to the person named Kim, but it could also refer to someone or something that Sandy depends on. 4. The correct version of the sentence would depend on the intended meaning. If the sentence refers to Sandy depending on Kim, the correct version would be: "Sandy depends on Kim." If the sentence refers to Kim depending on Sandy, the correct version would be: "Kim depends on Sandy."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a preposition to complete the phrase "put in the box." Possible corrections include "put the box in," "put it in the box," or "put something in the box." 4. The correct version of the sentence depends on the intended meaning. Here are a few possible corrections: Kim put the box in. Kim put it in the box. Kim put something in the box.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence contains a grammatical error in the verb tense. It's not clear what the intended meaning is, but one possible correction is: "Fred nominated Bill as unpopular." 4. The correct version of the sentence depends on the intended meaning. Here are a few possible corrections: Fred nominated Bill as unpopular. Fred was unpopular and nominated Bill. Bill was nominated by Fred as unpopular.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "against the book" is not a prepositional phrase that makes sense in this context. It's not clear what the intended meaning is, but one possible correction is: "John paid me with the book." 4. The correct version of the sentence depends on the intended meaning. Here are a few possible corrections:  John paid me with the book. John paid me using the book. John paid me by using the book as payment.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "be rude" is in the wrong tense and form. One possible correction is: "We made them act rudely." 4. The correct version of the sentence is: "We made them act rudely."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is in the passive voice and the subject "students studying English" is not clear. One possible correction is: "While at university, students studying English read Conrad's Heart of Darkness." 4. The correct version of the sentence is: "While at university, students studying English read Conrad's Heart of Darkness."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because "of students" is not necessary and the verb "failed" is in the wrong tense. One possible correction is: "None of the students failed." 4. The correct version of the sentence is: "None of the students failed."
+1. Yes 2. Syntax 3. The subject of the sentence is "I" and the verb is "drank", which is in the past tense. The object of the sentence is "some of water". However, the preposition "of" should be followed by the object of the preposition, which is "water" in this case. 4. So, the correct syntax would be "I drank some water."
+1. Yes 2. Morphology 3. The word "hair" is an uncountable noun, which means it should not be used with the indefinite article "a". Countable nouns can be used with "a" or "an", but uncountable nouns only use "a" or "an" when they are being used in a specific context, such as a quantity or a particular item. 4. In this case, the correct form would be "It is a golden hair" or "It is some golden hairs."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but it could be improved by changing the word order to "That dog is so ferocious that it even tried to bite itself." This version makes the meaning of the sentence clearer by placing the adjective "ferocious" before the noun "dog" to emphasize that the dog is the subject of the sentence and the action of biting itself is attributed to its ferociousness. 4. 
+1. Yes 2. Syntax 3. The pronoun "yourself" is a reflexive pronoun, meaning that the subject of the sentence performs the action on themselves. 4. Therefore, the correct syntax should be "He washed himself."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because the subject of the sentence is "John" and the verb is "is easy to please Kim", which is a passive construction. The object of the sentence is "Kim", but it appears after the verb, which is not correct. 4. To correct the sentence, the subject and verb should be in the same order, and the object should come after the verb. The correct version of the sentence would be "John pleases Kim easily."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because it is not clear who or what is being referred to as "intelligent". The subject of the sentence is "there", which is an indefinite pronoun and does not make sense in this context. 4. To correct the sentence, the subject and verb should be in the same order, and the object should come after the verb. The correct version of the sentence would be "It seemed intelligent" or "There seemed to be intelligence".
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because it is not clear what "a fountain in the park" is referring to. Additionally, the phrase "to be" is used incorrectly in this context. 4. The correct version of the sentence would be "We believed John to be a fountain in the park." or "We believed John to be a fountain in the park."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes 2. Syntax 3. The sentence is grammatically correct, but the word order could be improved for clarity. 4. A possible correction could be "It seems like a fun place to hide under the bed."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because it is not clear who or what is doing the believing. Additionally, the phrase "to be" is used incorrectly in this context. 4. The correct version of the sentence would be "It is believed that there are sheep in the park" or "There are believed to be sheep in the park."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because the verb "study" is in the present tense, but the verb "hope" is in the present tense and the verb "would" is in the conditional tense. Additionally, the verb "would" is not necessary in this sentence. 4. The correct version of the sentence would be "I hope to study in France."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax 3. There is a mistake in the verb tense agreement. The verb "rain" should be in the present tense, "rains," to match the future time reference "tomorrow." 4. The correct version of the sentence is: "John will rain tomorrow."
+1. Yes. 2. Syntax. 3. There are two mistakes in the sentence. The first one is a subject-verb agreement mistake, where "there" and "will" do not agree in number. "There" is a singular pronoun, so "will" should also be singular. The second mistake is a redundancy, as "will rain" already implies future time and there is no need to add "to." 4. The correct version of the sentence is: "We expect it to rain."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is in the past tense, but it uses the helping verb "be" in the present tense. The correct verb tense for a yes/no question in the past would be "was" or "were." 4. The correct version of the sentence is: "Was the child in the school?"
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is in the present tense but uses the negative particle "not" in the wrong place. The correct order for negation in English is to put "not" after the auxiliary verb. 4. The correct version of the sentence is: "John does not want to leave the town."
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but the conjunction "but" is used incorrectly. "But" is used to contrast two opposing ideas, but in this sentence, it is only used to separate two independent clauses. A better way to connect the two clauses would be to use a comma and "and." 4.  The correct version of the sentence is: "Mary likes to tour art galleries, and Bill hates to."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it would be better to add "not" after "play" to make the sentence more explicit. 4. The correct version of the sentence is: "They love to play golf, but I do not."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it uses the adverb "scarcely" incorrectly. "Scarcely" should be followed by an adverb or a negative verb form, not a clause. 4. The correct version of the sentence is: "As a statesman, he could hardly do anything worth mentioning."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing an object for the verb "was slept". 4. The correct version of the sentence would be: "The bed was slept on."
+1. Yes. 2. Syntax. 3. The sentence is missing a preposition to indicate the method of weighing, such as "by the scale." 4.  The correct version of the sentence would be: "A pound was weighed by the scale."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb for the subject "Fed." 4. The correct version of the sentence would be: "Fed knows which politician to vote for."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb for the subject "the world." 4. The correct version of the sentence would be: "The committee knows whose efforts to achieve peace the world should honor."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb for the subject "Jenny." 4. The correct version of the sentence would be: "Jack is the person with whom Jenny fell in love."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb for the subject "you." 4. The correct version of the sentence would be: "Which topic did you choose without getting his approval?"
+1. Yes. 2. Syntax and semantics. 3. The sentence is missing a verb for the subject "you" and the meaning of the sentence is unclear. 4. The correct version of the sentence would be: "Which topic did you get bored of because Mary talked about it?"
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "that" to complete the subordinating clause. 4. The correct version of the sentence is: "It bothers me that John coughs loudly."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "bites" to complete the sentence. 4. The correct version of the sentence is: "That we invaded Iraq really bites me."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "was" to complete the sentence. 4. The correct version of the sentence is: "Angela achieved the best result."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "look after" to complete the sentence. 4. The correct version of the sentence is: "That kind of person is hard to find someone to look after."
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "hunt" to complete the sentence. 4. The correct version of the sentence is: "A sick owl doesn't hunt for mice."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "provide" to complete the sentence. 4. The correct version of the sentence is: "Each author whose contribution is written in any language other than English will provide a summary of their work in English."
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "got" to complete the sentence. 4. The correct version of the sentence is: "I'm sure we even got these tickets!"
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a comma after "John" to separate the introductory clause from the main clause. 4. The correct version of the sentence is: "That he was hungry, John whined."
+1. Yes. 2. Syntax. 3. The sentence is missing a preposition to connect "after the party" to "a book". 4. The correct version of the sentence is: "I gave Mary a book after the party."
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "as for Mary." 4. "Because she's so pleasant, as for Mary, I really like her."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "job." 4. "Without a job, John would be happy."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "man." 4. "He's a more reliable man than he was before." (or other alternative depending on context)
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "trouble." 4. "Any trouble is what I don't want." (Note: It would be better to rephrase the sentence to make it more clear and grammatically correct, for example: "I don't want any trouble.")
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb after "made." 4. "Some of them made as many errors as 20." (or "Some of them made 20 errors.")
+1. Yes 2. Syntax 3. The mistake is that the subject of the sentence, "Sally," is a pronoun and it refers to a previously mentioned noun or noun phrase. In this case, the subject should be "Sally herself" to make the sentence grammatically correct. 4. The correct version of the sentence is: "Sally kissed herself."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because "Blue leather" is an inanimate object and cannot show anything. A more appropriate sentence would be "Betsy's blue leather shows her pretty." 4. The correct version of the sentence is: "Betsy's blue leather shows her to be pretty."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because the word "that" is used as a pronoun, but it is not clear what it refers to. The sentence should be revised to make the referent of "that" clear. 4. The correct version of the sentence could be: "I hit you know the answer," or "I hit the ball that you knew the answer to."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is not grammatically correct because the subject of the sentence, "they," does not agree in number with the verb "chased." The correct verb form should be "chased the man with the car" or "chased the man with their car." 4. The correct version of the sentence is one of the following: "They chased the man with their car." "The man was chased by the car driven by they."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is not grammatically correct because of the use of the article "a" before "book of poems and from Blackwell." It should be "the book of poems and from Blackwell" to indicate that it is a specific book. Additionally, the verb "takes" should agree in number with the subject "a very long time." 4. The correct version of the sentence is: "The book of poems and from Blackwell takes a very long time to read."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the subject of the sentence is "the building," which is singular, but the verb "is leaking" is in the plural form. 4. The correct version of the sentence is: "The building's roof is leaking."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the article "the" is repeated and the adjective "dark black" is not in the correct form. 4. The correct version of the sentence is: "The panther's coat is dark black." or "The panther's coat is dark black."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is not clear who robbed the bank. It is also not clear whether the man saw someone else rob the bank or if he was the one who robbed the bank. 4. The correct version of the sentence is: "The man I saw robbing the bank got into a cab."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the subject of the sentence is "John's drum" which is not a person and it can't bother someone. Note that the verb "bother" is in the present tense and it's being done by John's drumming. Also, the subject of the sentence is "John's drumming" which is the action that is bothering the speaker. 4. The correct version of the sentence is: "John's drumming always bothers me."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes; 2. Syntax; 3. The sentence is not grammatically correct because the subject "Heidi" and the verb "thinks" do not agree in number. The correct verb form should be "think" instead of "thinks" to agree with the singular subject "Heidi." 4.  The correct version of the sentence is: "Heidi thinks that Andy should eat salmon-flavored candy bars."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes; 2. Syntax; 3. The sentence is not grammatically correct because it is a tag question, which should be written in a different way. The correct way to form a tag question is to change the statement into a question by raising the intonation at the end, and use a tag question such as "right?" to indicate that the statement is a question. 4. The correct version of the sentence is: "Did Calvin do his homework?" or "Calvin did his homework, right?"
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it could be improved by changing "If I am a rich man" to "If I were a rich man" to indicate conditional form. 4. If I were a rich man, I'd buy a diamond ring.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The verb "sunk" is in the past participle form, but it is not clear what it is referring to in the sentence. 4. The correct version of the sentence would depend on the context and what the sentence is referring to. For example, if the sentence is referring to a ship, it could be "The ship was sunk."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it could be improved by changing "I want her to dance" to "I want her to dance with me" or "I want her to dance for me" depending on the intended meaning. 4. I want her to dance with me.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The sentence should be "Who has Peter talked to?" instead of "Who has Peter talked with?" 4. The correct version of the sentence is: "Who has Peter talked to?"
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The correct word order is "John thinks that Mary loves him." The verb "love" is a transitive verb and requires an object to receive the action. In this sentence, the object is "him" (referring to John), not "himself." 4. "John thinks that Mary loves him."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The correct sentence is "An owl hunts mice." The word "any" is not necessary in this sentence as it is implied that all owls hunt mice. 4. "An owl hunts mice."
+1. Yes. 2. Syntax. 3. The correct sentence is "No man ate dinner." "Any" is usually used to refer to a hypothetical or uncertain person or thing, not to negate a statement. 4. "No man ate dinner."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The correct sentence is "Everybody who attended last week's huge rally signed the petition, whoever they were." The clause "whoever they were" is unnecessary and out of place in the sentence. 4. "Everybody who attended last week's huge rally signed the petition, whoever they were."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The correct sentence is "A tiger has orange fur, marked with black stripes." The indefinite article "a" is used before a singular noun to indicate one specific thing, while "any" is used to refer to a hypothetical or uncertain person or thing. 4. "A tiger has orange fur, marked with black stripes."
+1. Yes. 2. Syntax. 3. The correct sentence is "An albino tiger has orange fur, marked with black stripes." The adjective "albino" describes the noun "tiger," and "albino" is a specific type of tiger that is white or partially white, so it takes the definite article "an" instead of the indefinite article "a" or "any." 4. "An albino tiger has orange fur, marked with black stripes."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The correct sentence is "A pilot on duty today could be flying this plane." The word "any" is not necessary in this sentence, and the phrase "on duty today" provides more specificity and clarity. 4. "A pilot on duty today could be flying this plane."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The correct sentence is "The Dodgers beat the Red Sox but were beaten by the Giants." The phrase "and were beaten by the Giants" is redundant, as "beaten" implies a loss. 4. "The Dodgers beat the Red Sox but were beaten by the Giants."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and does not require any changes.
+1. Yes. 2. Syntax. 3. The correct sentence is "The man that Mary loves and Sally hates computed my tax." The phrase "who Mary loves and Sally hates" is a relative clause that modifies "man" and should be in the "that" form to function as a restrictive relative clause. 4. "The man that Mary loves and Sally hates computed my tax."
+1. Yes. 2. Syntax. 3. The correct sentence is "The kennel that Mary made and Fido sleeps in has been stolen." The phrase "which Mary made and Fido sleeps" is a restrictive relative clause that modifies "kennel" and should be in the "that" form for clarity and grammar. 4. "The kennel that Mary made and Fido sleeps in has been stolen."
+1. Yes. 2. Syntax. 3. The subject of the second clause ("Bill") does not agree with the verb ("did eat"). The correct verb form should be "ate" instead of "did eat" since "Bill" is the subject of the sentence. 4. "Tom said he would and Bill ate a raw eggplant."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it implies that the dog is capable of committing theft, which is not appropriate for a non-human entity. 4. The correct version of the sentence would be "Someone stole the turkey, and the dog was suspected of being the culprit."
+1. Yes. 2. Morphology. 3. The sentence is missing an article before "building." 4. The correct version of the sentence would be "A tall building."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the relative clause "which you gave me" is not set off by a pair of commas. 4. The correct version of the sentence would be "I like the book that you gave me."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the subject "Alison" and the verb "coming" do not agree in number. 4. The correct version of the sentence would be "She asked if Alison was coming to the party."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the negative construction "never had" is not set off by a pair of dashes or commas. 4. The correct version of the sentence would be "They realized that Sir Thomas had never been so offended."
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct. 4. The correct version of the sentence is "Fanny regretted having to talk to Aunt Norris."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The subject of the sentence is incorrect. Instead of "somebody else's wallet," it should be "someone else's wallet" or "someone else's pocket." 4. The correct version of the sentence is "He left the train with someone else's wallet in his pocket."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the clause "that the Dome was dull" is not set off by a pair of commas. 4. The correct version of the sentence would be "The idea dismayed the Prime Minister, that the Dome was dull."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the subject "he" and the verb "did" do not agree in number. 4. The correct version of the sentence would be "He came right in without so much as a knock."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is missing an auxiliary verb (such as "be" or "seem") to make the second clause a complete sentence. 4. "Pat was awarded the Golden Fleece Award and was very upset about it."
+1. Yes. 2. Syntax. 3. The sentence is missing a subject and verb for the second clause. (Note: The sentence contains two independent clauses and should have a conjunction to join them, such as "and" or "but". Also, the verb "beat" should have an auxiliary verb (such as "be") to make the second clause a complete sentence.) 4. "Kim alienated cats and beat his dog."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is missing an auxiliary verb to make the second clause a complete sentence. 4. "She goes and buys some whiskey."
+1. Yes. 2. Syntax. 3. The sentence is missing a plural pronoun (such as "their" or "theirs") to agree with the plural noun "Terry and Kim". 4. "Kim and Terry are happy."
+1. Yes, there is a grammar mistake in your sentence. 2. The category of the mistake is syntax. 3. The mistake is that the order of the items in the sentence is not correct. 4. The correct order is: "Kim gave a dollar to Bobbie and a dime to Jean."
+1.  Yes, there are grammar mistakes in your sentence. 2. The category of the mistake is syntax. 3. The mistakes are: The sentence is too long and complex, making it difficult to read and understand. The use of the present simple tense ("will put") is incorrect, as the action is happening in the future. It should be "will have put" to indicate future perfect tense. The use of "a picture of Bill" is incorrect, as it is not specific enough. It should be "Bill's picture" to indicate possession. 4. "This girl in the red coat will have put Bill's picture in the mailbox and on your desk before tomorrow."
+1. Yes, there is a grammar mistake in your sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is too long and repetitive. It would be better to break it into two sentences for clarity and readability. 4. "Put a picture of Bill on your desk before tomorrow." "This girl in the red coat will put a picture of Bill on your desk before tomorrow."
+1. Yes, there is a grammar mistake in your sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is too short and incomplete. It should be "This girl in the red coat will put a picture of Bill on your desk before tomorrow." 4. "This girl in the red coat will put a picture of Bill on your desk before tomorrow."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes, there is a grammar mistake in your sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is confusing and unclear. It should be "John became afraid of flying, and it was deadly." 4. "John became afraid of flying, and it was deadly."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes, there is a grammar mistake in your sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is incomplete and confusing. It should be "Henri wants to buy which books about cooking?" or "Which books about cooking does Henri want to buy?" 4. "Which books about cooking does Henri want to buy?"
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes, there is a grammar mistake in your sentence. 2. The category of the mistake is syntax. 3. The mistake is that the subject "Mary" and the verb "is cut" do not agree in number. The correct sentence would be "Mary cut the paper." 4. "Mary cut the paper."
+1. Yes, there is a grammar mistake in your sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is unclear and has a complex structure. It should be either "It was from six to nine, or it took place from six to nine." or "It was from six to nine, and it took place from six to nine." 4. "It was from six to nine, or it took place from six to nine."
+1. Yes, there is a grammar mistake in your sentence. 2. The category of the mistake is syntax. 3. The mistake is that the subject "inspectors" and the verb "arrived" do not agree in number. The correct sentence would be "Two inspectors suddenly arrived from the INS." 4. "Two inspectors suddenly arrived from the INS."
+1. Yes, there are grammar mistakes in your sentence. 2. The category of the mistake is syntax. 3. The mistake is that the sentence is ungrammatical and difficult to understand. It should be "The soup thickens as it cooks." 4. "The soup thickens as it cooks."
+1. No grammatical mistakes are detected in the sentence. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb or a verb phrase to complete the thought. 4. The correct version of the sentence would be something like "John asked for help." or "John asked about the weather." depending on the intended meaning.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb or a verb phrase to complete the thought. 4. The correct version of the sentence would be something like "I saw even the student in the class." or "I saw the student, even though they were late." depending on the intended meaning.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb or a verb phrase to complete the thought. 4. The correct version of the sentence would be something like "John whispered to Mary that she had left." or "John whispered to Mary, 'I think you left your book.'" depending on the intended meaning.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb or a verb phrase to complete the thought. 4. The correct version of the sentence would be something like "Mary wonders if Bill will come." or "Mary wonders when Bill will come." depending on the intended meaning.
+1. Yes. 2. Syntax. 3. The sentence is missing a verb or a verb phrase to complete the thought. 4. The correct version of the sentence would be something like "Sophie will go to the theater." or "Sophie will perform in the theater." depending on the intended meaning.
+1. Yes 2. Syntax 3. The subject and verb in the second clause (drank the lemonade) do not match with the subject in the first clause (John finished the cake). 4. The correct version of the sentence should be: "John finished the cake and drank the lemonade."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because "herself" is being used as the subject of the sentence, but it is not a noun. "Herself" is a reflexive pronoun, not a noun, and cannot be used as the subject of a sentence. 4. The correct version of the sentence should be: "Mary likes her mother."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because "with" is being used to indicate the relationship between "the boys" and "some of the other boys," but "with" is not the correct preposition to use in this context. 4. The correct version of the sentence should be: "Each of the boys fought some of the other boys."
+1. Yes 2. Syntax and Morphology 3. The sentence is grammatically incorrect because "himself" is being used as the object of the verb "likes," but "himself" is a reflexive pronoun and should be used as the subject of the sentence. Additionally, the singular pronoun "himself" does not agree in number with the plural noun "mother." 4. The correct version of the sentence should be: "John's mother likes himself."
+1. Yes 2. Syntax and Morphology 3. The sentence is grammatically incorrect because "himself" is being used as the subject of the sentence, but "himself" is a reflexive pronoun and should be used as the object of the verb "revealed." 4. The correct version of the sentence should be: "Mary revealed herself to John." 
+1. Yes 2. Syntax and Morphology 3. The sentence is grammatically incorrect because "himself" is being used as the object of the verb "saw," but "himself" is a reflexive pronoun and should be used as the subject of the sentence. Additionally, the verb "saw" is in the past tense, but it is not clear from the context whether the action of seeing occurred in the past or not. 4. The correct version of the sentence should be: "Mary believes that Bill saw himself."
+1. Yes 2. Syntax and Morphology 3. The sentence is grammatically incorrect because "themselves" is being used as the object of the verb "criticized," but "themselves" is a reflexive pronoun and should be used as the subject of the sentence. Additionally, the verb "criticized" is in the past tense, but it is not clear from the context whether the action of criticizing occurred in the past or not. 4. The correct version of the sentence should be: "John heard that they criticized themselves."
+1. No grammatical mistakes are detected in the sentence. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it could be improved by adding more detail or clarity. 4.  The correct version of the sentence could be "Henry found that Bill was sad" or "Henry discovered that Bill had a sad expression on his face."
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it could be improved by changing the word order for clarity and emphasis. 4. The correct version of the sentence could be "Mary makes John feel proud" or "John feels proud of Mary's accomplishments."
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it could be improved by changing the word order for clarity. 4. The correct version of the sentence could be "Sit before there" or "Sit down before you leave."
+1. No grammatical mistakes are detected in the sentence. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically correct, but it could be improved by changing the word order for clarity and emphasis. 4. The correct version of the sentence could be "Everyone hopes that everyone sleeps" or "Everyone hopes for a peaceful night's sleep."
+1. No grammatical mistakes are detected in the sentence. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes 2. Syntax. 3. The sentence is grammatically correct, but it could be improved by changing the word order for clarity and emphasis. 4. The correct version of the sentence could be "Churchill was the only one who remembered Churchill giving the Blood, Sweat and Tears speech" or "Churchill was the only one who recalled Churchill giving the Blood, Sweat and Tears speech."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is not clear what the subject of the sentence is. 4. The correct version of the sentence could be "John promised Mary that he would shave himself" or "John promised Mary that he would shave."
+1. No grammatical mistakes are detected in the sentence. 2. None. 3. None. 4. The sentence is grammatically correct.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is not clear what the subject of the sentence is and the verb tense is inconsistent. 4. The correct version of the sentence could be "While I was watching, you did so did Mary" or "While I was watching, you did so and Mary did as well."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is missing a subject and the verb "is" is not followed by a predicate adjective. 4. The correct version of the sentence could be "Stealing talismans from witches is dangerous" or "It is dangerous to steal talismans from witches."
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is missing a verb and the word "demonized" is not a verb. 4. The correct version of the sentence could be "Anson demonized the demon" or "Anson demonized the monster."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the clause "that I said that I'd never read" is not set off by a pair of commas, and it is not clear whether it is nonessential or essential to the meaning of the sentence. 4. Here are two possible ways to correct the sentence: The book that I said I'd never read. The book that I'd never read, which I said I would.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is not clear what the subject of the sentence is. The phrase "Anson demonized up the Khyber" does not have a clear subject, and it is not clear what the verb "demonized" means in this context. 4. Here are two possible ways to correct the sentence: Anson demonized the Khyber Pass. Anson demonized the Khyber Pass by attacking it.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is a command, but it is missing the word "not" at the end, which is necessary to make it a polite request. 4. Here is the correct version of the sentence: "Please kick me."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because the phrase "an accurate description of" is in the wrong place. It should come after the word "who." 4. Here is the correct version of the sentence: "Whom did you get an accurate description of?"
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it does not specify which Peter is being referred to. 4. Here are two possible ways to correct the sentence: The Peter that we all like was at the party. The Peter who we all like was at the party.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes. 2. Syntax. 3. The sentence is grammatically incorrect because it is not clear who is doing the wanting. 4. Here are two possible ways to correct the sentence: I wanted to meet the man you saw. You wanted to meet the man I saw.
+1. Yes 2. Syntax 3. The sentence is missing an object for the verb "demonized". It should be "Anson demonized David every day" or "Anson demonized something/someone every day". 4. Corrected sentence: "Anson demonized David every day."
+1. Yes 2. Syntax 3. The sentence is missing an auxiliary verb to form a question. It should be "Is there a programme about Euripides on Radio 4 tonight?" or "Are there programmes about Euripides on Radio 4 tonight?". 4. Corrected sentence: "Is there a programme about Euripides on Radio 4 tonight?"
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes 2. Syntax 3. The sentence is missing a verb to connect the two clauses. It should be "Extremely frantically, Anson danced at Trade" or "Extremely frantically, Anson danced at Trade (past tense)". 4. Corrected sentence: "Extremely frantically, Anson danced at Trade."
+1. Yes 2. Syntax 3. The sentence is missing a verb to connect the two clauses. It should be "What did you ask (someone) who Medea gave?" or "What did you ask (someone) who Medea gave (past tense)?" 4. Corrected sentence: "What did you ask (someone) who Medea gave (past tense)?"
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes 2. Syntax 3. The sentence is missing a verb to connect the two clauses. It should be "Medea tried (to poison) her children" or "Medea tried (to poison) her children (past tense)". Note: The corrected sentence assumes that "poison" is a transitive verb and therefore requires a direct object to complete the meaning of the sentence. If "poison" is an intransitive verb, the corrected sentence should be "Medea tried to poison her children (past tense)". 4. Corrected sentence: "Medea tried (to poison) her children (past tense)".
+1. Yes 2. Syntax 3. The sentence is missing a verb to connect the two clauses. It should be "I felt that I know you" or "I felt that I know you (past tense)". 4. Corrected sentence: "I felt that I knew you (past tense)".
+1. Yes 2. Syntax 3. The sentence is missing a verb to complete the sentence. It should be "Will he be able to do it?" or "Will he be able to do it (past tense)?" 4. Corrected sentence: "Will he be able to do it (past tense)?"
+1. Yes 2. Syntax 3. The sentence is missing a verb to connect the two clauses. It should be "I ate that she was happy" or "I ate that she was happy (past tense)". 4. Corrected sentence: "I ate that she was happy (past tense)".
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes 2. Syntax 3. The sentence is missing a verb to connect the two clauses. The corrected sentence assumes that "fought" is a verb and requires a linking verb to connect the two clauses. The use of the present perfect tense "has/have fought" or the past perfect tense "had fought" depends on the intended time frame of the action. If the action is completed before the time of speaking or writing, use the past perfect tense. If the action is ongoing or will be completed in the future, use the present perfect tense. 4. Corrected sentence: "Gilgamesh has fought the dragon" or "Gilgamesh had fought the dragon (past perfect tense)".
+1. Yes 2. Syntax 3. The subject of the sentence, "Anson," is repeated in the predicate, "was happy." This is known as redundancy and is a common mistake in grammar. 4. "Anson thought that he was happy."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes 2. Syntax 3. The sentence is confusing because the subject, "I," is doing two different actions in the same sentence: going to the party and washing my hair. This creates a problem in sentence structure and makes it difficult to understand the intended meaning. 4. "I might not go to the party, but I will wash my hair."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because "liked" is in the past tense, and "myself" is an object of the verb, but it is not clear who the subject of the sentence is. 4. "I thought he liked me."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because it is using multiple "to be" verbs in the same sentence, which creates confusion and makes it difficult to understand the intended meaning. 4. "Jason appears to be sick."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because it is asking two questions in one sentence, which creates confusion and makes it difficult to understand the intended meaning. 4. "What did you ask?"
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because the verb "go" is in its base form, which is typically used for statements, not for offers or promises. The correct form for offering to do something would be "can/will go." 4. "He can/will go."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because it is missing a verb. 4. "How fierce is the battle?"
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because it is asking two questions in one sentence, which creates confusion and makes it difficult to understand the intended meaning. 4. "Which king did you ask about the city that was invaded?"
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because it is missing a verb. 4. "It is some disgruntled old pigs in those ditches that humans love to eat."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because the verb "is eating" is in the progressive form, which is usually used for actions that are happening at the moment of speaking, but in this sentence, it is not clear who or what is performing the action. 4. "The monkey is eating that banana."
+1. No. 2. None. 3. None. 4. The sentence is grammatically correct and conveys a clear meaning.
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because the adjective "omnipotent" is modifying "Aphrodite," but "Aphrodite" is not a noun in this sentence. It is unclear what the intended meaning is. 4. "It stinks that Aphrodite is powerful."
+1. Yes 2. Syntax 3. The sentence is grammatically incorrect because there is no verb after "seems" to make the sentence a complete thought. 4. "Agamemnon seems to be a maniac."
+1. No, there are no grammar mistakes in your sentence. 2. N/A (there are no mistakes to categorize) 3. None 4. The correct version of the sentence is already "Will Anson come to the party?"
+1. No, there are no grammar mistakes in your sentence. 2. None 3. None 4. The correct version of the sentence is already "I wondered who Medea had poisoned."
+1. Yes, there is a grammar mistake in your sentence. 2. Syntax 3. The subject "I" and the verb "inquired" do not agree in number. The verb "inquired" should be in its third-person form "inquired" to agree with the subject "we." 4. The correct version of the sentence is "I inquired when we could leave."
+1. Yes, there is a grammar mistake in your sentence. 2. Syntax 3. The sentence is missing a main verb after "kicked." 4. The correct version of the sentence should be "They kicked them out." or "They kicked them hard." depending on the intended meaning.
+1. Yes, there is a grammar mistake in your sentence. 2. Syntax 3. The verb "ate" should be in its past participle form "eaten" to function as the past participle of the auxiliary verb "is." 4. The correct version of the sentence is "The monkey has eaten the banana."
+1. Yes, there are grammar mistakes in your sentence. 2. Syntax and Morphology 3. The sentence is missing a main verb after "like to could." Also, the verb "could" should be in its base form "could" as it is the second verb in the verb phrase "could swim." 4. The correct version of the sentence is "I would like to swim." or "I would like to be able to swim." depending on the intended meaning
+1. No, there are no grammar mistakes in your sentence. 2. None 3. None 4. The correct version of the sentence is "I kicked myself."
+1. Yes, there is a grammar mistake in your sentence. 2. Syntax 3. The sentence is missing a main verb after "ran." 4. The correct version of the sentence should be "The bookcase ran away." or "The bookcase ran towards the door." depending on the intended meaning.
+1. No, there are no grammar mistakes in your sentence. 2. None 3. None 4. The correct version of the sentence is "I shaved myself."
+1. Yes, there is a grammar mistake in your sentence. 2. Syntax 3. The sentence is missing a main verb after "became." 4. The correct version of the sentence should be "Anson became muscle-bound." or "Anson became muscular." depending on the intended meaning.
